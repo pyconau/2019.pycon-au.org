@@ -1,0 +1,10 @@
+.sass-cache
+.sass-cache/*
+*.swp
+_site
+Gemfile.lock
+_site
+.bundle
+
+# don't override the CNAME
+CNAME 

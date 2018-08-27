@@ -1,0 +1,31 @@
+<meta charset="utf-8">
+<title>PyCon AU 2019 | {{ page.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" type="image/x-icon" href="/static/img/favicon.png">
+<link href="https://fonts.googleapis.com/css?family=Catamaran:400,700|PT+Sans:400,700&amp;subset=latin-ext" rel="stylesheet">
+
+<!-- CSS -->
+<link rel="stylesheet" href="/static/css/bootstrap-4.1.0.min.css">
+<link rel="stylesheet" href="/static/css/pycon.css">
+
+<!-- Cards -->
+{% assign description = page.abstract | escape | newline_to_br or page.description %}
+<meta property="og:title"  content="PyCon AU 2019 | {{ page.title }}">
+<meta property="og:url"    content="{{ page.url | prepend: site.url }}">
+<meta property="og:description" content="{{ description }}">
+<meta name="twitter:title" content="PyCon AU 2019 | {{ page.title }}" />
+<meta name="twitter:site"  content="@pyconau">
+<meta name="twitter:description" content="{{ description }}" />
+
+{%- if page.card %}
+{% assign card = page.card | prepend: "/static/img/cards/" | prepend: site.url -%}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ card }}" />
+<meta property="og:image"  content="{{ card }}" />
+{% else %}
+{% assign image = "/static/img/pyconau.png" | prepend: site.url %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ image }}" />
+<meta property="og:image"  content="{{ image }}" />
+{% endif %}

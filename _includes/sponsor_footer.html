@@ -1,0 +1,22 @@
+<hr>
+<div class="container page-content sponsor-foot">
+    <div class="row">
+        <div class="col">
+{% for level in site.data.sponsors %}
+  {% unless level.placeholder %}
+  <div style="text-align: center">
+  <h3>{{ level.title }}</h3>
+  <div style="text-align: center">
+  {% for sponsor in level.sponsors %}
+      {% unless sponsor.placeholder %}
+        <a href="{%if sponsor.href%}{{sponsor.href}}{%else%}{{sponsor.link}}{%endif%}">
+        <img src="/static/img/sponsors/{{sponsor.logo}}" {% if sponsor.width %} alt="{{sponsor.name}}" style="width:{{sponsor.width}}; margin: 10px;  height: auto; " {%endif%} class="sponsorgray {{level.title | split: " " | first | downcase }}"></a>
+      {% endunless %}
+  {% endfor %}
+  </div>
+  </div>
+  {% endunless %}
+{% endfor %}
+        </div>
+    </div>
+</div>

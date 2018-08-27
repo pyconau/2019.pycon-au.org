@@ -1,0 +1,10 @@
+- 
+  title: Auspice
+  sponsors: 
+    - name: Linux Australia
+      logo: LinuxAustralia.png
+      link: linux.org.au
+      href: https://linux.org.au
+      blurb: | 
+        Linux Australia is the peak body for Open Source communities in
+        Australia. PyCon AU 2019 is run under the auspice of Linux Australia. 

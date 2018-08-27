@@ -1,0 +1,43 @@
+port: 4000
+base_author: "the Organisers"
+permalink: /news/:title/
+
+encoding: "bom|utf-8"
+
+# Navigation
+navigationLinks:
+ - {permalink: '/about/', text: "About"}
+ - {permalink: '/news/', text: "News"}
+ - {permalink: '/sponsor/', text: "Sponsor"}
+ - {permalink: '/conduct/', text: "Conduct"}
+
+conferenceDays:
+ - Friday
+ - Saturday
+ - Sunday
+ - Monday
+ - Tuesday
+
+attendLinks:
+
+include: 
+ - _pages
+
+exclude:
+ - README.md
+ - CNAME
+ - Gemfile
+ - Gemfile.lock
+ - new_post
+
+future: true
+
+timezone: "AEST"
+
+collections:
+    talks:  
+        output: true
+        permalink: /:collection/:name/
+
+plugins:
+  - jemoji
