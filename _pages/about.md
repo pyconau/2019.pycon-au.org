@@ -40,7 +40,7 @@ PyCon AU 2019 will be held in Sydney, Australia, at the [International Conventio
 
 - August 2: Specialist Tracks
 - August 3 - 4: Conference Main Track 
-- August 5 - 6: Devlepment Sprints
+- August 5 - 6: Development Sprints
 
 
 ## Specialist Tracks
