@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Call for Sponsorship
+card: sponsor.png
 ---
 
 PyCon AU is a successful community-run event which year on year is grateful for [sponsorship](/sponsor) to keep the conference accessible and affordable.
