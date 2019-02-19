@@ -13,10 +13,10 @@
 {% assign description = page.abstract | escape | newline_to_br or page.description %}
 <meta property="og:title"  content="PyCon AU 2019 | {{ page.title }}">
 <meta property="og:url"    content="{{ page.url | prepend: site.url }}">
-<meta property="og:description" content="{{ description }}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:title" content="PyCon AU 2019 | {{ page.title }}" />
 <meta name="twitter:site"  content="@pyconau">
-<meta name="twitter:description" content="{{ description }}" />
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
 {%- if page.card %}
 {% assign card = page.card | prepend: "/static/img/cards/" | prepend: site.url -%}
