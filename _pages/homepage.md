@@ -4,6 +4,7 @@ title: PyCon AU 2019
 permalink: /
 snake: rainbow
 card: home.png
+description: PyCon AU is the national conference for the Python Programming Community running August 2 - 6 2019 at the ICC, Sydney.
 ---
 
 
