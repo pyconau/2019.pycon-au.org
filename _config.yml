@@ -1,3 +1,5 @@
+repository: pycaonau/2018.pycon-au.org
+
 port: 4000
 base_author: "the Organisers"
 permalink: /news/:title/

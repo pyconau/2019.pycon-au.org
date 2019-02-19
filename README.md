@@ -23,6 +23,9 @@ jekyll serve -w
 
 `thumbnailUrl` and `cards` are relative file names. Files exist in `static/img/people` and `static/img/cards`, respectively
 
+## Pull Request Previews
+
+[Netlify](https://www.netlify.com) configurations mean that the link on the `Deploy preview ready!` item on the Checks list on a PR should link you to a unique build for your PR. This can be used for testing/preview purposes. 
 
 ## Issues
 
