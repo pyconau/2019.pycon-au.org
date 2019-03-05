@@ -1,17 +1,39 @@
-
-- title: Platinum Sponsors
-  placeholder: true
-  sponsors:
-    - name: Your Company Here
-      logo: platinum_placeholder_logo.png
-      placeholder: true
-      blurb: |
-        PyCon AU 2019 can only operate with the generousity of our sponsors.
-        If you are interested in helping our event, please see our <a
-        href="https://2019.pycon-au.org/news/call-for-sponsorship/">Call for Sponsors</a>
-        and download our <a href="https://2019.pycon-au.org/prospectus.pdf">prospectus</a>
-        <br><br>Platinum sponsorship is limited to two sponsors only
-
+- 
+    title: Platinum Sponsors
+    sponsors:
+    - name: Spriggy
+      logo: spriggy.png
+      link: https://www.spriggy.com.au
+      twitter: spriggyofficial
+      blurb: | 
+        Spriggy is a rapidly growing Australian start-up, based in Sydney.
+        Spriggy is on a mission to educate kids about money in an increasingly cashless
+        society, to help prepare them for the future and deliver real value to
+        families. 
+        <br><br>
+        Established in 2016 by co-founders Mario Hasanakos and Alex Badran,
+        more than 250,000 Aussie members have already chosen Spriggy to teach kids to
+        make better decisions with their own money. 
+        <br><br>
+        featured on the H2 Ventures / KPMG Fintech 100 Emerging Star list among
+        international tech giants, recognised as the Best Banking Innovation by Finder
+        in 2017 and was named Best Fintech Startup at the 2018 Australian StartCon
+        Awards.
+        <br><br>
+        We love Python. Our platform has been developed in Python from day one
+        and we are proud to have the opportunity of supporting PyCon AU and the Python
+        community. 
+        <br><br>
+        If you would like to talk to us about the challenges we've faced and
+        overcome in our journey to date, come and find us at the conference!
+        <br><br>
+        We're a business where the team is encouraged to tackle problems head
+        on, challenge the status-quo, to learn and grow - not only as individuals but
+        as a team. If you love Python and what we're about, we're always looking for
+        talented engineers to join our team. Head over to our website, email us at
+        <a href="mailto:pyconau@spriggy.com.au">pyconau@spriggy.com.au</a> or come and have a chat during PyCon AU.
+        <br><br>
+        Find out more about us at <a href="https://sprig.gy/pyconau">https://sprig.gy/pyconau</a>
 
 - title: Gold Sponsors
   placeholder: true
@@ -20,11 +42,53 @@
       logo: gold_placeholder_logo.png
       placeholder: true
       blurb: |
-        PyCon AU 2019 can only operate with the generousity of our sponsors.
+        PyCon AU 2019 can only operate with the generosity of our sponsors.
         If you are interested in helping our event, please see our <a
         href="https://2019.pycon-au.org/news/call-for-sponsorship/">Call for Sponsors</a>
         and download our <a href="https://2019.pycon-au.org/prospectus.pdf">prospectus</a>
         <br><br>Gold sponsorship is limited to six sponsors only
+
+- 
+    title: Sponsors
+    sponsors:
+    - name: Grok Learning
+      logo: grok_learning.png
+      twitter: groklearning
+      link: https://groklearning.com/
+      blurb: |
+        Fun fact - In 2019 every school kid in Australia from Grades 3-8 is learning to
+        code. And lots of them are doing it through courses on Grok Learning.
+        <br><br>
+        Our platform helps teachers teach things like Python, Web and micro:bit. One of
+        their favourite things is our auto-marker - we give feedback to students by
+        running their code on our servers (a sandboxing nightmare!).
+        <br><br>
+        We've got interesting problems to solve, like - How do you simulate a
+        micro-controller for marking? Can we design an interface that helps you
+        understand code? How do you write a course that kids find engaging?
+        <br><br>
+        Our platform is built on Python (with other stuff) and our office is over in
+        Glebe, near Sydney University. If CS education interests you, you should chat
+        to us.
+
+    - name: Django Software Foundation
+      logo: django.png
+      link: djangoproject.com/foundation
+      href: https://www.djangoproject.com/foundation/
+      blurb: |
+        The Django Software Foundation is a US-based non-profit organisation
+        with the mission to promote, support, and advance the Django Web framework -
+        the Web framework for perfectionists with deadlines.<br><br>
+        Django is a high-level Python Web framework that encourages rapid
+        development and clean, pragmatic design. Built by experienced developers, it
+        takes care of much of the hassle of Web development, so you can focus on
+        writing your apps without needing to reinvent the wheel. It’s free and open
+        source, and used by startups and Fortune 500 companies - companies like
+        Instagram, Pinterest, NASA, and the US Library of Congress.<br><br>
+        The Django Software Foundation sponsors sprints, meetups, gatherings
+        and community events, protects the intellectual property of the Django project,
+        and contributes to improvements in the Web industry, both technical and social.<br><br>
+        The Django Software Foundation is the Specialist Track Sponsor of DjangoCon AU 2019
 
 - 
   title: Auspice
