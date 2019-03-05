@@ -74,6 +74,7 @@
     - name: Django Software Foundation
       logo: django.png
       link: djangoproject.com/foundation
+      twitter: djangoproject
       href: https://www.djangoproject.com/foundation/
       blurb: |
         The Django Software Foundation is a US-based non-profit organisation
@@ -95,6 +96,7 @@
   sponsors: 
     - name: Linux Australia
       logo: LinuxAustralia.png
+      twitter: linuxaustralia
       link: linux.org.au
       href: https://linux.org.au
       blurb: | 
