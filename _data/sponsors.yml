@@ -36,6 +36,32 @@
         <br><br>
         Find out more about us at <a href="https://sprig.gy/pyconau">https://sprig.gy/pyconau</a>
 
+    - name: WSP
+      logo: wsp.png
+      twitter: WSP_ANZ
+      link: https://www.wspdigital.com/ 
+      blurb: |
+        WSP Digital is the software engineering division of WSP, a publicly listed
+        global consulting engineering company with over 50,000 employees in more than
+        50 countries. We work with WSP's other engineering disciplines and directly
+        with customers to deliver custom web and mobile applications, systems
+        integration and IoT implementations. 
+        <br><br>
+        Python has been our language of choice for over 7 years - in that time we've
+        deployed Python code for clients including VicRoads, Qantas, Myer, Coles,
+        Telstra, BOC, State and Federal Government departments and many others. We have
+        active projects using Django, Twisted, Celery, Channels, Pandas and many other
+        open source tools from the Python community, so we're very happy to have this
+        opportunity to make a small contribution in return. 
+        <br><br>
+        Our team is made up of 40 software engineers, business analysts, test engineers
+        and project managers, including a number of interns and graduates. We take
+        great pride in providing an environment that encourages software engineering
+        excellence through collaboration, informed debate and learning - we believe
+        that our commercial success is directly related to the quality of what we
+        produce and the talent and commitment of our team.
+
+
 - title: Gold Sponsors
   placeholder: true
   sponsors:
