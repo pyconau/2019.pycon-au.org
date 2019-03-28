@@ -10,11 +10,11 @@ title: DjangoCon AU
 permalink: /djangoconau/
 
 speakers: 
-    - name: Adam Brenecki
+    - name: Leigh Brenecki
       company: CMV Group
-      twitter: adambrenecki
-      url: https://adam.brenecki.id.au
-      thumbnailUrl: adam-brenecki.png
+      twitter: excitedleigh
+      url: https://leigh.brenecki.id.au
+      thumbnailUrl: leigh-brenecki.png
     - name: Markus Holtermann
       thumbnailUrl: markus-holtermann.png
       twitter: m_holtermann
