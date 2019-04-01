@@ -18,7 +18,7 @@ Please ask only for what you need in order to be able to attend the conference a
 ## Application
 
 To apply for financial aid please fill out the [application form](/assistance/).
-The first round of applications close at the end of the call for proposals on **Monday, May 5 2018**. Applications will be approved progressively so please apply early and your application may be approved early. If the budget has not been exhausted the application process will be reopened.
+The first round of applications close at the end of the call for proposals on **Sunday, May 5 2018**. Applications will be approved progressively so please apply early and your application may be approved early. If the budget has not been exhausted the application process will be reopened.
 
 ## Selection criteria
 
@@ -35,6 +35,6 @@ Note that these are considered as factors, but they are not a check-list. You do
 
 ## Reimbursement process
 
-If you have any questions about financial assistance please contact us at [assistance@pycon-au.org](mailto:assistance@2019.pycon-au.org).
+If granted assistance, wou will still be expected to organise and purchase travel and accomoodation yourself and await reimbursement. You will be given a maximum amount of reimbursment based on the assistance you requested. Once assistance is granted, you can start making bookings and sending us your receipts.
 
-If your application for assistance is accepted, we will calculate a maximum amount to reimburse you based only on the assistance you have requested. You can then send us your receipts and you will be reimbursed after the conference.
+If you have any questions about financial assistance please contact us at [assistance@2019.pycon-au.org](mailto:assistance@2019.pycon-au.org).
