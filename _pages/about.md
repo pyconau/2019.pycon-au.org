@@ -29,7 +29,7 @@ team:
     - name: Jack Skinner
       thumbnailUrl: jack-skinner.png
       twitter: developerjack
-      track: iot
+      track: science
       title: Operations
 
 ---
