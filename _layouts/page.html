@@ -18,6 +18,7 @@ sponsors: False
 </header>
 
 <div class="container page-content main-content">
+    {% if page.callout %}<span class="callout">{{page.callout| markdownify}}</span>{%endif%}
     {{ content }}
 </div>
 
