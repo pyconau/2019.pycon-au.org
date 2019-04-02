@@ -31,5 +31,6 @@ Talk submissions for DjangoCon AU will be included in the PyCon AU Call for Prop
 
 <hr>
 
-<p align="center">DjangoCon AU is seeking a track Sponsor to help make their event happen.<br>Is that you? <a href="/news/call-for-sponsorship/">Get in touch!</a></p>
+
+<p align="center">DjangoCon AU cannot be run without the generous support of the <a href="https://www.djangoproject.com/foundation/">Django Software Foundation</a><br><br><a href="https://www.djangoproject.com/foundation/"><img src="/static/img/sponsors/django.png" style="width: 200px"/></a></p>
 
