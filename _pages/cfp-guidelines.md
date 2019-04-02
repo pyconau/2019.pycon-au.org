@@ -19,7 +19,7 @@ This page details our CFP review and selection process, as well as guidelines ab
     1. [How do I write a proposal that doesn't identify me?](#1)
     2. [How do I tell you about myself and why I am the best person to give this talk... without identifying myself?](#2)
     3. [Can I still identify myself as a {insert gender/minority/attribute here}?](#3)
-    4. [What about my "Biography" section?](#4)
+    4. [What about my "Profile" section?](#4)
     6. [I didn't have to do this for {other conference}. Why do I have to do this for PyCon AU?](#6)
     7. [Oh no! I already submitted something that identifies me! What do I do?](#7)
     8. [I have removed all the identifying info, but my talk title/topic is pretty unique and could identify me. What do I do?](#8)
@@ -41,7 +41,7 @@ Any members of the aforementioned groups who are acting as PyCon AU CFP mentors,
 ### Phase Two: identity-aware ranking and curation
 Once reviewing is finished, all proposals will be de-anonymised.
 
-PyCon AU proposal reviewers are then joined by the remaining members of the PyCon AU core organising team in order to curate the program. This group will use the reviewed proposals, in conjunction with speaker biographies, to rank and organise a program that meets our goals for diversity of speakers and topics.
+PyCon AU proposal reviewers are then joined by the remaining members of the PyCon AU core organising team in order to curate the program. This group will use the reviewed proposals, in conjunction with speaker profiles, to rank and organise a program that meets our goals for diversity of speakers and topics.
 
 
 #  <a name="anonymity-guidelines"></a> Anonymity Guidelines
@@ -50,7 +50,7 @@ PyCon AU aims to curate a diverse and interesting lineup of talks. In order to r
 
 This may be different to the processes you have seen at other conferences, so we have created this FAQ for you. If you have questions that aren't answered here, you can email **[speakers@2019.pycon-au.org](mailto:speakers@2019.pycon-au.org)**.
 
-**Put *any and all* personally-identifiable information in the "Biography" section of your submission. This is where we want it to be!**
+**Put *any and all* personally-identifiable information in the "Profile" section of your submission. This is where we want it to be!**
 
 If we identify that you have included information that idenifies you, we will contact you and you will be asked to remove it. If you do not, then the organisers will edit your proposal before the review process and we can't guarantee it will sound exactly how you intended it.
 
@@ -97,29 +97,27 @@ Another example:
 
 ### <a name="3"></a> Can I still identify myself as a [insert gender/minority/attribute here]?
 
-**tl;dr: This information belongs in the "Biography" section of your submission.**
+**tl;dr: This information belongs in the "Profile" section of your submission.**
 
 During the first phase of our review process, the PyCon AU reviewers will not know anything about your identity. Reviewers will use only the talk topic and the details provided in the abstract and notes to rate your talk.
 
-Once all proposals have been rated and reviewed, we will de-anonymise all talks. This means that the information you provided in your "Biography"" will become visible to the PyCon AU organisers, and we can begin the work of selecting talks, and putting together the beginnings of the conference schedule. You are welcome to provide demographic information in this section.
+Once all proposals have been rated and reviewed, we will de-anonymise all talks. This means that the information you provided in your "Profile" will become visible to the PyCon AU organisers, and we can begin the work of selecting talks, and putting together the beginnings of the conference schedule. You are welcome to provide demographic information in this section.
 
 Additionally, we provide financial aid to ensure people from a wide variety of backgrounds are able to attend PyCon AU. The financial assistance application process is separate to the CFP review process, and you may provide information about your background and circumstances there as well. See more about [financial assistance](/assistance).
 
-### <a name="4"></a> What about my "Biography"?
+### <a name="4"></a> What about my "Profile"?
 
-**tl;dr: Put any identifying information in the "Biography" section of your submission! This is where we want it to be.**
+**tl;dr: Put any identifying information in the "Profile" section of your submission! This is where we want it to be.**
 
-Our system will hide the information you provide in your "Biography" section from PyCon AU organisers until we choose to de-anonymise it. De-anonymisation is a one-time process that will apply to all submissions at the same time. We will trigger this once the review process has been completed.
+Our system will hide the information you provide in your "Profile" section from PyCon AU organisers until we choose to de-anonymise it. De-anonymisation is a one-time process that will apply to all submissions at the same time. We will trigger this once the review process has been completed.
 
-This means that the information you provided in your Biography will become visible to the PyCon AU organisers, and we can begin the work of selecting talks, and putting together the beginnings of the conference schedule. You are welcome to provide demographic information in this section.
+This means that the information you provided in your Profile will become visible to the PyCon AU organisers, and we can begin the work of selecting talks, and putting together the beginnings of the conference schedule. You are welcome to provide demographic information in this section.
 
-Information in your PaperCall "Biography" can include:
+Information in your PreTalx "Profile" can include:
 
 - your name
-- a URL to your website
-- your Twitter handle
-- your organisation or affiliation
-- a free-text bio
+- a free-text biography
+- an avatar (or gravatar)
 
 ### <a name="6"></a> I didn't have to do this for [other conference]. Why do I have to do this for PyCon AU?
 
