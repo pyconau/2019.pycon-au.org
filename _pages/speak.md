@@ -43,6 +43,7 @@ If you would like some help from a mentor, you can reach out to them directly:
 
 * Jack Skinner (opensource at developerjack.com): experienced international speaker, PyCon AU organiser, developer evangelist, and winner of the DjangoCon AU 2017 Bright Pink Hoodie Auction.
 * Richard Jones (r1chardj0n3s at gmail.com): Python Software Foundation Fellow, former PyCon AU organiser, speaker, and engineer.
+* Brianna Laugher (brianna at laugher.id.au): PyLadies Melbourne organiser, former PyCon AU speaker and member of various committees.
 
 *Each mentor's email has been split up to prevent automated crawling. Please do not abuse the ability to directly contact our mentors.*
 
