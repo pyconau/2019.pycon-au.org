@@ -105,6 +105,8 @@ Once all proposals have been rated and reviewed, we will de-anonymise all talks.
 
 Additionally, we provide financial aid to ensure people from a wide variety of backgrounds are able to attend PyCon AU. The financial assistance application process is separate to the CFP review process, and you may provide information about your background and circumstances there as well. See more about [financial assistance](/assistance).
 
+New in 2019: we have added optional "Questions" that you can choose to answer as part of your submission, one of which is "Do you identify as a member of an under-represented community?". You are free to interpret this in any way you choose. 
+
 ### <a name="4"></a> What about my "Profile"?
 
 **tl;dr: Put any identifying information in the "Profile" section of your submission! This is where we want it to be.**
