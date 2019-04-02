@@ -21,6 +21,7 @@ We're happy to consider any talk which will be interesting and relevant to an au
 
 **The 2019 Call for Presentations (CFP) is open from Wednesday, April 3 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Sunday, May 5 AoE.**
 
+**Please note that talk acceptance does not include financial assistance to attend the conference.** If you require assistance with the costs of travelling to the conference and staying in Sydney during the conference, you must submit a separate financial aid application through [our website](/assistance/).
 
 ## <a name="topics"></a> Talk details
 
@@ -52,7 +53,7 @@ If you would like some help from a mentor, you can reach out to them directly:
 
 Have fun brainstorming some talk ideas, to help out this [public speaking repository](https://github.com/vmbrasseur/Public_Speaking), maintained by [VM Brasseur](https://twitter.com/vmbrasseur), has many useful resources to help you polish your proposals and talks.
 
-Our submission process is anonymous. This means our first-round reviewers will not know anything about your identity while assessing your proposal. Please avoid including identifying information like your name or your pronouns (he/she/they) anywhere in your proposal so that our reviewers can assess your talk by itself.
+Our submission process is anonymous. This means our first-round reviewers will not know anything about your identity while assessing your proposal. Please avoid including identifying information like your name or your pronouns (he/she/they) anywhere in your proposal so that our reviewers can assess your talk by itself. If you add such details, please be advised that our CFP curators will edit all identifying information from your submissions before the reviewing process begins.
 
 Make sure to read our [anonymity FAQ](/cfp-guidelines/) before your final submission! This FAQ contains important tips on what "anonymous" looks like, and provides information on our review process.
 
@@ -62,4 +63,4 @@ All speakers will be expected to have read and adhere to the conference [Code of
 
 Speakers whose talks are accepted will receive one free ticket to PyCon AU. You are welcome to propose a talk with more than one speaker, but please be aware that if it is accepted, only one complimentary ticket will be allocated. 
 
-We do not automatically provide travel and accommodation to speakers but don't let finances stop you from submitting a talk proposal. As well as free conference tickets for speakers, there is further financial assistance available based on need, and speakers are given priority for this assistance. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
+**We do not automatically provide travel and accommodation to speakers** but don't let finances stop you from submitting a talk proposal. As well as free conference tickets for speakers, there is further financial assistance available based on need, and speakers are given priority for this assistance. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
