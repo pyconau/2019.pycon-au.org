@@ -52,7 +52,7 @@ This may be different to the processes you have seen at other conferences, so we
 
 **Put *any and all* personally-identifiable information in the "Profile" section of your submission. This is where we want it to be!**
 
-If we identify that you have included information that idenifies you, we will contact you and you will be asked to remove it. If you do not, then the organisers will edit your proposal before the review process and we can't guarantee it will sound exactly how you intended it.
+If we identify that you have included information that idenifies you, the organisers will edit your proposal before the review process begins. We can't guarantee it will sound exactly how you intended it, so we encourage you to make very sure that you have removed identifying information before you submit your talk proposal to us.
 
 ## <a name="FAQ"></a> FAQ
 
@@ -119,7 +119,7 @@ Information in your PreTalx "Profile" can include:
 
 - your name
 - a free-text biography
-- an avatar (or gravatar)
+- an avatar (or Gravatar)
 
 ### <a name="6"></a> I didn't have to do this for [other conference]. Why do I have to do this for PyCon AU?
 
@@ -127,7 +127,7 @@ All conferences will have different processes for reviewing talks based on the n
 
 This process is the way that PyCon AU believes is the most likely to reduce bias in the rating and reviewing of talk submissions.
 
-PyCon AU takes our commitment to anonymous reviews very seriously. This means that non-reviewing members of the PyCon AU organising team will check incoming proposals to make sure they do not have identifying information, and message submitters if they discover anything that needs changing.
+PyCon AU takes our commitment to anonymous reviews very seriously. This means that non-reviewing members of the PyCon AU organising team will check incoming proposals to make sure they do not have identifying information, and remove identifying information before the review process begins if they discover anything that needs changing.
 
 ### <a name="7"></a> Oh no! I already submitted something that identifies me! What do I do?
 
@@ -135,6 +135,7 @@ PyCon AU takes our commitment to anonymous reviews very seriously. This means th
 
 You are also welcome to make tweaks and changes to your proposal up until the CFP is closed. This gives you a chance to polish submissions based on feedback, and to remove identifying information if you notice it there.
 
+If you notice we have already edited your proposal to remove identifying information, feel free to make further edits so it reads the way you would like it to. Please note that if you add additional identifying information during an edit, it will be removed again.
 
 ### <a name="8"></a> I have removed all the identifying info, but my talk title/topic is pretty unique and could identify me. What do I do?
 
