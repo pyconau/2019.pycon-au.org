@@ -5,7 +5,7 @@ snake: rainbow
 permalink: /speak/
 
 callout: |
-    <a href="https://pretalx.com/pyconau2019/cfp" target="_blank">[CFP now open!]</a>
+    <a class="a_callout" href="https://pretalx.com/pyconau2019/cfp" target="_blank">CFP now open!</a>
 
 ---
 
