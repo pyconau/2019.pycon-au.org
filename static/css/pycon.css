@@ -37,7 +37,7 @@ body {
 }
 
 .main-content a, .footer a, .newspost a {
-  color: #008542 !important;
+  color: #008542;
   font-weight: bold !important;
 }
 
@@ -193,3 +193,17 @@ code { color: #00994D !important }
 .backtotop { float: right; margin-top: -40px;}
 
 .dateh2 { padding-top: 0; margin-top: -40px} 
+
+.callout  { 
+    float: right;
+    display: inline-block;
+    font-size: 40px;
+    margin-top: 70px;
+    margin-right: 150px;
+    background-color: #00b259;
+    padding: 25px; 
+    font-family: 'PT Sans'; 
+    color: white;
+    
+}
+.callout a { color:white !important; text-decoration: underline;}

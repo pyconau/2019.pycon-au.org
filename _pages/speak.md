@@ -4,6 +4,9 @@ title: Speak
 snake: rainbow
 permalink: /speak/
 
+callout: |
+    <a class="a_callout" href="https://pretalx.com/pyconau2019/cfp" target="_blank">CFP now open!</a>
+
 ---
 
 # Contents
@@ -29,7 +32,7 @@ We're mostly looking for 30 minute talks on everything Python, open source, and 
 
 PyCon AU attracks a diverse set of attendees so we're looking for a mix of talks which are beginner friendly as well as talks which provide real value to seasoned professionals. If you've got some prior speaking experience and you'd like to present on a more advanced or deeper technical topic, you might like to submit a [Deep Dive talk](/news/deep-dive-talks/). You get extra time and (as long as it's labelled clearly) you can assume the audience to have relevant prior knowledge and expertise.
 
-Talk topics for the main conference can be anything, but on the Friday of the conference we have four [specialist tracks](/attend/). For these tracks we are specifically looking for talks about Education, Django, Security and Privacy, and Science and Data. Talks for all topics go through the same submission process but you can flag your talk for a specific track if you want.
+Talk topics for the main conference can be anything, but on the Friday of the conference we have four [specialist tracks](/attend/). For these tracks we are specifically looking for talks about [Education](/education-track), [Django](/djangoconau), [Security and Privacy](/security-and-privacy-track/), and [Science and Data](/science-and-data-track/). Talks for all topics go through the same submission process but you can flag your talk for a specific track if you want.
 
 You can submit a proposal for the main conference, and all of our four Specialist Tracks on [our talk submission site](https://pretalx.com/pyconau2019/cfp).
 
