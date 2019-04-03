@@ -20,7 +20,7 @@ speakers:
 
 
 abstract: |
-    In today's world, digital security and personal privacy are two extremely cruicial and valued aspets of our existance. The Security and Privacy track hopes to share knowledge about both of these concepts, both in sharing information about how to ensure security, and detailing ways we can protect our own privacy. 
+    In today's world, digital security and personal privacy are two extremely crucial and valued aspects of our existence. The Security and Privacy track hopes to share knowledge about both of these concepts, both in sharing information about how to ensure security, and detailing ways we can protect our own privacy. 
 ---
 Talk submissions for the Security and Privacy Track will be included in the PyCon AU Call for Proposals which will open on the 3rd of April 2019. We welcome proposals for any talks which fit the purpose of this track.
 
