@@ -52,5 +52,5 @@ Alternatively, if you want to go ahead and submit a new proposal, please put any
 
 If you wish to ask for feedback on an existing proposal, then please email us directly at [program@pycon-au.org](mailto:program@pycon-au.org), as we may not be alerted to changes in the proposal and therefore may not realise in a timely manner that a response is required.
 
-#Questions, Clarifications and Comments
+## Questions, Clarifications and Comments
 If you have any questions, are unsure of anything, or need more information, please don't hesitate to email events@aca.edu.au or [program@pycon-au.org](mailto:program@pycon-au.org) and we will happily do our best to help you out.
