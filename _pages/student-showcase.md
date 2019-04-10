@@ -1,3 +1,11 @@
+---
+layout: page
+title: Student Showcase
+permalink: /speak/showcase
+snake: rainbow
+sponsors: true
+---
+
 # Call for Proposals - PyconAU Student Showcase 2019
 After the success of last year’s inaugural Students Showcase, the PyConAU ‘Education Track’ will have a dedicated session for student presentations. 
 We are calling for proposals from Australian high school students who are using Python in a project, class assignment or who are hacking on something cool. All levels of experience are welcome from complete novices to Python pros. 
