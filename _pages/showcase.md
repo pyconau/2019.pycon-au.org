@@ -6,6 +6,7 @@ The PyCon AU Conference Education Track is a pre-conference stream that focuses 
 From the main PyCon AU website: 
 
 “We think that speaking at PyCon AU is a great experience, and prioritise having a broad cross-section of both presenters and topics. Our speakers come from a diverse range of ages, backgrounds, technical knowledge and experience. The topics covered are similarly broad, including different technical areas, topics of general community interest, education, introductory material and specialised areas such as data science and machine learning.” 
+
 We are accepting 10 minute talks from students from year 7 to 12. 
 
 ## Important Dates
@@ -16,11 +17,14 @@ We are accepting 10 minute talks from students from year 7 to 12.
 
 ## Speaker Benefits
 Accepted students will have the opportunity to present their work in front of interested and supportive industry professionals and teachers from other schools. They will be provided with free registration for the specialist events day and both days of the conference main track. Should a speaker also wish to attend the sprints and workshops these will attract a small charge. Attendance at any paid tutorials will also attract a charge at the standard rates.
+
 If you are able to pay for a full registration, then please consider doing so. The funds from registrations contribute not only to conference costs, but also the financial aid program. Every extra dollar makes it easier for someone else to attend.
 
 ## Financial Assistance
 PyCon Australia offers a generous financial assistance program, so that some attendees and speakers have some (or in rare cases, all) of their expenses, such as accommodation or flights, reimbursed to them from the conference budget. PyCon Australia strongly encourages people to apply for financial assistance. We don't want to lose a good talk due to financial need.
+
 The full details of the financial aid program from last year are available here. As with previous years, speakers will be given priority for financial aid requests within reasonable limits. Financial assistance requests are evaluated separately and cannot be considered guaranteed even if your talk is accepted.
+
 Some speakers may have attended other conferences where full costs have been met, including travel and accommodation. As a not-for-profit, community-run conference, this is generally not the case at PyCon AU. 
 
 ## Code of Conduct
