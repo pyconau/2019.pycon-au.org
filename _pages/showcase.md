@@ -2,15 +2,17 @@
 After the success of last year’s inaugural Students Showcase, the PyConAU ‘Education Track’ will have a dedicated session for student presentations. 
 We are calling for proposals from Australian high school students who are using Python in a project, class assignment or who are hacking on something cool. All levels of experience are welcome from complete novices to Python pros. 
 The PyCon AU Conference Education Track is a pre-conference stream that focuses on the use of Python for teaching beginner programmers at high school. The student showcase is an opportunity for your students to exhibit their projects and tell the story of how they were made, and the problems they had to solve.
+
 From the main PyCon AU website: 
+
 “We think that speaking at PyCon AU is a great experience, and prioritise having a broad cross-section of both presenters and topics. Our speakers come from a diverse range of ages, backgrounds, technical knowledge and experience. The topics covered are similarly broad, including different technical areas, topics of general community interest, education, introductory material and specialised areas such as data science and machine learning.” 
 We are accepting 10 minute talks from students from year 7 to 12. 
 
 ## Important Dates
-Call for Proposals opens: Tuesday, 1st May 2019
-Proposal submission deadline: early June 2019
-Notification of whether proposals have been accepted, not accepted, or waitlisted: mid June, 2019
-Students whose applications are accepted are invited to attend the entire conference from Friday - Sunday
+- Call for Proposals opens: Tuesday, 1st May 2019
+- Proposal submission deadline: early June 2019
+- Notification of whether proposals have been accepted, not accepted, or waitlisted: mid June, 2019
+- Students whose applications are accepted are invited to attend the entire conference from Friday - Sunday
 
 ## Speaker Benefits
 Accepted students will have the opportunity to present their work in front of interested and supportive industry professionals and teachers from other schools. They will be provided with free registration for the specialist events day and both days of the conference main track. Should a speaker also wish to attend the sprints and workshops these will attract a small charge. Attendance at any paid tutorials will also attract a charge at the standard rates.
