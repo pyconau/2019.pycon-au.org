@@ -38,7 +38,7 @@ As with previous years, speakers will be given priority for financial aid reques
 Some speakers may have attended other conferences where full costs have been met, including travel and accommodation. As a not-for-profit, community-run conference, this is generally not the case at PyCon AU. 
 
 ## Code of Conduct
-PyCon Australia 2019 has a Code of Conduct https://2019.pycon-au.org/conduct/ which outlines expectations of behaviour and appropriate presentation content. The goal of the code of conduct is to facilitate a safe, welcoming and inclusive environment. Presenters are required to be familiar with and abide by the code of conduct. If you have any questions about the suitability of any aspect of your proposed talk or require any additional information, please email us at [speakers@2019.pycon-au.org](mailto:speakers@2019.pycon-au.org).
+PyCon Australia 2019 has a [Code of Conduct](/conduct/) which outlines expectations of behaviour and appropriate presentation content. The goal of the code of conduct is to facilitate a safe, welcoming and inclusive environment. Presenters are required to be familiar with and abide by the code of conduct. If you have any questions about the suitability of any aspect of your proposed talk or require any additional information, please email us at [speakers@2019.pycon-au.org](mailto:speakers@2019.pycon-au.org).
 
 ## Presentation Length
 The length for talks is 10 minutes. 
