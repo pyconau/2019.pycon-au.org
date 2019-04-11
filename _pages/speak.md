@@ -24,7 +24,7 @@ We're happy to consider any talk which will be interesting and relevant to an au
 
 **The 2019 Call for Presentations (CFP) is open from Wednesday, April 3 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Sunday, May 5 AoE.**
 
-**Please note that talk acceptance does not include financial assistance to attend the conference.** If you require assistance with the costs of travelling to the conference and staying in Sydney during the conference, you must submit a separate financial aid application through [our website](/assistance/).
+**Please note that talk acceptance does not include financial assistance to attend the conference.** If you require assistance with the costs of travelling to the conference and staying in Sydney during the conference, you must submit a separate financial aid application through [our financial aid page](/assistance/).
 
 ## <a name="topics"></a> Talk details
 
