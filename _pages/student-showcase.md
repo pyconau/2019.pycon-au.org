@@ -47,7 +47,7 @@ The length for talks is 10 minutes.
 Every session at PyCon Australia will be professionally recorded and the video uploaded on our YouTube channel. If there are concerns with this please raise them and we will endeavour to work with you.
 
 ## How to Submit
-Fill in this form: http://cmp.ac/pyconau-2019-student-showcase
+Fill in this [talk submission form](http://cmp.ac/pyconau-2019-student-showcase).
 
 ## Proposal Selection Process
 Selecting the proposals to include in the conference is complex. We take the process very seriously, and respect and value the effort that every submitter has taken in preparing their proposal. This means that the selection process takes some time to get through, although we endeavour to be efficient and well-organised.
