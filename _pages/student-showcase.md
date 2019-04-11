@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Showcase
-permalink: /speak/showcase
+permalink: /speak/showcase/
 snake: rainbow
 sponsors: true
 ---
