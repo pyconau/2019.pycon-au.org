@@ -31,7 +31,7 @@ Accepted students will have the opportunity to present their work in front of in
 If you are able to pay for a full registration, then please consider doing so. The funds from registrations contribute not only to conference costs, but also the financial aid program. Every extra dollar makes it easier for someone else to attend.
 
 ## Financial Assistance
-PyCon Australia offers a generous financial assistance program, so that some attendees and speakers have some (or in rare cases, all) of their expenses, such as accommodation or flights, reimbursed to them from the conference budget. PyCon Australia strongly encourages people to apply for financial assistance, you can do that here: https://2019.pycon-au.org/assistance/. We don't want to lose a good talk due to financial need.
+PyCon Australia offers a generous financial assistance program, so that some attendees and speakers have some (or in rare cases, all) of their expenses, such as accommodation or flights, reimbursed to them from the conference budget. PyCon Australia strongly encourages people to apply for financial assistance, take a look at the application process on the [financial assistance page](/assistance/). We don't want to lose a good talk due to financial need.
 
 The full details of the financial aid program from last year are available here. As with previous years, speakers will be given priority for financial aid requests within reasonable limits. Financial assistance requests are evaluated separately and cannot be considered guaranteed even if your talk is accepted.
 
