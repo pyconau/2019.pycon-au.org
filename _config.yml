@@ -12,6 +12,7 @@ navigationLinks:
  - {permalink: '/news/', text: "News"}
  - {permalink: '/speak/', text: "Speak"}
  - {permalink: '/attend/', text: "Attend"}
+ - {permalink: '/assistance/', text: "Financial Aid"}
  - {permalink: '/sponsor/', text: "Sponsor"}
  - {permalink: '/conduct/', text: "Conduct"}
 
