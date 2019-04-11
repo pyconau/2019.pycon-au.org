@@ -33,7 +33,7 @@ If you are able to pay for a full registration, then please consider doing so. T
 ## Financial Assistance
 PyCon Australia offers a generous financial assistance program, so that some attendees and speakers have some (or in rare cases, all) of their expenses, such as accommodation or flights, reimbursed to them from the conference budget. PyCon Australia strongly encourages people to apply for financial assistance, take a look at the application process on the [financial assistance page](/assistance/). We don't want to lose a good talk due to financial need.
 
-The full details of the financial aid program from last year are available here. As with previous years, speakers will be given priority for financial aid requests within reasonable limits. Financial assistance requests are evaluated separately and cannot be considered guaranteed even if your talk is accepted.
+As with previous years, speakers will be given priority for financial aid requests within reasonable limits. Financial assistance requests are evaluated separately and cannot be considered guaranteed even if your talk is accepted.
 
 Some speakers may have attended other conferences where full costs have been met, including travel and accommodation. As a not-for-profit, community-run conference, this is generally not the case at PyCon AU. 
 
