@@ -5,7 +5,7 @@ snake: rainbow
 
 talkid: 1001
 track: security
-title: Security and Privacy Track
+title: Security and Privacy
 permalink: /security-and-privacy-track/
 
 speakers: 
