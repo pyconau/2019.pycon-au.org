@@ -18,14 +18,15 @@
 <meta name="twitter:site"  content="@pyconau">
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta name="twitter:card" content="summary_large_image">
-
 {%- if page.card %}
+<!--- twitter card -->
 {% assign card = page.card | prepend: "/static/img/cards/" | prepend: site.url -%}
 <meta name="twitter:card"  content="summary_large_image">
 <meta name="twitter:image" content="{{ card }}" />
 <meta property="og:image"  content="{{ card }}" />
 {% else %}
-{% assign image = "/static/img/pyconau.png" | prepend: site.url %}
+<!--- no page.card found. -->
+{% assign image = "/static/img/pyconau.png" | prepend: site.url -%}
 <meta name="twitter:card"  content="summary">
 <meta name="twitter:image" content="{{ image }}" />
 <meta property="og:image"  content="{{ image }}" />

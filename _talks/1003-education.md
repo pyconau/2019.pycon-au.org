@@ -2,6 +2,7 @@
 layout: talk
 talkid: 1003
 snake: rainbow
+card: education.png
 
 type: track
 track: education

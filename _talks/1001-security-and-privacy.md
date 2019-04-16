@@ -2,6 +2,7 @@
 layout: talk
 type: track
 snake: rainbow
+card: security.png
 
 talkid: 1001
 track: security

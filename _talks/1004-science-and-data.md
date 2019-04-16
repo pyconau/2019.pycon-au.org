@@ -2,6 +2,7 @@
 layout: talk
 snake: rainbow
 type: track
+card: sciencedata.png
 
 talkid: 1004
 title: Science and Data
