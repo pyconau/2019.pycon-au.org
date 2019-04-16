@@ -28,8 +28,8 @@ snake: rainbow
 
 {% if page.abstract %}
 <hr>
-
 <span class="abstract">{{ page.abstract | markdownify}}
+{% if page.type == "track" %}<a href="https://pretalx.com/pyconau2019/cfp">Submit a proposal for {% if page.title != "DjangoCon AU"%}the {% endif %}{{page.title}}{% assign track_tail = page.title | slice: -5, 5%}{% if track_tail != "Track"%}{% if page.title != "DjangoCon AU"%} Track{%endif%}{%endif%}.</a> CFP closes May 5 2019.{% endif %}
 </span>
 {% endif %}
 
