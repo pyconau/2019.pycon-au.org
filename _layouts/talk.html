@@ -30,6 +30,7 @@ snake: rainbow
 <hr>
 
 <span class="abstract">{{ page.abstract | markdownify}}
+{% if page.type == "track" %}<a href="https://pretalx.com/pyconau2019/cfp">Submit a proposal for the {{page.title}}.</a> CFP closes May 5 2019.{% endif %}
 </span>
 {% endif %}
 
