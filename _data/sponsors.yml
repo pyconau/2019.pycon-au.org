@@ -118,6 +118,20 @@
         and contributes to improvements in the Web industry, both technical and social.<br><br>
         The Django Software Foundation is the Specialist Track Sponsor of DjangoCon AU 2019
 
+    - name: Biarri
+      logo: biarri.png
+      link: biarri.com
+      href: https://biarri.com/
+      blurb: |
+        Biarri is a world leader at solving business problems through intuitive
+        SaaS solutions powered mathematical engines. We work with awesome people on
+        rewarding and complex problems across Rail, Transportation, Telecommunications,
+        Resources, and Healthcare delivering systems to make businesses more efficient.
+        <br><br>
+        If you want to find out more about the work that we do at Biarri and the
+        technology that powers our optimisation solutions come and talk to us at PyCon
+        AU!
+
 - 
   title: Auspice
   sponsors: 
