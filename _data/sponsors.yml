@@ -132,6 +132,42 @@
         technology that powers our optimisation solutions come and talk to us at PyCon
         AU!
 
+    - name: kmo
+      logo: kmo.png
+      link: kmo.com.au
+      href: https://www.kmo.com.au/
+      blurb: | 
+        kmo is web design and development company providing innovative solutions to our
+        customers' business needs. We work extensively in developing systems for
+        integrating customer's line of business software with their online presence.
+        <br><BR>
+        Whether synchronising inventory between an online store and in-store point of
+        sale or inventory management systems or communication with third-party ordering
+        or booking systems, kmo have a wealth of expertise from developing numerous
+        software projects and working with a multitude of third party systems to create
+        solutions that provide value to our client's business. These have included
+        process automation, data migration and transformation, systems integration and
+        customised search capabilities for customer's across a multitude of industries.
+        We work alongside both clients and agencies, feel free to contact us for more
+        information.
+
+    - name: elastic
+      logo: elastic.png
+      link: elastic.co
+      twitter: elastic
+      href: https://www.elastic.co/
+      blurb: | 
+        Elastic is a search company. As the creators of the Elastic Stack
+        (Elasticsearch, Kibana, Beats, and Logstash), Elastic builds self-managed and
+        SaaS offerings that make data usable in real time and at scale for search,
+        logging, security, and analytics use cases. Since its founding in 2012, there
+        have been more than 350 million cumulative downloads of Elastic software. The
+        Elastic community is 100,000 members strong. Thousands of organizations
+        worldwide, including Cisco, eBay, Goldman Sachs, Microsoft, The Mayo Clinic,
+        NASA, The New York Times, Wikipedia, and Verizon, use Elastic to power
+        mission-critical systems. Elastic is a distributed company with more than 1,000
+        Elasticians working in 30 countries. Learn more at <a href="https://www.elastic.co/">elastic.co</a>
+
 - 
   title: Auspice
   sponsors: 
