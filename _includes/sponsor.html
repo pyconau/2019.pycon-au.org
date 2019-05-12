@@ -3,10 +3,16 @@
     <h1>{{ level.title }}</h1>
     <div class="row">
     {% for sponsor in level.sponsors %}
-        <div class="col-12 col-lg-6">
+    {% assign colspan = 6 %}
+    {% if sponsor.colspan %}{% assign colspan = sponsor.colspan %}{% endif %}
+        <div class="col-12 col-lg-{{colspan}}">
+          <h5 align="center" style="padding-bottom: 10px">
           <a target="_blank" href="{% if sponsor.href%}{{sponsor.href}}{%else%}{{sponsor.link}}{%endif%}"><img class="img-fluid sponsorlogo" src="/static/img/sponsors/{{sponsor.logo}}" alt="{{sponsor.name}}"></a>
+          </h5>
           {% if sponsor.link %}
-          <h5 align="center" style="padding-bottom: 10px"><a href="{% if sponsor.href%}{{sponsor.href}}{%else%}{{sponsor.link}}{%endif%}" target="_blank">{{sponsor.link}}</a></h5>
+          <h5 align="center" style="padding-bottom: 10px">
+          <a href="{% if sponsor.href%}{{sponsor.href}}{%else%}{{sponsor.link}}{%endif%}" target="_blank">{{sponsor.link}}</a>
+          </h5>
           {% endif %}
           {% if sponsor.twitter %}
           <h5 align="center" style="padding-bottom: 10px"><a href="https://twitter.com/{{sponsor.twitter}}" target="_blank">@{{sponsor.twitter}}</a></h5>
