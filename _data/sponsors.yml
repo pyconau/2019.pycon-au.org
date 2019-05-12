@@ -3,7 +3,8 @@
     sponsors:
     - name: Spriggy
       logo: spriggy.png
-      link: https://www.spriggy.com.au
+      link: spriggy.com.au
+      href: https://www.spriggy.com.au
       twitter: spriggyofficial
       blurb: | 
         Spriggy is a rapidly growing Australian start-up, based in Sydney.
@@ -39,7 +40,8 @@
     - name: WSP
       logo: wsp.png
       twitter: WSP_ANZ
-      link: https://www.wspdigital.com/ 
+      link: wspdigital.com
+      href: https://www.wspdigital.com/ 
       blurb: |
         WSP Digital is the software engineering division of WSP, a publicly listed
         global consulting engineering company with over 50,000 employees in more than
@@ -62,11 +64,31 @@
         produce and the talent and commitment of our team.
 
 
+    - name: Python Software Foundation
+      twitter: ThePSF
+      link: python.org/psf
+      logo: psf.png
+      href: https://www.python.org/psf/
+      colspan: 12
+      blurb: | 
+        The mission of the Python Software Foundation is to promote, protect, and
+        advance the Python programming language, and to support and facilitate the
+        growth of a diverse and international community of Python programmers. The
+        majority of the PSF's work is focused on empowering and supporting people
+        within the Python community. The PSF has active grant programs that support
+        sprints, conferences, meet ups, user groups, and Python development efforts all
+        over the world. In addition, the PSF underwrites and runs PyCon US, the primary
+        Python community conference. Being part of the PSF means being part of the
+        Python community. Recently we changed the PSF to an open membership
+        organization, so that everyone who uses and supports Python can join. To learn
+        more, visit <a href="https://www.python.org/psf/membership">python.org/psf/membership</a>.
+
 - title: Gold Sponsors
   placeholder: true
   sponsors:
     - name: Your Company Here
       logo: gold_placeholder_logo.png
+      colspan: 12
       placeholder: true
       blurb: |
         PyCon AU 2019 can only operate with the generosity of our sponsors.
@@ -81,7 +103,8 @@
     - name: Grok Learning
       logo: grok_learning.png
       twitter: groklearning
-      link: https://groklearning.com/
+      link: groklearning.com
+      href: https://groklearning.com/
       blurb: |
         Fun fact - In 2019 every school kid in Australia from Grades 3-8 is learning to
         code. And lots of them are doing it through courses on Grok Learning.
@@ -174,8 +197,13 @@
     - name: Linux Australia
       logo: LinuxAustralia.png
       twitter: linuxaustralia
+      colspan: 12
       link: linux.org.au
       href: https://linux.org.au
       blurb: | 
-        Linux Australia is the peak body for Open Source communities in
-        Australia. PyCon AU 2019 is run under the auspice of Linux Australia. 
+          Linux Australia is the peak body of Open Source communities in
+          Australia. Linux Australia represents approximately 5000 Australian users and
+          developers of Free Software and Open Technologies, and facilitates
+          internationally-renowned events including linux.conf.au – Australasia’s
+          grassroots Free and Open Source Software Conference. <br><br>PyCon AU 2019 is
+          run under the auspice of Linux Australia. 
