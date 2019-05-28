@@ -84,18 +84,23 @@
         more, visit <a href="https://www.python.org/psf/membership">python.org/psf/membership</a>.
 
 - title: Gold Sponsors
-  placeholder: true
   sponsors:
-    - name: Your Company Here
-      logo: gold_placeholder_logo.png
-      colspan: 12
-      placeholder: true
+    - name: AWS
+      logo: aws.png
+      link: aws.amazon.com/careers
+      href: https://aws.amazon.com/careers/
       blurb: |
-        PyCon AU 2019 can only operate with the generosity of our sponsors.
-        If you are interested in helping our event, please see our <a
-        href="https://2019.pycon-au.org/news/call-for-sponsorship/">Call for Sponsors</a>
-        and download our <a href="https://2019.pycon-au.org/prospectus.pdf">prospectus</a>
-        <br><br>Gold sponsorship is limited to six sponsors only
+        Amazon Web Services is the earth’s most customer centric company.  In Sydney,
+        we have sizeable software and networking engineering teams, owning global
+        services and software problems. We use Python to build, support, and scale AWS
+        services and the network where we aim to inspire developers to build and
+        innovate. We are focused on scaling ahead of customer demand to continue
+        delighting our customers. Amazon was recently voted one of the best places to
+        work.  Come find us in the breaks at PyCon AU and ask us for some more details
+        around the problems we’re trying to solve. We look forward to meeting you
+        during PyCon AU!  <br><BR> If you’re a developer or engineer with Python skills
+        and want to have global impact, check out our open Sydney based positions
+        <a href="https://aws.amazon.com/careers/">aws.amazon.com/careers</a>
 
 - 
     title: Sponsors
