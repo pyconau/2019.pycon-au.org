@@ -3,10 +3,6 @@ layout: page
 title: Speak
 snake: rainbow
 permalink: /speak/
-
-callout: |
-    <a class="a_callout" href="https://pretalx.com/pyconau2019/cfp" target="_blank">CFP now open!</a>
-
 ---
 
 # Contents
