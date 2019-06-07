@@ -21,7 +21,7 @@ We are accepting 10 minute talks from students from year 7 to 12.
 
 ## Important Dates
 - Call for Proposals opens: **Tuesday, May 1 2019**
-- Proposal submission deadline: **Sunday, June 9 2019**
+- Proposal submission deadline: **Sunday, June 16 2019** (This deadline has been extended for 1 week!)
 - Notification of whether proposals have been accepted, not accepted, or waitlisted: **Friday, June 14, 2019**
 - Students whose applications are accepted are invited to (but not required to) attend the entire conference from Friday - Sunday
 
