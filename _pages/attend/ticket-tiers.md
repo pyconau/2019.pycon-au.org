@@ -26,7 +26,7 @@ In addition to our [financial assistance](/assistance), we offer tiers of ticket
 <a name="contributor"></a>
 #### Contributor ✨
 
-The Contributor ticket is designed for those who wish to attend PyCon AU 2019 as a Professional delegate, as well as supporting the conference by contributing financially. Contributors also get their logo on digital advertising for the conference. For more information, please [see our Sponsorship Prospectus](https://2019.pycon-au.org/prospectus.pdf).
+The Contributor ticket is designed for those who wish to attend PyCon AU 2019 as a Professional delegate, as well as supporting the conference by contributing financially. Contributors also have the option to get their logo on digital advertising for the conference. 
 
 #### Professional
 

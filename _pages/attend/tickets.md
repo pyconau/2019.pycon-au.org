@@ -22,12 +22,12 @@ sponsors: true
 
 ### Cancellation Policy
 
-* Cancellation requests before July 17 2019 will incur a 10% cancellation fee, with the balance being refunded. 
-* Cancellation requests made after July 17 2019 will not be able to be refunded. 
+* Cancellation requests before July 9 2019 will incur a 10% cancellation fee, with the balance being refunded. 
+* Cancellation requests made after July 9 2019 will not be able to be refunded. 
 
 ### Substitutions
 
-Tickets can be reassigned to new attendees via our ticketing system until July 31 2019. If you do choose to made changes after July 17 2019, we cannot guarantee your t-shirt size will be availabile.
+Tickets can be reassigned to new attendees via our ticketing system until July 30 2019. If you do choose to made changes after July 9 2019, we cannot guarantee your t-shirt size will be availabile.
 
 ### Privacy Notice
 
