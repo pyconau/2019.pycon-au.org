@@ -13,7 +13,7 @@ speakers:
   - name: Nicky Ringland
     thumbnailUrl: nicky-ringland.png
   - name: Amanda Hogan
-    thumbnailUrl: amanda-hogan.png
+    thumbnailUrl: amanda-j-hogan.jpg
 
 abstract: | 
     Teaching the basics of software development is hard, so it's best to get them while they're young. Not just development in Python, but also visual programming languages. The Education Specialist Track brings together both educators and creators of educational tools to discuss ideas to help the next generation of programmers. This track also includes the [Student Showcase](/speak/showcase/).

@@ -47,7 +47,7 @@ timezone: "AEST"
 collections:
     talks:  
         output: true
-        permalink: /:collection/:name/
+        permalink: /:collection/:title/
 
 plugins:
   - jemoji
