@@ -26,7 +26,7 @@ How do I know?
 
 Because I didn't write tests.
 
-This talk is for the blissfully ignorant or for those whose hubris threatens to burn them up in the sun. That is, it's for people who are new to Python programming and see testing as a thing they'll get around to eventually, and/or people who have been writing Python for a while but have yet to believe in the magic of testing. 
+If you are new to Python programming and see testing as a thing you’ll get around to eventually, this talk is for you. Or if you’ve been writing Python for a while but have yet to believe in the magic of testing, this talk is for you. If you hate tests, and Python, and people who talk about tests and Python…maybe go get a donut or something because I don’t think you’ll like this talk. 
 
 We'll discuss:
 
@@ -35,3 +35,6 @@ We'll discuss:
 - Revisiting untested code; THIS IS AWFUL
 - Retrofitting untested Django code
 - Other handy testing tricks
+
+Come play! It’ll be fun and awful and exciting and possibly informative.  
+
