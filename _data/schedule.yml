@@ -1,0 +1,294 @@
+- 
+  date: "2019-08-02"
+  dateReadable: "Friday August 2 2019"
+  dayTitle: "Specialist Track Day"
+  dayShort: "Friday"
+  tracks: 
+    - {title: "Cockle Bay", "track": "Security and Privacy", "color": "#FFC518", slug: "Cockle-Bay"}
+    - {title: "C3.3", "track": "DjangoCon AU", "color": "#F36F3A", slug: "C3.3"}
+    - {title: "C3.4 & C3.5", "track": "Education", "color": "#E01D43", slug: "C3.4-C3.5"}
+    - {title: "C3.6", "track": "Internet of Things", "color": "#5B57A5", slug: "C3.6"}
+  timeslots:
+    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
+    - { startTime: "09:00",
+        endTime: "09:15",
+        duration: 10,
+        talkIds: [1001, 1002, 1003, 1004]
+      }
+    - { startTime: "09:15",  
+        endTime: "10:00", 
+        duration: 45,
+        talkIds: [418, 418, 418, 418]
+      }
+    - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
+    - { startTime: "10:30",  
+        endTime: "11:00", 
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+      }
+    - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
+    - { startTime: "11:10",  
+        endTime: "11:40", 
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+      }
+    - { startTime: "11:40", endTime: "11:50", talkIds: [504]} # changeover
+    - { startTime: "11:50",  
+        endTime: "12:20", 
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+      }
+    - { startTime: "12:20", endTime: "13:30", talkIds: [511]} #lunch 
+    - { startTime: "13:30",
+        endTime: "14:00",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+      }
+    - { startTime: "14:00", endTime: "14:10", talkIds: [504]} # changeover
+    - { startTime: "14:10",
+        endTime: "14:40",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+      }
+    - { startTime: "14:40", endTime: "14:50", talkIds: [504]} # changeover
+    - { startTime: "14:50",
+        endTime: "15:20",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+      }
+    - { startTime: "15:20", endTime: "16:00", talkIds: [503]} # afternoon Tea 
+    - { startTime: "16:00",
+        endTime: "16:30",
+        duration: 30,
+        talkIds: [418, 418, 998, 418]
+      }
+    - { startTime: "16:30", endTime: "16:40", talkIds: [504,504,403,504]} # changeover
+    - { startTime: "16:40",
+        endTime: "17:10",
+        duration: 30,
+        talkIds: [418, 418, 403, 418]
+      }
+    - { startTime: "17:10", endTime: "17:20", talkIds: [504,504,403,504]} # changeover
+    - { startTime: "17:20",
+        endTime: "17:50",
+        duration: 30,
+        talkIds: [418, 418, 403, 418]
+      }
+    - { startTime: "17:50",
+        endTime: "17:59",
+        duration: 9,
+        talkIds: [0] #[1001, 1002, 403, 1004]
+      }
+#    - { startTime: "18:00", endTime: "18:01", talkIds: [0]} # close of day
+
+
+- 
+  date: "2019-08-03"
+  dateReadable: "Saturday August 3 2019"
+  dayTitle: "Main Conference Day One"
+  dayShort: "Saturday"
+  tracks: 
+    - {title: "Cockle Bay", slug: "Cockle-Bay"}
+    - {title: "C3.3", slug: "C3.3"}
+    - {title: "C3.4 & C3.5", slug: "C3.4-C3.5"}
+    - {title: "C3.6", slug: "C3.6"}
+  timeslots:
+    - { startTime: "07:00", endTime: "08:00", duration: 60, talkIds: [600]} 
+    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
+    - { 
+        startTime: "08:30",
+        endTime: "09:00",
+        duration: 30,
+        talkIds: [899, 889, 889, 889]
+    }
+    - { 
+        startTime: "09:00",
+        endTime: "9:15",
+        duration: 15,
+        talkIds: [990a, 404, 404, 404]
+    }
+    - { startTime: "09:15",
+        endTime: "10:00",
+        duration: 45,
+        talkIds: [991, 404, 404, 404] # Invited Speaker 1
+    }
+    - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
+    - {
+        startTime: "10:30",
+        endTime:   "11:00",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
+    - {
+        startTime: "11:10",
+        endTime:   "11:40",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
+    - {
+        startTime: "11:50",
+        endTime:   "12:20",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "12:20", endTime: "13:30", talkIds: [512]} # lunch 
+
+    - {
+        startTime: "13:30",
+        endTime:   "14:00",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "14:00", endTime: "14:10", talkIds: [504]} 
+    - {
+        startTime: "14:10",
+        endTime:   "14:40",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
+    - {
+        startTime: "14:50",
+        endTime:   "15:20",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
+    - {
+        startTime: "16:00",
+        endTime: "16:40",
+        duration: 40,
+        talkIds: [992, 404, 404, 404] # Invited Speaker 2
+    }
+    - {
+        startTime: "16:40",
+        endTime: "17:40",
+        duration: 60,
+        talkIds: [997a, 404, 404, 404] 
+    }
+    - {
+        startTime: "17:40",
+        endTime: "18:20",
+        talkIds: [601] 
+    }
+
+
+- 
+  date: "2019-08-04"
+  dateReadable: "Sunday August 4 2019"
+  dayTitle: "Main Conference Day Two"
+  dayShort: "Sunday"
+  tracks: 
+    - {title: "Cockle Bay", slug: "Cockle-Bay"}
+    - {title: "C3.3", slug: "C3.3"}
+    - {title: "C3.4 & C3.5", slug: "C3.4-C3.5"}
+    - {title: "C3.6", slug: "C3.6"}
+  timeslots:
+    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
+    - { 
+        startTime: "09:00",
+        endTime: "09:10",
+        duration: 10,
+        talkIds: [990b, 404, 404, 404]
+    }
+    - { 
+        startTime: "09:10",
+        endTime: "10:00",
+        duration: 50,
+        talkIds: [993, 404, 404, 404]
+    }
+    - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
+    - {
+        startTime: "10:30",
+        endTime:   "11:00",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
+    - {
+        startTime: "11:10",
+        endTime:   "11:40",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
+    - {
+        startTime: "11:50",
+        endTime:   "12:20",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "12:20", endTime: "13:30", talkIds: [513]} 
+
+    - {
+        startTime: "13:30",
+        endTime:   "14:00",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "14:00", endTime: "14:10", talkIds: [504]} 
+    - {
+        startTime: "14:10",
+        endTime:   "14:40",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
+    - {
+        startTime: "14:50",
+        endTime:   "15:20",
+        duration: 30,
+        talkIds: [418, 418, 418, 418]
+    }
+    - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        duration: 40,
+        talkIds: [997b, 404, 404, 404] # Invited Speaker 4
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:30",
+        duration: 60,
+        talkIds: [1000, 404, 404, 404] 
+    }
+
+
+- 
+  date: "2019-08-05"
+  dateReadable: "Monday August 5 2019"
+  dayTitle: "Development Sprints Day One"
+  dayShort: "Monday"
+  tracks: 
+    - {title: "Cockle Bay"}
+    - {title: "C3.3"}
+    - {title: "C3.4 & C3.5"}
+    - {title: "C3.6"}
+  timeslots: 
+    - { startTime: "08:00",
+        endTime: "17:59",
+        duration: 599,
+        talkIds: [404, 404, 999, 404]
+    }
+    - { startTime: "18:00", talkIds: [0] }
+
+- 
+  date: "2019-08-06"
+  dateReadable: "Tuesday August 6 2019"
+  dayTitle: "Development Sprints Day Two"
+  dayShort: "Tuesday"
+  tracks: 
+    - {title: "Cockle Bay"}
+    - {title: "C3.3"}
+    - {title: "C3.4 & C3.5"}
+    - {title: "C3.6"}
+  timeslots: 
+    - { startTime: "08:00",
+        endTime: "17:59",
+        duration: 599,
+        talkIds: [404, 404, 999, 404]
+    }
+    - { startTime: "18:00", talkIds: [0] }

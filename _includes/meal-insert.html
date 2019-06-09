@@ -1,0 +1,28 @@
+{% assign meal = site.talks | where:"talkid", mealid | first %}
+
+{%- for day in site.data.schedule -%}
+  {%- for timeslot in day.timeslots -%}
+      {% assign timeslot_index = forloop.index %}
+      {%- for talk in timeslot.talkIds -%}
+        {% if talk == meal.talkid %}
+			{% assign servicestart = timeslot.startTime %}
+			{% assign serviceend = timeslot.endTime %}
+        {% endif %}
+      {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+<h2>{{meal.title}}</h2>
+{% if meal.catered %}
+<h4>Service time: {{servicestart}} - {{serviceend}}</h4>
+<br>
+{% if meal.snack %}<h4>🍪 Snack</h4><p>{{meal.snack}}</p>{%endif%}
+{% if meal.salad %}<h4>🥗 Salad</h4><p>{{meal.salad}}</p>{%endif%}
+{% if meal.sandwich%}<h4> 🥪 Sandwich</h4><p>{{meal.sandwich}}</p>{%endif%}
+{% if meal.wrap %}<h4> 🌯 Wrap</h4><p>{{meal.wrap}}</p>{%endif%}
+{% if meal.hotprotein %}<h4> 🍖 Hot protein</h4><p>{{meal.hotprotein}}</p>{%endif%}
+{% if meal.hotvegetarian %}<h4>🍲 Hot vegetarian</h4><p>{{meal.hotvegetarian}}</p>{%endif%}
+{% if meal.handitem%}<h4>🍤 Hand item</h4><p>{{meal.handitem}}</p>{%endif%}
+{% if meal.dessert%}<h4> 🍨 Dessert</h4><p>{{meal.dessert}}</p>{%endif%}
+
+{% else %}Uncatered{%endif%}

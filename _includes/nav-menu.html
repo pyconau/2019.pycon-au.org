@@ -1,0 +1,1 @@
+<h6 class="menu-nav">See also: {% for nav in site.menuLinks %}{%- if nav.permalink == page.permalink -%}{{nav.text}}{%-else-%}<a href="{{nav.permalink}}">{{nav.text}}</a> {%-endif %}{% if forloop.last == false%}, {% endif%}{%endfor-%}</h6>
