@@ -1,7 +1,7 @@
 ---
 talkid: 501
-description: Coffee and snacks
-title: Morning Tea
+title: Morning Break
 service: true
+catered: false
 ---
 

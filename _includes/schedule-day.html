@@ -57,6 +57,7 @@
                         <div class="service {{session.type}} {% if session.short %}short{% else %}long{% endif %}" style="{{session.css}}">
                         {% if session.link %} <a href="{{session.link}}" class="session_link">{{ session.title }}</a>
                         {% else %}{{session.title}}{%endif%}
+                        {% if session.type == "lunch" %}<div class="service-description">{{session.description}} </div>{%endif%}
                         </div>
                     </div>
                     {% endif %}

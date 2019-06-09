@@ -1,8 +1,8 @@
 ---
 layout: talk
 talkid: 503
-description: Coffee and snacks
-title: Afternoon Tea
+title: Afternoon Break
 service: true
+catered: false
 ---
 

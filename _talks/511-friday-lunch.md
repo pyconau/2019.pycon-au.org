@@ -1,35 +1,21 @@
 ---
 layout: page
 talkid: 511
-title: Friday Lunch
+title: Lunch
 type: lunch
-permalink: /menu/lunch/friday
-link: /menu/lunch/friday
-description: Tofu Larb salad, Rare roast beef sandwich, Chicken wrap, Poached Salmon, Potato Gnocci, Samosas, Hazelnut Brownie
+link: /menu/friday
+
+catered: true
+
+description: Tofu larb salad, rare roast beef sandwich, chicken wrap, poached salmon, potato gnocci, samosas, hazelnut brownie
+
+salad: Tofu larb salad — fragrant Asian herbs, wombok, green beans, chilli and nam prik GF, V
+sandwich: Rare roasted Rangers Valley beef, butter lettuce, umami ketchup, cheese and butter pickles
+wrap: Shredded chicken, coriander, mint, lemon, BBQ corn and jalapeno aioli
+hotprotein: Poached salmon, turmeric and coconut, fragrant Asian herbs, bean shoots and pickled cucumber GF
+hotvegetarian: Potato gnocchi, thyme roasted field mushrooms, Jannei Dairy goat curd and Country Valley cream V
+handitem: Potato and green pea samosa, spicy pineapple and mango chutney V
+dessert: Hazelnut brownie and praline mousse
+
 service: true
 ---
-
-{% include lunch-disclaimer.html %}
-
-
-## 🥗 Salad
-Tofu larb salad — fragrant Asian herbs, wombok, green beans, chilli and nam prik G F, V
-
-## 🥪 Sandwich
-Rare roasted Rangers Valley beef, butter lettuce, umami ketchup, cheese and butter pickles
-
-## 🌯 Wrap
-Shredded chicken, coriander, mint, lemon, BBQ corn and jalapeno aioli
-
-## 🍖 Hot protein
-Poached salmon, turmeric and coconut, fragrant Asian herbs, bean shoots and pickled cucumber G F
-
-## 🍲 Hot vegetarian
-
-Potato gnocchi, thyme roasted field mushrooms, Jannei Dairy goat curd and Country Valley cream V
-
-## 🍤 Hand item
-Potato and green pea samosa, spicy pineapple and mango chutney V
-
-## 🍨 Dessert
-Hazelnut brownie and praline mousse

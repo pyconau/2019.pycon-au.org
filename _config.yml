@@ -12,7 +12,7 @@ navigationLinks:
  - {permalink: '/news/', text: "News"}
  - {permalink: '/attend/', text: "Attend"}
  - {permalink: '/attend/tickets/', text: "Tickets"}
- - {permalink: '/assistance/', text: "Financial Aid"}
+ - {permalink: '/schedule/', text: "Schedule"}
  - {permalink: '/sponsor/', text: "Sponsor"}
  - {permalink: '/conduct/', text: "Conduct"}
 
@@ -29,6 +29,14 @@ attendLinks:
  - {permalink: '/attend/ticket-tiers', text: "Ticket Tiers"}
  - {permalink: '/attend/shirts', text: "Shirts"}
  - {permalink: '/attend/badges/', text: "Badges"}
+
+menuLinks:
+ - {permalink: '/menu/', text: "Menu"}
+ - {permalink: '/menu/friday', text: "Friday"}
+ - {permalink: '/menu/saturday', text: "Saturday"}
+ - {permalink: '/menu/sunday', text: "Sunday"}
+ - {permalink: '/menu/monday', text: "Monday"}
+ - {permalink: '/menu/tuesday', text: "Tuesday"}
 
 include: 
  - _pages

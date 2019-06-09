@@ -40,9 +40,7 @@ The sprints are a place for everyone from experienced open source contributors t
 
 ### <a name="catering"></a> Catering
 
-On the Friday, Saturday, and Sunday, morning tea, lunch, and afternoon tea will be provided for attendees. Those who have indicated dietary requirements will be catered for by the venue with special meals. 
-
-Only morning and afternoon tea will be catered for the Development Sprints. Lunch can be acquired at many local restaurants, or the food court at Harbourside shopping centre. 
+See our detailed [menu information](/menu). 
 
 ### <a name="childcare"></a> Childcare
 
