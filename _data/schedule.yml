@@ -50,7 +50,7 @@
         duration: 30,
         talkIds: ["AHCQT7", 'J3X8AZ', "R7NF9H", 403]
       }
-    - { startTime: "14:40", endTime: "14:50", talkIds: [504, 403, 504, 504]} # changeover
+    - { startTime: "14:40", endTime: "14:50", talkIds: [504]} # changeover
     - { startTime: "14:50",
         endTime: "15:20",
         duration: 30,
@@ -113,7 +113,7 @@
         duration: 30,
         talkIds: ["MGSZUN", "DLQHXY", "78PTJR", "7JGC7A"]
     }
-    - { startTime: "11:00", endTime: "11:10", talkIds: [504, 504, 504, 403]} # TODO changeover
+    - { startTime: "11:00", endTime: "11:10", talkIds: [504, 505, 505, 403]} # TODO changeover
     - {
         startTime: "11:10",
         endTime:   "11:40",
@@ -135,7 +135,7 @@
         duration: 30,
         talkIds: ["GT7AEM", "KBVANM", "YTENRE", "APRMG7"]
     }
-    - { startTime: "14:00", endTime: "14:10", talkIds: [504, 504, 504, 403]} 
+    - { startTime: "14:00", endTime: "14:10", talkIds: [504, 505, 505, 403]} 
     - {
         startTime: "14:10",
         endTime:   "14:40",
@@ -200,7 +200,7 @@
         duration: 30,
         talkIds: ["BBDXBX", "ZLCYYH", "P898WU", 403]
     }
-    - { startTime: "11:00", endTime: "11:10", talkIds: [504, 504, 504, 403]} # changeover
+    - { startTime: "11:00", endTime: "11:10", talkIds: [504, 505, 505, 403]} # changeover
     - {
         startTime: "11:10",
         endTime:   "11:40",
@@ -222,7 +222,7 @@
         duration: 30,
         talkIds: ["ZSMLN3", "FAAZW7", "JBAY39", "E7QJ8D"]
     }
-    - { startTime: "14:00", endTime: "14:10", talkIds: [504, 504, 504, 403]} 
+    - { startTime: "14:00", endTime: "14:10", talkIds: [504, 505, 505, 403]} 
     - {
         startTime: "14:10",
         endTime:   "14:40",
