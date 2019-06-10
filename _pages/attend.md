@@ -50,7 +50,7 @@ The child care will be held on-site in a dedicated space at the ICC, one level u
 
 We're offering this service at the heavily discounted rate of $30 per child per day. If that cost is problematic for you let us know and we can work something out.
 
-Please purchase childcare tickets for each of your children when you buy your own tickets. We will contact you for more information so we can provide the best care possible. If you have any questions please don't hesitate to email us at [contact@2019.pycon-au.org](mailto:contact@2019.pycon-au.org)
+To register for child care please purchase a child care add-on ticket for each child for each day when you register, and **also** fill out [this child details form](https://docs.google.com/forms/d/e/1FAIpQLScCp5oqybg4CddLzgJZRLSo0Yp4YUhcYWI-fxwTvyMDNvhSxw/viewform?usp=sf_link) for each child.
 
 ### <a name="venue"></a> Venue
 
