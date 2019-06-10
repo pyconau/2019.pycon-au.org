@@ -6,9 +6,10 @@ type: keynote
 title: Invited Speaker 2
 track: general
 card: is2.png
+hide: true
 recordingconsent: true
 speakers:
-    - name: Invited Speaker 2
+    - name: Yet to be announced 
       biography: |
         Biography pending
       tag: Invited Speaker

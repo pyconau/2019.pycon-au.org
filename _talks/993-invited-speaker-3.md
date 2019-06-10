@@ -5,10 +5,11 @@ talkid: 993
 type: keynote
 title: Invited Speaker 3
 track: general
+hide: true
 card: is3.png
 recordingconsent: true
 speakers:
-    - name: Invited Speaker 3
+    - name: Yet to be announced
       biography: |
         Biography pending
       tag: Invited Speaker
