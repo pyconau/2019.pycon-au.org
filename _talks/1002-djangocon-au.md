@@ -7,7 +7,6 @@ card: django.png
 talkid: 1002
 track: django
 title: DjangoCon AU
-description: talk order pending
 
 permalink: /djangoconau/
 
