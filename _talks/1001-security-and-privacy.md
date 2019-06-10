@@ -11,11 +11,11 @@ permalink: /security-and-privacy-track/
 
 speakers: 
     - name: Eliza Sorensen
-      thumbnailUrl: eliza.png
+      avatar: eliza.png
       twitter: zemmiph0bia
       company: Co-founder of Assembly Four
     - name: Chris Watt
-      thumbnailUrl: chris.png
+      avatar: chris.jpeg
       company: Head of Product, Environexus
       twitter: teknetia
 
@@ -23,7 +23,8 @@ speakers:
 abstract: |
     In today's world, digital security and personal privacy are two extremely crucial and valued aspects of our existence. The Security and Privacy track hopes to share knowledge about both of these concepts, both in sharing information about how to ensure security, and detailing ways we can protect our own privacy. 
 ---
-Talk submissions for the Security and Privacy Track will be included in the PyCon AU Call for Proposals which will open on the 3rd of April 2019. We welcome proposals for any talks which fit the purpose of this track.
+
+{% include track-talks-list.html %}
 
 <hr>
 <p align="center">The Security and Privacy Track cannot be run without the generous support of <a href="https://www.yubico.com/">yubico</a><br><br><a href="https://www.yubico.com/"><img src="/static/img/sponsors/yubico.png" style="width: 300px"> </a></p>

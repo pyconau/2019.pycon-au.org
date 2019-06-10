@@ -44,7 +44,13 @@ See our detailed [menu information](/menu).
 
 ### <a name="childcare"></a> Childcare
 
-PyCon AU will be providing onsite childcare at a very discounted rate. Please purchase childcare tickets for each of your children when you buy your own tickets. We will contact you for more information so we can provide the best care possible. If you have any questions please don't hesitate to email us at [contact@2019.pycon-au.org](mailto:contact@2019.pycon-au.org)
+PyCon AU will be providing onsite childcare at a very discounted rate.i This is for all children up to around 12 years old, and covers the schedule from 9am to 8pm. 
+
+The child care will be held on-site in a dedicated space at the ICC, one level up from the general conference. Child Care will be provided by [Abracadabra Childcare Services](http://abrachild.com.au/)
+
+We're offering this service at the heavily discounted rate of $30 per child per day. If that cost is problematic for you let us know and we can work something out.
+
+Please purchase childcare tickets for each of your children when you buy your own tickets. We will contact you for more information so we can provide the best care possible. If you have any questions please don't hesitate to email us at [contact@2019.pycon-au.org](mailto:contact@2019.pycon-au.org)
 
 ### <a name="venue"></a> Venue
 
