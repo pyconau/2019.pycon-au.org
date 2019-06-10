@@ -6,6 +6,7 @@ talkid: APRMG7
 title: Sufficiently Advanced Testing
 track: deepdive
 type: talk
+endTime: "14:40"
 
 speakers:
 - biography: "Zac is a researcher at the Australian National University\u2019s 3A\

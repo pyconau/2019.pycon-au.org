@@ -6,6 +6,7 @@ talkid: 7JGC7A
 title: 'It''s Pythons All The Way Down: Python Types & Metaclasses Made Simple'
 track: deepdive
 type: talk
+endTime: "11:40"
 
 speakers:
 - biography: My name is Mark Smith, although I'm often known as Judy2k online. I'm

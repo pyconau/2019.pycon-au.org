@@ -49,7 +49,7 @@
                             {% endif %}
                             {% endif %}
                             <span class="d-lg-none">{% if track.track %}Track: {{track.track}}<br>{%endif%}Room: {{ track.title }}</span>
-                            {% if session.endTime %}<span class="d-block">Ends at {{ session.endTime }}</span>{%endif%}
+                            <span class="d-lg-none">{% if session.endTime %}<span class="d-block">Ends at {{ session.endTime }}</span>{%endif%}</span>
                         </div>
                     </div>
                     {% elsif slot == session.talkid and session.service != null %}

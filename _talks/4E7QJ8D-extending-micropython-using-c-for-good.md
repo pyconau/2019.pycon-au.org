@@ -6,6 +6,7 @@ talkid: E7QJ8D
 title: 'Extending MicroPython: Using C for good!'
 track: deepdive
 type: talk
+endTime: "14:40"
 
 speakers:
 - biography: "Matt is a software engineer with twenty years professional experience.\
