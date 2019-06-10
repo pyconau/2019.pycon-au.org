@@ -39,7 +39,7 @@
                                 {% if session.type == "keynote" %}<div class="speaker">Yet to be announced</div>{%endif%}
                             {% else %}
                             <h5><a target="_blank" href="{{session.url}}" {% if session.type == "track" %} style="color: {{track.color}} !important"{%endif%}>{{ session.title }}</a></h5>
-                            {% if session.type == 'keynote' %}<div class="speaker">Invited Speaker</div>
+                            {% if session.type == 'track' %}{% if session.description %}<div class="speaker">{{session.description}}</div>{%endif%}
                             {% elsif session.type == "talk"%}
                                 <div class="speaker">
                                 {% for speaker in session.speakers -%}

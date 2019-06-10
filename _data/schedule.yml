@@ -11,68 +11,68 @@
   timeslots:
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { startTime: "09:00",
-        endTime: "09:15",
-        duration: 10,
+        endTime: "09:30",
+        duration: 30,
         talkIds: [1001, 1002, 1003, 1004]
       }
-    - { startTime: "09:15",  
+    - { startTime: "09:30",  
         endTime: "10:00", 
         duration: 45,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ['RTVHJX', 403, 403, 403]
       }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
     - { startTime: "10:30",  
         endTime: "11:00", 
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ['FJKHLM', 403, 'DLKBSX', 403]
       }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
     - { startTime: "11:10",  
         endTime: "11:40", 
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ['UKUJCZ', 403, 'S3MBVN', 403]
       }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} # changeover
     - { startTime: "11:50",  
         endTime: "12:20", 
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ['CL7SMP', 403, 'JWBHBZ', 403]
       }
     - { startTime: "12:20", endTime: "13:30", talkIds: [511]} #lunch 
     - { startTime: "13:30",
         endTime: "14:00",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["FGE3WS", 403, '8FNNWE', 403]
       }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504]} # changeover
     - { startTime: "14:10",
         endTime: "14:40",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["AHCQT7", 403, "R7NF9H", 403]
       }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} # changeover
     - { startTime: "14:50",
         endTime: "15:20",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["AMPANU", 403, "JAYDBQ", 403]
       }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503]} # afternoon Tea 
     - { startTime: "16:00",
         endTime: "16:30",
         duration: 30,
-        talkIds: [418, 418, 998, 418]
+        talkIds: ["EMJZ9E", 403, 998, 403]
       }
     - { startTime: "16:30", endTime: "16:40", talkIds: [504,504,403,504]} # changeover
     - { startTime: "16:40",
         endTime: "17:10",
         duration: 30,
-        talkIds: [418, 418, 403, 418]
+        talkIds: ["9ERQGP", 403, 403, 403]
       }
     - { startTime: "17:10", endTime: "17:20", talkIds: [504,504,403,504]} # changeover
     - { startTime: "17:20",
         endTime: "17:50",
         duration: 30,
-        talkIds: [418, 418, 403, 418]
+        talkIds: [404, 403, 403, 403]
       }
     - { startTime: "17:50",
         endTime: "17:59",
@@ -96,12 +96,6 @@
     - { startTime: "07:00", endTime: "08:00", duration: 60, talkIds: [600]} 
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { 
-        startTime: "08:30",
-        endTime: "09:00",
-        duration: 30,
-        talkIds: [899, 889, 889, 889]
-    }
-    - { 
         startTime: "09:00",
         endTime: "9:15",
         duration: 15,
@@ -117,21 +111,21 @@
         startTime: "10:30",
         endTime:   "11:00",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["MGSZUN", "DLQHXY", "78PTJR", "7JGC7A"]
     }
-    - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
+    - { startTime: "11:00", endTime: "11:10", talkIds: [504, 504, 504, 403]} # TODO changeover
     - {
         startTime: "11:10",
         endTime:   "11:40",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["X93AMA", "3ZZPQV", "3DWEQX", 403]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
         startTime: "11:50",
         endTime:   "12:20",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["EAJAB8", "CYUKXC", "AQUFMD", "YQQTLM"]
     }
     - { startTime: "12:20", endTime: "13:30", talkIds: [512]} # lunch 
 
@@ -139,21 +133,21 @@
         startTime: "13:30",
         endTime:   "14:00",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["GT7AEM", "KBVANM", "YTENRE", "APRMG7"]
     }
-    - { startTime: "14:00", endTime: "14:10", talkIds: [504]} 
+    - { startTime: "14:00", endTime: "14:10", talkIds: [504, 504, 504, 403]} 
     - {
         startTime: "14:10",
         endTime:   "14:40",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: [403, "GRZULZ", "WWU8SK", 403]
     }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
     - {
         startTime: "14:50",
         endTime:   "15:20",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["NMYXGB", "NBECJ9", "BHHDZW", "DQPLDS"]
     }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
     - {
@@ -204,21 +198,21 @@
         startTime: "10:30",
         endTime:   "11:00",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["BBDXBX", "ZLCYYH", "P898WU", 403]
     }
-    - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
+    - { startTime: "11:00", endTime: "11:10", talkIds: [504, 504, 504, 403]} # changeover
     - {
         startTime: "11:10",
         endTime:   "11:40",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["NDHNER", "EQFWYK", "3GGLLK", 403]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
         startTime: "11:50",
         endTime:   "12:20",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["ZQMLTH", "MJDYF8", "KWHEJN", "UK8MSB"]
     }
     - { startTime: "12:20", endTime: "13:30", talkIds: [513]} 
 
@@ -226,21 +220,21 @@
         startTime: "13:30",
         endTime:   "14:00",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["ZSMLN3", "FAAZW7", "JBAY39", "E7QJ8D"]
     }
-    - { startTime: "14:00", endTime: "14:10", talkIds: [504]} 
+    - { startTime: "14:00", endTime: "14:10", talkIds: [504, 504, 504, 403]} 
     - {
         startTime: "14:10",
         endTime:   "14:40",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["SE3QCP", "A839T8", "SEGQBU", 403]
     }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
     - {
         startTime: "14:50",
         endTime:   "15:20",
         duration: 30,
-        talkIds: [418, 418, 418, 418]
+        talkIds: ["WGSGBD", "9YB3VE", "HTJVPT", "KXFBJL"]
     }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
     - {

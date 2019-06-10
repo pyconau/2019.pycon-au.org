@@ -1,5 +1,4 @@
 ---
-video_url: https://youtu.be/rNkbmu4e3MA
 layout: talk
 type: talk
 talkid: 997b
