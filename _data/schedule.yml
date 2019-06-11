@@ -50,7 +50,7 @@
         duration: 30,
         talkIds: ["AHCQT7", 'J3X8AZ', "R7NF9H", 403]
       }
-    - { startTime: "14:40", endTime: "14:50", talkIds: [504]} # changeover
+    - { startTime: "14:40", endTime: "14:50", talkIds: [504, 403, 505, 505]} # changeover
     - { startTime: "14:50",
         endTime: "15:20",
         duration: 30,
@@ -62,7 +62,7 @@
         duration: 30,
         talkIds: ["EMJZ9E", 'PJGZ9L', 998, 403]
       }
-    - { startTime: "16:30", endTime: "16:40", talkIds: [504,504,403,504]} # changeover
+    - { startTime: "16:30", endTime: "16:40", talkIds: [504,505, 403,505]} # changeover
     - { startTime: "16:40",
         endTime: "17:10",
         duration: 30,
