@@ -40,13 +40,17 @@ The sprints are a place for everyone from experienced open source contributors t
 
 ### <a name="catering"></a> Catering
 
-On the Friday, Saturday, and Sunday, morning tea, lunch, and afternoon tea will be provided for attendees. Those who have indicated dietary requirements will be catered for by the venue with special meals. 
-
-Only morning and afternoon tea will be catered for the Development Sprints. Lunch can be acquired at many local restaurants, or the food court at Harbourside shopping centre. 
+See our detailed [menu information](/menu). 
 
 ### <a name="childcare"></a> Childcare
 
-PyCon AU will be providing onsite childcare at a very discounted rate. Please purchase childcare tickets for each of your children when you buy your own tickets. We will contact you for more information so we can provide the best care possible. If you have any questions please don't hesitate to email us at [contact@2019.pycon-au.org](mailto:contact@2019.pycon-au.org)
+PyCon AU will be providing onsite childcare at a very discounted rate. This is for all children up to around 12 years old, and covers the schedule from 8:30am to 6pm. 
+
+The child care will be held on-site in a dedicated space at the ICC, one level up from the general conference.
+
+We're offering this service at the heavily discounted rate of $30 per child per day. If that cost is problematic for you let us know and we can work something out.
+
+To register for child care please purchase a child care add-on ticket for each child for each day when you register, and **also** fill out [this child details form](https://docs.google.com/forms/d/e/1FAIpQLScCp5oqybg4CddLzgJZRLSo0Yp4YUhcYWI-fxwTvyMDNvhSxw/viewform?usp=sf_link) for each child.
 
 ### <a name="venue"></a> Venue
 

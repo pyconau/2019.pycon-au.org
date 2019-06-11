@@ -45,7 +45,7 @@ snake: rainbow
 <hr class="d-lg-none">
 {% if page.type == "track" %}<h3 align="center" style="color: #00B159;">Track Organisers</h4>{%endif%}
 {%- for speaker in page.speakers -%}
-    {% if speaker.thumbnailUrl %}<img class="rounded-circle speaker-picture border-{{page.track}}  mx-auto" alt="{{speaker.name}}" src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}">
+    {% if speaker.avatar %}<img class="rounded-circle speaker-picture border-{{page.track}}  mx-auto" alt="{{speaker.name}}" src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.avatar }}">
     <p align="center" style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span>
     {% else %}
     <p style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span>
@@ -56,7 +56,7 @@ snake: rainbow
     {% if speaker.url != blank %}<br><a href="{{ speaker.url}}">{{speaker.url | replace: "https://", "" | replace: "http://", ""}}</a>{% endif %}
     </p>
     <hr>
-    <p>{{ speaker.bio | markdownify }}</p>
+    <p>{{ speaker.biography| markdownify }}</p>
 {%- endfor -%}
 </div>
 </div>

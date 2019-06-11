@@ -11,10 +11,12 @@ description: PyCon AU is the national conference for the Python Programming Comm
 <h2 align="left" class="header-green dateh2">August 2 - 6 2019, ICC Sydney</h2>
 <hr>
 <div class="row">
-  <div class="col-8"><h4>PyCon AU 2019 Call for Proposals: CLOSED.</h4>
-  This year we received more submissions for talks than any other year!<br><br>Our review team is hard at work looking over each and every submission, and we endevour to notify everyone on the status of your submission by <b>June 2nd, 2019</b>. 
-  </div>
-  <div class="col-4"><img class="img-fluid"  src="{{site.url}}/static/img/review.jpg"></div>
+  <div class="col-8"><h4>Tickets, schedule, and childcare now available!</h4>
+  <p>Tickets are now available for PyCon AU 2019, to suit every budget. <a href="/attend/tickets/">Register today!</a></p>
+  <p>Our <a href="/schedule/">talk schedule</a> is now live. We're bringing speakers from around Australia, New Zealand and beyond to talk about many Python topics across three days.</p> 
+  <p>We are also offering <a href="/attend#childcare">subsidised childcare</a> for the three conference days</p>
+  <p>Want to help make PyCon AU happen? <a href="/volunteer/">Volunteer registration is now open</a> (closes June 30)</p></div>
+  <div class="col-4"><img class="img-fluid"  src="{{site.url}}/static/img/tickets.jpg"></div>
 </div>
 <hr>
 <div class="row">

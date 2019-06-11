@@ -15,9 +15,9 @@ speakers:
       company: CMV Group
       twitter: excitedleigh
       url: https://leigh.brenecki.id.au
-      thumbnailUrl: leigh-brenecki.png
+      avatar: leigh-brenecki.png
     - name: Markus Holtermann
-      thumbnailUrl: markus-holtermann.png
+      avatar: markus-holtermann.jpg
       twitter: m_holtermann
       url: https://markusholtermann.eu
       company: LaterPay GmbH
@@ -28,7 +28,7 @@ abstract: DjangoCon AU is a specialist track focusing on the Django web framewor
   DjangoCon AU has been running as a mini-conference inside PyCon AU since 2013. Now in it's 7th year, it is the younger sibling conference to <a href="https://2019.djangocon.eu">DjangoCon Europe</a> and <a href="https://2019.djangocon.us/">DjangoCon US</a>
 </p>
 
-Talk submissions for DjangoCon AU will be included in the PyCon AU Call for Proposals which will open on the 3rd of April 2019. We welcome proposals for any talks which fit the purpose of this track.
+{% include track-talks-list.html %}
 
 <hr>
 
