@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteer at PyCon AU
-permalink: /volunteer
+permalink: /volunteer/
 card: volunteer.png
 ---
 
