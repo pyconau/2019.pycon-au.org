@@ -3,6 +3,7 @@ layout: talk
 talkid: 503
 title: Afternoon Break
 service: true
-catered: false
+catered: true
+snack: to be confirmed
 ---
 

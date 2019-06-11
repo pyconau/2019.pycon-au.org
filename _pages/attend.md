@@ -44,7 +44,7 @@ See our detailed [menu information](/menu).
 
 ### <a name="childcare"></a> Childcare
 
-PyCon AU will be providing onsite childcare at a very discounted rate.i This is for all children up to around 12 years old, and covers the schedule from 8:30am to 6pm. 
+PyCon AU will be providing onsite childcare at a very discounted rate. This is for all children up to around 12 years old, and covers the schedule from 8:30am to 6pm. 
 
 The child care will be held on-site in a dedicated space at the ICC, one level up from the general conference.
 
