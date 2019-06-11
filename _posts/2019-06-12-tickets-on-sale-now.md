@@ -4,13 +4,14 @@ title: Ticket, schedule, childcare, and calling for volunteers!
 permalink: /news/tickets-on-sale
 ---
 
-PyCon AU 2019 is happy to announce a trifecta of announcements ahead of our August 2 conference start: 
+PyCon AU 2019 is happy to announce: 
 
  * Tickets are available from today
- * We have confirmed on-site childcare for the main conference days
+ * The conference schedule is now live
+ * We have confirmed on-site childcare for the main conference days, and
  * We are now reaching out for volunteers. 
  
- ## Tickets on sale now
+## Tickets on sale now
  
  We have a number of different ticket types available to help people of every financial ability attend, including tickets just for the weekend, tickets for the three days of talks, discounted tickets for students, early bird specials, and development sprint addons.
  

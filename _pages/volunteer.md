@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteer at PyCon AU 2019
+title: Volunteer at PyCon AU
 permalink: /volunteer
 card: volunteer.png
 ---
