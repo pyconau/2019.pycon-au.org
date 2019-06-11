@@ -5,12 +5,6 @@ title: Development Sprints
 type: sprints
 permalink: /sprints
 
-speakers:
-    - name: Chris Watt
-      avatar: chris.jpeg
-      company: Sprints Co-ordinator
-      twitter: teknetia
-
 ---
 
 Development Sprints, also known as just 'sprints', are an unstructured session where attendees can work on projects with peers, hack on things, or see what others are working on.
