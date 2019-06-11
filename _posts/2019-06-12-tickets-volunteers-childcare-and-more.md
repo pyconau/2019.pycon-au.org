@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ticket, schedule, childcare, and calling for volunteers!
-permalink: /news/tickets-on-sale
 ---
 
 PyCon AU 2019 is happy to announce: 
