@@ -198,7 +198,7 @@
         startTime: "10:30",
         endTime:   "11:00",
         duration: 30,
-        talkIds: ["BBDXBX", "ZLCYYH", "P898WU", 403]
+        talkIds: ["BBDXBX", "ZLCYYH", "P898WU", "BMJSEV"]
     }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504, 505, 505, 403]} # changeover
     - {
