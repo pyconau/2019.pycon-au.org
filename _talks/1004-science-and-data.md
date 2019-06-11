@@ -3,7 +3,6 @@ layout: talk
 snake: rainbow
 type: track
 card: sciencedata.png
-description: talk order pending
 talkid: 1004
 title: Science and Data
 track: science
