@@ -21,7 +21,17 @@ jekyll serve -w
 
 ## Cards and Header Images
 
-`thumbnailUrl` and `cards` are relative file names. Files exist in `static/img/people` and `static/img/cards`, respectively
+`avatar` and `cards` are relative file names. Files exist in `static/img/people` and `static/img/cards`, respectively
+
+## Talk logic
+
+ * 404 is a specifically empty slot, and shows up in grey.
+ * 403 is a continuation slot, useful for long running talks. Also used for as-yet-unscheduled slots, to show that something is coming. 
+ * 504 is a room changeover, but 505 is also a room change over that doesn't appear on mobile. Use one 504 per row for mobile shiny. 
+ * Talk filenames are prefaced with 4 just because they're all alphanumeric this year; last year all the papercall talks were also prefaced with 4, and it makes it easier to see talks vs services in file listings. 
+ * Lunches and breaks are 'services' which are specifically four-slots wide. 
+ * Deep Dive talks need an `endTime` to display nicely on mobile (have an end time)
+
 
 ## Pull Request Previews
 
