@@ -27,7 +27,7 @@ We have speakers joining us from all over Australia, New Zealand, and beyond for
 
 ## Calling for volunteers
 
-We apprecate all the help we can get to put on such an amazing event year on year. We have volunteering opportunities for both partial and full time volunteers, ranging from welcoming attendees to the conference, staffing the regsitration desk, to helping us record the talks. 
+We appreciate all the help we can get to put on such an amazing event year on year. We have volunteering opportunities for both partial and full time volunteers, ranging from welcoming attendees to the conference, staffing the registration desk, to helping us record the talks.
 
 Full time volunteers get free entry to the conference. Sign up closes June 30
 
