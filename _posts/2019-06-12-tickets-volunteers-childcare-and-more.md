@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ticket, schedule, childcare, and calling for volunteers!
+title: Tickets, schedule, childcare, and calling for volunteers!
 card: tickets.png
 ---
 
