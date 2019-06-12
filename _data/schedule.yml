@@ -7,7 +7,7 @@
     - {title: "Cockle Bay", "track": "Security and Privacy", "color": "#FFC518", slug: "Cockle-Bay"}
     - {title: "C3.3", "track": "DjangoCon AU", "color": "#F36F3A", slug: "C3.3"}
     - {title: "C3.4 & C3.5", "track": "Education", "color": "#E01D43", slug: "C3.4-C3.5"}
-    - {title: "C3.6", "track": "Internet of Things", "color": "#5B57A5", slug: "C3.6"}
+    - {title: "C3.6", "track": "Science and Data", "color": "#5B57A5", slug: "C3.6"}
   timeslots:
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { startTime: "09:00",
