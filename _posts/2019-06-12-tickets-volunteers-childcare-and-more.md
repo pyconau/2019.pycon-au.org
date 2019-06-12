@@ -35,7 +35,7 @@ Full time volunteers get free entry to the conference. Sign up closes June 30
 
 ## On site childcare
 
-We are happy to confirm that we will be continuing our on-site childcare in 2019. This is for all children up to around 12 years old, and covers the schedule from 8:30am to 6pm on the Friday, Saturday and Sunday. We’re offering this service at the heavily discounted rate of $30 per child per day. I 
+We are happy to confirm that we will be continuing our on-site childcare in 2019. This is for all children up to around 12 years old, and covers the schedule from 8:30am to 6pm on the Friday, Saturday and Sunday. We’re offering this service at the heavily discounted rate of $30 per child per day. 
 
 [More information on childcare](/attend/#childcare)
 
