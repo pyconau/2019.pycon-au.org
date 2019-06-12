@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 snake: rainbow
-permalink: /schedule/friday
+permalink: /schedule/friday/
 card: schedule.png
 ---
 {% assign dayindex = 0 %}
