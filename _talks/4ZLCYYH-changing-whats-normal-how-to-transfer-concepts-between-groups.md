@@ -22,7 +22,7 @@ abstract: |
       This talk focuses on how to change people’s minds, and successfully introduce new concepts to groups and individuals without damaging relationships.
 ---
 
-o-cultures - adjacent work teams, different arms of the family. We navigate groups with different communication norms, consent norms, political awareness, technical knowledge, and assumptions of morality, and we do it several times a day. 
+Each of us travels across cultures - work and home, multiple friendship groups. We even travel across micro-cultures - adjacent work teams, different arms of the family. We navigate groups with different communication norms, consent norms, political awareness, technical knowledge, and assumptions of morality, and we do it several times a day. 
 
 How do we do that successfully? More importantly, how do we bring new concepts to existing groups without damaging relationships? 
 
