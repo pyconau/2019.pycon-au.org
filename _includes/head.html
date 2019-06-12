@@ -10,14 +10,18 @@
 <link rel="stylesheet" href="/static/css/pycon.css">
 
 <!-- Cards -->
-{% assign description = page.abstract | escape | newline_to_br or page.description %}
-<meta property="og:title"  content="PyCon AU 2019 | {{ page.title }}">
+{% if page.type == "talk" %}
+{% capture title %}{% for speaker in page.speakers %}{% if forloop.index0 > 0 %} and {% endif %}{{ speaker.name }}{% endfor %} will be speaking at PyCon AU 2019{% endcapture %}
+{% else %}
+{% assign title = "PyCon AU 2019 | " | append: page.title %}
+{% endif%}
+{% assign descript = page.abstract or page.description or site.description %}
+<meta property="og:title"  content="{{ title }}">
+<meta name="twitter:title" content="{{ title }}">
+<meta property="og:description"  content="{{ descript }}" />
+<meta name="twitter:description" content="{{ descript }}" />
 <meta property="og:url"    content="{{ page.url | prepend: site.url }}">
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<meta name="twitter:title" content="PyCon AU 2019 | {{ page.title }}" />
 <meta name="twitter:site"  content="@pyconau">
-<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-<meta name="twitter:card" content="summary_large_image">
 {%- if page.card %}
 <!--- twitter card -->
 {% assign card = page.card | prepend: "/static/img/cards/" | prepend: site.url -%}
@@ -26,7 +30,7 @@
 <meta property="og:image"  content="{{ card }}" />
 {% else %}
 <!--- no page.card found. -->
-{% assign image = "/static/img/pyconau.png" | prepend: site.url -%}
+{% assign image = "/static/img/pyconau-icon.png" | prepend: site.url -%}
 <meta name="twitter:card"  content="summary">
 <meta name="twitter:image" content="{{ image }}" />
 <meta property="og:image"  content="{{ image }}" />
