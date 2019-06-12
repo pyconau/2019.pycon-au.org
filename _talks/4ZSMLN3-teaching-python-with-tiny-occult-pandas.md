@@ -25,6 +25,7 @@ speakers:
     He was the 2016 ACCE/ACS Australian ICT Educator of the Year, and founding President
     of Information Technology Educators ACT.'
   name: Bruce Fuda
+  avatar: bruce-fuda.jpg
 
 abstract: | 
       Microcontrollers, web development, data science and machine learning – with Python you really can do it all, and soon every teacher and student in the ACT will have the curriculum, resources and support they need to do amazing things with a great programming language!
