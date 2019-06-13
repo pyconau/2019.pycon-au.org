@@ -17,7 +17,7 @@ speakers:
   name: Robert Lechte
 
 abstract: | 
-      Building on Bret Victor's famous "Inventing on Principle" presentation, we look at writing Python where the code is instantly run and every line visualized after every single keystroke. There's a future beyond the text-editor -> console-run loop and this is a taste of it.
+      Building on Bret Victor's famous 'Inventing on Principle' presentation, we look at writing Python where the code is instantly run and every line visualized after every single keystroke. There's a future beyond the text-editor -> console-run loop and this is a taste of it.
 ---
 
 Even with good tests, Python code can be a black box: Write a block of code, then test it to see if it spits out the right things. This process involves continuous context shifts: From the syntax, logic and internals of the code in the text editor, to the tests and output in the terminal window, and back again.
