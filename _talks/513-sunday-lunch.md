@@ -7,7 +7,7 @@ link: /menu/sunday
 
 catered: true
 
-description: Bean and wheat tabbouleh, poached chicken, roasted mushrooms, koraen beef stew, noodle stirfry, spring rolls, passionfruit meringue tarts
+description: Bean and wheat tabbouleh, poached chicken, roasted mushrooms, Korean beef stew, noodle stirfry, spring rolls, passionfruit meringue tarts
 
 salad: Cannellini bean and bulgur wheat tabbouleh, pumpkin seeds, confit tomato and roasted garlic dressing V
 sandwich: Poached chicken, avocado, tarragon and lemon
