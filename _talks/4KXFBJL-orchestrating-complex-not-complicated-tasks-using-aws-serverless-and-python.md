@@ -8,11 +8,10 @@ track: general
 type: talk
 
 speakers:
-- biography: 'Michael is a Senior Cloud Engineer at Versent in Sydney (AWS consulting
-    partners of the year 2017/18/19). Michael has been coding in Python for 10 years
-    and loves building scalable apps with Python in the cloud. Other than being able
-    to drink heroic amounts of coffee, Michael also holds a PhD in Computer Science,
-    is a cyclist and beagle whisperer.
+- biography: 'Michael is a Senior Cloud Engineer at Versent in Sydney. Michael has
+    been coding in Python for 10 years and loves building scalable apps with Python
+    in the cloud. Other than being able to drink heroic amounts of coffee, Michael
+    also holds a PhD in Computer Science, is a cyclist and beagle whisperer.
 
 
     Michael also likes to share his automation ramblings at [AShinyCloud](https://ashiny.cloud).'
