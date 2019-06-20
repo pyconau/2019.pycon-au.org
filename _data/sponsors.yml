@@ -87,8 +87,8 @@
   sponsors:
     - name: AWS
       logo: aws.png
-      link: aws.amazon.com/careers
-      href: https://aws.amazon.com/careers/
+      link: bit.ly/AMZN_PyConAU 
+      href: http://bit.ly/AMZN_PyConAU 
       blurb: |
         Amazon Web Services is the earth’s most customer centric company.  In Sydney,
         we have sizeable software and networking engineering teams, owning global
