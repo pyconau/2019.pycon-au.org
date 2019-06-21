@@ -14,7 +14,7 @@ speakers:
       twitter: vmbrasseur
       tag: Invited Speaker
       url: https://anonymoushash.vmbrasseur.com
-      thumbnailUrl: vm-brasseur.jpg
+      avatar: vm-brasseur.jpg
 abstract: "What if money isn't the only way to create sustainable free and open source software projects? What if it turns out that sustainability is actually a multi-faceted concept that can't truly be successful if people focus on only one of its many elements?"
 
 description: "Vicky will be speaking at PyCon AU about the real cost of Open Source Sustainability."
