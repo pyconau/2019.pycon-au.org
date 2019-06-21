@@ -5,7 +5,7 @@ _site
 Gemfile.lock
 _site
 .bundle
-
+vendor/
 .jekyll-metadata
 # don't override the CNAME
 CNAME 
