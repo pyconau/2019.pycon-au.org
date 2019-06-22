@@ -229,6 +229,21 @@
         Yubico sets new global standards for simple and secure access to computers, mobile devices, servers, and internet accounts. <BR><BR>The company's core invention, the YubiKey, delivers strong hardware protection, with a simple touch, across any number of IT systems and online services. The YubiHSM, Yubico's ultra-portable hardware security module, protects sensitive data stored in servers.<br><BR>Yubico is a leading contributor to both the FIDO2, WebAuthn and FIDO Universal 2nd Factor open authentication standards, and the company's technology is deployed and loved by 9 of the top 10 internet brands and by millions of users in 160 countries.<br><BR>Founded in 2007, Yubico is privately held, with offices in Sweden, UK, Germany, USA, Australia, and Singapore. For more information: <a href="https://yubico.com">www.yubico.com</a>
 
 
+    - name: Stripe
+      link: stripe.com/jobs
+      href: https://stripe.com/jobs
+      twitter: stripeaustralia
+      logo: stripe.png
+      blurb: |
+          Stripe is a technology company that builds economic infrastructure for
+          the internet. Businesses of every size -- from new startups to public companies
+          like Salesforce and Facebook -- use the company's software to accept online
+          payments and run technically sophisticated financial operations in more than
+          100 countries. Stripe helps new companies get started and grow their revenues,
+          and established businesses accelerate into new markets and launch new
+          business models. Over the long term, Stripe aims to increase the GDP of the
+          internet.
+
 
 - 
   title: Auspice
