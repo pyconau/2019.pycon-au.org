@@ -26,6 +26,7 @@ conferenceDays:
 
 attendLinks:
  - {permalink: '/attend/', text: "Attend"}
+ - {permalink: '/attend/accomodation', text: "Accomodation"}
  - {permalink: '/attend/tickets', text: "Tickets"}
  - {permalink: '/attend/ticket-tiers', text: "Ticket Tiers"}
  - {permalink: '/attend/shirts', text: "Shirts"}
