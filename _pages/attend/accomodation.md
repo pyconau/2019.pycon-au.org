@@ -3,7 +3,6 @@ layout: page
 title: Accommodation
 snake: rainbow
 permalink: /attend/accomodation/
-card: schedule.png
 ---
 
 <meta http-equiv="refresh" content="0;URL='/attend/accommodation'" />
