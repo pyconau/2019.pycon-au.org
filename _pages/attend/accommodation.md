@@ -18,7 +18,7 @@ Sydney also has AirBnB, hostels, and backpackers, for cheaper accommodation opti
 
 <hr>
 
-PyCon AU has been able to secure some discounts with hotels in the Darling Harbour precint.
+PyCon AU has been able to secure some discounts with hotels in the Darling Harbour precinct.
 
 #### Novotel and Ibis, Darling Harbour
 
