@@ -14,7 +14,7 @@ sponsors: true
 * [Catering](#catering)
 * [Childcare](#childcare)
 * [Venue](#venue)
-* [Accomodation](/attend/accomodation)
+* [Accommodation](/attend/accommodation)
 
 ### <a name="conf"></a> The Conference
 
