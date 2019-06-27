@@ -2,7 +2,7 @@
 layout: page
 title: Accomodation
 snake: rainbow
-permalink: /schedule/
+permalink: /attend/accomodation/
 card: schedule.png
 ---
 
