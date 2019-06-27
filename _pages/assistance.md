@@ -35,6 +35,6 @@ Note that these are considered as factors, but they are not a check-list. You do
 
 ## Reimbursement process
 
-If granted assistance, you will still be expected to organise and purchase travel and accomoodation yourself and await reimbursement. You will be given a maximum amount of reimbursment based on the assistance you requested. Once assistance is granted, you can start making bookings and sending us your receipts.
+If granted assistance, you will still be expected to organise and purchase travel and accommoodation yourself and await reimbursement. You will be given a maximum amount of reimbursment based on the assistance you requested. Once assistance is granted, you can start making bookings and sending us your receipts.
 
 If you have any questions about financial assistance please contact us at [assistance@2019.pycon-au.org](mailto:assistance@2019.pycon-au.org).

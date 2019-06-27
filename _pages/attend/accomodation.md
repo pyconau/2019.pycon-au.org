@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accomodation
+title: Accommodation
 snake: rainbow
 permalink: /attend/accomodation/
 card: schedule.png

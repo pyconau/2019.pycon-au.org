@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accomodation
+title: Accommodation
 snake: rainbow
 permalink: /attend/accommodation
 sponsors: true
@@ -8,13 +8,13 @@ sponsors: true
 
 {% include nav-attend.html %}
 
-### Accomodation
+### Accommodation
 
 Accommodation is not included in conference registration. We strongly encourage attendees to organise their accommodation as early as possible. Sydney is a busy place with a lot going on.
 
 We are located right in Cockle Bay/Darling Harbour/Pyrmont, so while there are hotels right on the same block as the venue, you can go as far afield as the CBD and still be within a 10 minute walk of venue. 
 
-Sydney also has AirBnB, hostels, and backpackers, for cheaper accomodation options. 
+Sydney also has AirBnB, hostels, and backpackers, for cheaper accommodation options. 
 
 <hr>
 
