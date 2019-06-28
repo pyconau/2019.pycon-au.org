@@ -20,7 +20,7 @@ speakers:
       avatar: markus-holtermann.jpg
       twitter: m_holtermann
       url: https://markusholtermann.eu
-      company: LaterPay GmbH
+      company: Crate.io
 
 abstract: DjangoCon AU is a specialist track focusing on the Django web framework, what you can do with it and how it works.
 ---
