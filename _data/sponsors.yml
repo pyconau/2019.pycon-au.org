@@ -244,6 +244,22 @@
           business models. Over the long term, Stripe aims to increase the GDP of the
           internet.
 
+    - name: Auth0
+      link: auth0.com
+      href: https://auth0.com
+      logo: auth0.png
+      twitter: auth0
+      blurb: | 
+        Auth0 is a global leader in Identity-as-a-Service (IDaaS) and provides
+        thousands of enterprise customers with a Universal Identity Platform for their
+        web, mobile, IoT, and internal applications, securing more than 2.5B logins per
+        month. Auth0's key competitive differentiator is the extensibility of its
+        developer-centric platform, enabling developers to quickly integrate identity
+        into their applications so they can dedicate their time to product innovation.
+        Auth0's Sydney office caters to 830 customers in Australia and New Zealand,
+        including SiteMinder, CarsGuide, Servcorp, ME Bank, SkyTV, and Foodstuffs. For
+        more information, please visit <a href="https://auth0.com">https://auth0.com</a>
+
 
 - 
   title: Auspice
