@@ -11,9 +11,14 @@
   timeslots:
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { startTime: "09:00",
-        endTime: "09:30",
-        duration: 30,
+        endTime: "09:15",
+        duration: 15,
         talkIds: [1001, 1002, 1003, 1004]
+      }
+    - { startTime: "09:15",
+        endTime: "09:30",
+        duration: 15,
+        talkIds: [403, 'DCAUIS', 403, 403]
       }
     - { startTime: "09:30",  
         endTime: "10:00", 
