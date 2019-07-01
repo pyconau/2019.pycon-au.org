@@ -229,6 +229,37 @@
         Yubico sets new global standards for simple and secure access to computers, mobile devices, servers, and internet accounts. <BR><BR>The company's core invention, the YubiKey, delivers strong hardware protection, with a simple touch, across any number of IT systems and online services. The YubiHSM, Yubico's ultra-portable hardware security module, protects sensitive data stored in servers.<br><BR>Yubico is a leading contributor to both the FIDO2, WebAuthn and FIDO Universal 2nd Factor open authentication standards, and the company's technology is deployed and loved by 9 of the top 10 internet brands and by millions of users in 160 countries.<br><BR>Founded in 2007, Yubico is privately held, with offices in Sweden, UK, Germany, USA, Australia, and Singapore. For more information: <a href="https://yubico.com">www.yubico.com</a>
 
 
+    - name: Stripe
+      link: stripe.com/jobs
+      href: https://stripe.com/jobs
+      twitter: stripeaustralia
+      logo: stripe.png
+      blurb: |
+          Stripe is a technology company that builds economic infrastructure for
+          the internet. Businesses of every size -- from new startups to public companies
+          like Salesforce and Facebook -- use the company's software to accept online
+          payments and run technically sophisticated financial operations in more than
+          100 countries. Stripe helps new companies get started and grow their revenues,
+          and established businesses accelerate into new markets and launch new
+          business models. Over the long term, Stripe aims to increase the GDP of the
+          internet.
+
+    - name: Auth0
+      link: auth0.com
+      href: https://auth0.com
+      logo: auth0.png
+      twitter: auth0
+      blurb: | 
+        Auth0 is a global leader in Identity-as-a-Service (IDaaS) and provides
+        thousands of enterprise customers with a Universal Identity Platform for their
+        web, mobile, IoT, and internal applications, securing more than 2.5B logins per
+        month. Auth0's key competitive differentiator is the extensibility of its
+        developer-centric platform, enabling developers to quickly integrate identity
+        into their applications so they can dedicate their time to product innovation.
+        Auth0's Sydney office caters to 830 customers in Australia and New Zealand,
+        including SiteMinder, CarsGuide, Servcorp, ME Bank, SkyTV, and Foodstuffs. For
+        more information, please visit <a href="https://auth0.com">https://auth0.com</a>
+
 
 - 
   title: Auspice
