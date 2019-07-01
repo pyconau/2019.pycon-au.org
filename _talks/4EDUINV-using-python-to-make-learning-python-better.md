@@ -6,6 +6,7 @@ talkid: EDUINV
 title: Using Python to make learning Python better
 track: education
 type: talk
+endtime: "10:00"
 
 speakers:
   - name: Ben Taylor
