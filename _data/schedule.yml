@@ -22,7 +22,7 @@
       }
     - { startTime: "09:30",  
         endTime: "10:00", 
-        duration: 45,
+        duration: 30,
         talkIds: ['RTVHJX', 403, 403, "XCT9AS"]
       }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
@@ -108,7 +108,7 @@
     }
     - { startTime: "09:20",
         endTime: "10:00",
-        duration: 45,
+        duration: 40,
         talkIds: [991, 404, 404, 404] # Invited Speaker 1
     }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
@@ -118,7 +118,7 @@
         duration: 30,
         talkIds: ["MGSZUN", "DLQHXY", "78PTJR", "7JGC7A"]
     }
-    - { startTime: "11:00", endTime: "11:10", talkIds: [504, 505, 505, 403]} # TODO changeover
+    - { startTime: "11:00", endTime: "11:10", talkIds: [504, 505, 505, 403]} 
     - {
         startTime: "11:10",
         endTime:   "11:40",
