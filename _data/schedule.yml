@@ -102,11 +102,11 @@
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { 
         startTime: "09:00",
-        endTime: "9:15",
-        duration: 15,
+        endTime: "9:20",
+        duration: 20,
         talkIds: [990a, 404, 404, 404]
     }
-    - { startTime: "09:15",
+    - { startTime: "09:20",
         endTime: "10:00",
         duration: 45,
         talkIds: [991, 404, 404, 404] # Invited Speaker 1
@@ -188,14 +188,14 @@
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { 
         startTime: "09:00",
-        endTime: "09:10",
-        duration: 10,
+        endTime: "09:20",
+        duration: 20,
         talkIds: [990b, 404, 404, 404]
     }
     - { 
-        startTime: "09:10",
+        startTime: "09:20",
         endTime: "10:00",
-        duration: 50,
+        duration: 40,
         talkIds: [993, 404, 404, 404]
     }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
@@ -252,7 +252,7 @@
         startTime: "17:00",
         endTime: "17:30",
         duration: 60,
-        talkIds: [1000, 404, 404, 404] 
+        talkIds: [990c, 404, 404, 404] 
     }
 
 
