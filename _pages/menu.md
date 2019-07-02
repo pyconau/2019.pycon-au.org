@@ -16,6 +16,6 @@ This pages includes both information about when meals will be catered, but also 
 
 At this stage, we are not providing any arrival refreshments. Would you like to help make this happen? [Become a sponsor](https://2019.pycon-au.org/sponsor/)
 
-Menu details can be found for each day: [Friday](/menu/friday/), [Saturday](/menu/saturday/), [Sunday](/menu/sunday/), [Monday](/menu/monday/), [Tuesday](/menu/tuesday/)
+Menu details can be found for each day: [Friday](/menu/friday), [Saturday](/menu/saturday), [Sunday](/menu/sunday), [Monday](/menu/monday), [Tuesday](/menu/tuesday)
 
 

@@ -31,6 +31,7 @@ attendLinks:
  - {permalink: '/attend/ticket-tiers', text: "Ticket Tiers"}
  - {permalink: '/attend/shirts', text: "Shirts"}
  - {permalink: '/attend/badges/', text: "Badges"}
+ - {permalink: '/menu/', text: "Menu"}
 
 menuLinks:
  - {permalink: '/menu/', text: "Menu"}
