@@ -118,6 +118,17 @@
         Australia, with customers in the US, Canada, UK, France, Germany, Australia,
         New Zealand, Singapore, The Netherlands and Japan.
 
+
+    - name: Facebook
+      logo: facebook.png
+      link: tinyurl.com/pyfbjobs2019
+      href: https://tinyurl.com/pyfbjobs2019
+      blurb: |
+        Our mission at Facebook is to give people the power to build community
+        and bring the world closer together.  As extensive users of Python at Facebook,
+        we are proud to support PyCon AU and the broader Python community.  <br><br>Interested
+        in Python jobs? Check out: <a href="https://tinyurl.com/pyfbjobs2019">https://tinyurl.com/pyfbjobs2019</a>
+
 - 
     title: Sponsors
     sponsors:
