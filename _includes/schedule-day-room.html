@@ -31,23 +31,7 @@
                       <span>{{ timeslot.startTime }} - {% if session.endTime %}{{ session.endTime}}{% else %}{{timeslot.endTime }}{%endif%}</span>
                   </div>
                   <div class="col-12 col-lg">
-                      <div class="session" style="{{session.css}}">
-                          {% if session.hide %}
-                              <h5>{{session.title}}</h5>
-                              {% if session.type == "keynote" %}<div class="speaker">Yet to be announced</div>{%endif%}
-                          {% else %}
-                          <h5><a target="_blank" href="{{session.url}}"> {{ session.title }} {% if session.type == "track" %}Welcome{%endif%}</a></h5>
-                          {% if session.type == 'keynote' %}<div class="speaker">Invited Speaker</div>
-                          {% elsif session.type == "talk"%}
-                              <div class="speaker">
-                              {% for speaker in session.speakers -%}
-                              {%- if forloop.index0 > 0 %} and {% endif %}{{ speaker.name }}
-                              {%- endfor %}
-                              </div>
-                          {% endif %}
-                          {% endif %}
-                          {% if session.track == "deepdive"" %}<span><b>Deep Dive Talk</b></span>{%endif%}
-                      </div>
+                    {% include talk-node.html %}
                   </div>
                   {% endif %}
                   {% elsif slot == session.talkid and session.service != null %}
