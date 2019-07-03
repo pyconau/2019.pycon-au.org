@@ -4,6 +4,7 @@ talkid: 418
 title: Placeholder
 track: general
 type: talk
+hide: true
 
 speakers:
 - bio: "Served in the Second Scheduling Platoon"
