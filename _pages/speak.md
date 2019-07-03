@@ -5,6 +5,9 @@ snake: rainbow
 permalink: /speak/
 ---
 
+{% include cfp-closed.html %}
+
+
 # Contents
 * [Call for Proposals](#cfp)
 * [Talk details](#talks)
@@ -14,11 +17,10 @@ permalink: /speak/
 
 ## <a name="cfp"></a> Call for Proposals (CFP)
 
-We want you [to submit a talk proposal for PyCon AU](https://pretalx.com/pyconau2019/cfp)!
 
 We're happy to consider any talk which will be interesting and relevant to an audience of Python developers at any level of expertise or experience. 
 
-**The 2019 Call for Presentations (CFP) is open from Wednesday, April 3 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Sunday, May 5 AoE.**
+**The 2019 Call for Presentations (CFP) was open from Wednesday, April 3 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Sunday, May 5 AoE.**
 
 **Please note that talk acceptance does not include financial assistance to attend the conference.** If you require assistance with the costs of travelling to the conference and staying in Sydney during the conference, you must submit a separate financial aid application through [our financial aid page](/assistance/).
 

@@ -3,6 +3,8 @@ layout: post
 title: Deep Dive Talks
 card: deepdive.png
 ---
+{% include cfp-closed.html %}
+
 
 One piece of feedback we received on last year's program was an interest in seeing more "expert" level content. To address this, for PyCon AU 2019, we're including a "Deep Dive" talks - a selection of talks dedicated to highly technical content, aimed at those who are already familiar with the basics, and are looking to level-up their professional usage of Python.
 
