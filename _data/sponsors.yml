@@ -271,6 +271,18 @@
         including SiteMinder, CarsGuide, Servcorp, ME Bank, SkyTV, and Foodstuffs. For
         more information, please visit <a href="https://auth0.com">https://auth0.com</a>
 
+    - name: ICTE NSW
+      link: ictensw.org.au
+      href: https://www.ictensw.org.au/
+      twitter: ictensw
+      logo: ictensw.png
+      blurb: | 
+        ICTENSW is a professional assosication for ICT and Computing Educators
+        in NSW.  We provide Professional Development, Resources & Networking
+        for all our members. We hold regular workshop events and an annual
+        conference for learning and networking. We represent the community in
+        conversations with the NSW Education Standards Authority (NESA)
+        concerning curriculum and teacher accreditation.
 
 - 
   title: Auspice
