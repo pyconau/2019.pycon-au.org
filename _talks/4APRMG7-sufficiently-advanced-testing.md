@@ -19,6 +19,7 @@ speakers:
     \ can usually be found surrounded by books of all kinds, somewhere out of phone\
     \ range, or both."
   name: Zac Hatfield-Dodds
+  avatar: zac-hatfield-dodds.png
 
 abstract: | 
       Writing tests is great, and generating randomized tests even better... but we can push the techniques further still!What is a metamorphic relation good for?  How could (should?) you use a SAT solver for tests?  What about symbolic execution, guided fuzzing, delta debugging?  Come and find out!

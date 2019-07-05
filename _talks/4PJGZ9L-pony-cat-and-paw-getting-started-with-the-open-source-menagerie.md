@@ -12,9 +12,9 @@ speakers:
     projects, most notably [pretalx](https://pretalx.com). Django is his home community
     in the Open Source world, and he organized DjangoCon Europe last year.
 
-
     The road to his first Django contributions was well-supported but rocky, and he
     enjoys making the process easier for others.'
+  avatar: tobias-kunze.png
   name: Tobias Kunze
 
 abstract: | 
