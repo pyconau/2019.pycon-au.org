@@ -4,6 +4,7 @@ type: talk
 talkid: 997a
 title: Saturday Lightning Talks
 recordingconsent: true
+hidefromlist: true
 speakers: 
     - name: Lightning Talk Tzar
       company: Lightning Timer Inc. 
@@ -21,4 +22,6 @@ More information about the logistics around submitting lightning talks will be m
 We will be taking submissions for lightning talks by any conference attendee on any topic. 
 
 We will not accept sales talks or vendor pitches. 
+
+Lightning talks will be recorded.
 

@@ -5,6 +5,7 @@ talkid: 997b
 title: Sunday Lightning Talks
 permalink: /lightning-talks
 recordingconsent: true
+hidefromlist: true
 speakers: 
     - name: Lightning Talk Tzar
       company: Lightning Timer Inc. 
@@ -23,3 +24,4 @@ We will be taking submissions for lightning talks by any conference attendee on 
 
 We will not accept sales talks or vendor pitches. 
 
+Lightning talks will be recorded.
