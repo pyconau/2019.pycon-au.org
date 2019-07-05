@@ -23,7 +23,7 @@
     - { startTime: "09:30",  
         endTime: "10:00", 
         duration: 30,
-        talkIds: ['RTVHJX', 403, 403, "XCT9AS"]
+        talkIds: ['RTVHJX', 403, 403, 404]
       }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
     - { startTime: "10:30",  
@@ -210,7 +210,7 @@
         startTime: "11:10",
         endTime:   "11:40",
         duration: 30,
-        talkIds: ["NDHNER", "EQFWYK", "3GGLLK", 403]
+        talkIds: [404, "EQFWYK", "3GGLLK", 403]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
