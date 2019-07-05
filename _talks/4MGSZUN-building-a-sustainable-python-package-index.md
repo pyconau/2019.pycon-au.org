@@ -11,6 +11,7 @@ speakers:
 - biography: Dustin is a Developer Advocate at Google, focused on supporting the Python
     community on Google Cloud. He's also a member of the Python Packaging Authority,
     maintainer of PyPI, and organizer for the PyTexas conference.
+  avatar: dustin-ingram.png
   name: Dustin Ingram
 
 abstract: | 
