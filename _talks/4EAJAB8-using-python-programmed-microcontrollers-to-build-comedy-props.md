@@ -12,6 +12,16 @@ speakers:
     graduate, Anthony is the technology co-founder of a property-tech startup and
     enjoys teaching and learning coding with the Australian startup scene.
   name: Anthony Joseph
+- biography: | 
+    Debbie Zukerman is a Sydney based clown, actor and improviser. She is
+    co-artistic director of clown company Choo Choo Troupe, and works regularly
+    with improv troupe Post Its, drag comedy troupe Cleo and the Kweens and sketch
+    company The Kvetch Set Collective. Debbie has performed around Australia and
+    appears periodically in film, TV, and despite her socialist tendencies, ads for
+    Mega-Corp and it's subsidiaries. As a younger and more serious person, Debbie
+    studied many performance styles including clown at Ecole Philippe Gaulier
+    (Paris) and Meisner at Ward Studio (NYC).
+  name: Debbie Zukerman
 
 abstract: | 
       Early-career comedians often have difficulties adding electronic props to their acts, due to the high cost of materials and fabrication skills required. This talk will recreate several props used in comedic performances, showing the code and components used.
