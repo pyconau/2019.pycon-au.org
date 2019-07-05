@@ -15,6 +15,7 @@ description: PyCon AU is the national conference for the Python Programming Comm
   <p>Tickets are now available for PyCon AU 2019, to suit every budget. <a href="/attend/tickets/">Register today!</a></p>
   <p>Our <a href="/schedule/">talk schedule</a> is now live. We're bringing speakers from around Australia, New Zealand and beyond to talk about many Python topics across three days.</p> 
   <p>We are also offering <a href="/attend#childcare">subsidised childcare</a> for the three conference days</p>
+  </div>
   <div class="col-4"><img class="img-fluid"  src="{{site.url}}/static/img/tickets.jpg"></div>
 </div>
 <hr>
@@ -27,6 +28,6 @@ description: PyCon AU is the national conference for the Python Programming Comm
 <hr>
 
 {% assign latestnews = site.posts.first %}
-Latest news: [{{latestnews.title | remove: "<br>" }}]({{latestnews.url}}). See [all news](/news).
+Latest news: <a href="{{latestnews.url}}">{{latestnews.title | remove: "<br>" }}</a>. See <a href="/news">all news</a>.
 
 <hr>
