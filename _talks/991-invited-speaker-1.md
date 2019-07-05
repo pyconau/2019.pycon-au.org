@@ -10,6 +10,7 @@ recordingconsent: true
 speakers:
     - name: Aurynn Shaw
       avatar: aurynn.jpg
+      twitter: aurynn
       biography: |
         Aurynn is the founder of Eiara, a DevOps consultancy based out of Wellington,
         New Zealand, focussing on helping clients develop technical DevOps capability,
