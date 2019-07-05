@@ -22,4 +22,6 @@ abstract: |
 {% include track-talks-list.html %}
 
 <hr>
-<p align="center">The Education Specialist Track is seeking a Track Sponsor to help make their event happen.<br>Is that you? <a href="/news/call-for-sponsorship/">Get in touch!</a></p>
+<p align="center">The Education Specialist Track cannot be run without the generous support of <a href="https://www.ictensw.org.au/">ICT Educators NSW</a>
+<br><BR>
+<a href="https://www.ictensw.org.au/"><img src="/static/img/sponsors/ictensw.png" style="width: 200px"></a></p>
