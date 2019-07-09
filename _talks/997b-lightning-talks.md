@@ -3,7 +3,7 @@ layout: talk
 type: talk
 talkid: 997b
 title: Sunday Lightning Talks
-permalink: /lightning-talks
+permalink: /talks/sunday-lightning-talks
 recordingconsent: true
 hidefromlist: true
 speakers: 
@@ -18,10 +18,4 @@ abstract: Lightning talks are 5 minute talks. You have 5 minutes. 5 shall be the
 
 ---
 
-More information about the logistics around submitting lightning talks will be made available closer to the conference. 
-
-We will be taking submissions for lightning talks by any conference attendee on any topic. 
-
-We will not accept sales talks or vendor pitches. 
-
-Lightning talks will be recorded.
+{% include lightning-talks.html %}

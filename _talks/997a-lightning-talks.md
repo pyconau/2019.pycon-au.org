@@ -5,6 +5,7 @@ talkid: 997a
 title: Saturday Lightning Talks
 recordingconsent: true
 hidefromlist: true
+permalink: /talks/saturday-lightning-talks
 speakers: 
     - name: Lightning Talk Tzar
       company: Lightning Timer Inc. 
@@ -17,11 +18,5 @@ abstract: Lightning talks are 5 minute talks. You have 5 minutes. 5 shall be the
 
 ---
 
-More information about the logistics around submitting lightning talks will be made available closer to the conference. 
 
-We will be taking submissions for lightning talks by any conference attendee on any topic. 
-
-We will not accept sales talks or vendor pitches. 
-
-Lightning talks will be recorded.
-
+{% include lightning-talks.html %}
