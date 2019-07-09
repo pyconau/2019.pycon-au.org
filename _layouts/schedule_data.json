@@ -28,7 +28,7 @@
         "abstract": "{{ talk.abstract | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
         "released": {% if talk.recordingconsent == true %}true{% else %}false{% endif %},
         "authors": [
-          {% for speaker in talk.speakers %}"{{ speaker.name }}"{% if forloop.last == false %},
+          {% for speaker in talk.speakers %}"{{ speaker.name  | replace: '"', '\\"'}}"{% if forloop.last == false %},
           {% endif %}{% endfor %}
         ],
         "conf_url": "https://2018.pycon-au.org{{ talk.url }}",
