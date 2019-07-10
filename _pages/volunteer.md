@@ -5,6 +5,10 @@ permalink: /volunteer/
 card: volunteer.png
 ---
 
+<hr>
+<span class="abstract">Our call for volunteers is now closed. We were overwhelmed with responses, and have notified all applicants.</span>
+<hr>
+
 PyCon AU is a grass-roots, community-driven event. It needs bright, enthusiastic people - like you - to make it a success!
 
 Volunteering at PyCon AU is a great opportunity, and can be deeply rewarding. On a more practical note, volunteering at PyCon AU can add to your professional portfolio in many ways - making this an ideal opportunity for students or recent graduates.

@@ -9,7 +9,7 @@ sponsors: true
 ---
 <script src='https://js.tito.io/v1' async></script>
 
-<hr><span class="abstract">Tickets can be purchased below in the widget, or <a href="https://ti.to/pycon-au/2019">in a new window.</a><br>Please check out <a href="/attend/ticket-tiers">our ticket tiers and what they mean</a>, if you're not sure which tickets you should choose.
+<hr><span class="abstract">Tickets can be purchased below in the widget, or <a href="https://ti.to/pycon-au/2019">in a new window.</a><br>Shirt availability for attendees registering after July 10 cannot be guarenteed.<br>Please check out <a href="/attend/ticket-tiers">our ticket tiers and what they mean</a>, if you're not sure which tickets you should choose.
 <hr>
 
 <tito-widget event="pycon-au/2019"></tito-widget>
@@ -27,7 +27,7 @@ sponsors: true
 
 ### Substitutions
 
-Tickets can be reassigned to new attendees via our ticketing system until July 30 2019. If you do choose to made changes after July 9 2019, we cannot guarantee your t-shirt size will be availabile.
+Tickets can be reassigned to new attendees via our ticketing system until July 26 2019. If you do choose to made changes after July 9 2019, we cannot guarantee your t-shirt size will be availabile.
 
 ### Privacy Notice
 
