@@ -284,6 +284,37 @@
         conversations with the NSW Education Standards Authority (NESA)
         concerning curriculum and teacher accreditation.
 
+    - name: Planet Innovation
+      link: planetinnovation.com/about/careers
+      href: https://planetinnovation.com/about/careers/
+      twitter: planetinnovate
+      logo: planet-innovation.png
+      blurb: | 
+        Planet Innovation is a HealthTech Innovation and Commercialization company. We
+        exist to create breakthrough products and commercially successful businesses
+        that transform industries and have a positive impact on the world. We develop
+        regulated biomedical products and hi-tech connected devices. Our capabilities
+        includes not just software engineering but also industrial design,
+        manufacturing, mechanical engineering, electronics engineering and science.
+        Looking for a career in a high-achieving workplace where software is not just
+        software? Our team is at PyCon Australia - <a
+        href="https://planetinnovation.com/about/careers/">let's talk!</a>
+
+     
+    - name: Data61
+      twitter: Data61news
+      logo: Data61CSIRO.png
+      link: data61.csiro.au
+      href: https://data61.csiro.au/ 
+      blurb: | 
+        CSIRO’s Data61 is Australia’s data innovation network that transforms existing
+        industries and creates new ones through the application of science and
+        technology. As an applied R&D partner, Data61’s capabilities range from
+        cybersecurity, privacy preserving technologies, artificial intelligence and
+        machine learning, robotics and autonomous systems, data driven infrastructure
+        and blockchain and more. 
+
+
 - 
   title: Auspice
   sponsors: 
