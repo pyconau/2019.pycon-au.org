@@ -14,7 +14,7 @@ speakers:
     put together a comedy video or two.
   name: Alistair
 - biography: Part time deep learning research student currently working in the information security domain. Enjoy random stroll and food hunting in foreign cities.
-  name: Trissa L.
+  name: Veatrissa L.
 
 abstract: | 
       Today, security teams are in an increasingly one-sided battle to defend against a myriad of cyber attacks. Web-based attacks are often devastating, with conventional blacklists and reputation-based defence tactics not able to identify previously unseen malicious URLs. Is AI the solution?
