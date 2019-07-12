@@ -210,7 +210,7 @@
         startTime: "11:10",
         endTime:   "11:40",
         duration: 30,
-        talkIds: [404, "EQFWYK", "3GGLLK", 403]
+        talkIds: ["LBESZF", "EQFWYK", "3GGLLK", 403]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
