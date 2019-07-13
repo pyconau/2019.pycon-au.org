@@ -53,6 +53,8 @@ We're offering this service at the heavily discounted rate of $30 per child per 
 
 To register for child care please purchase a child care add-on ticket for each child for each day when you register, and **also** fill out [this child details form](https://docs.google.com/forms/d/e/1FAIpQLScCp5oqybg4CddLzgJZRLSo0Yp4YUhcYWI-fxwTvyMDNvhSxw/viewform?usp=sf_link) for each child.
 
+Childcare registrations will **close on the 19th of July** in order to ensure we provided enouch professional carers for the number and ages of the children.
+
 ### <a name="venue"></a> Venue
 
 All of PyCon AU will be held at the [International Convention
