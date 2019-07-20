@@ -22,7 +22,7 @@ speakers:
   avatar: zac-hatfield-dodds.png
 
 abstract: | 
-      Writing tests is great, and generating randomized tests even better... but we can push the techniques further still!What is a metamorphic relation good for?  How could (should?) you use a SAT solver for tests?  What about symbolic execution, guided fuzzing, delta debugging?  Come and find out!
+      Writing tests is great, and generating randomized tests even better... but we can push the techniques further still! What is a metamorphic relation good for?  How could (should?) you use a SAT solver for tests?  What about symbolic execution, guided fuzzing, delta debugging?  Come and find out!
 ---
 
 *You care about writing correct code.  Of course bugs happen, but for this project you want as few as possible.*
@@ -33,4 +33,6 @@ Let's do a deep dive into advanced techniques for computer-assisted testing - th
 
 This talk is not a box of magic bullets; many techniques are still in academic papers rather than on PyPI.  Instead, learning about these techniques - what they do, how they're implemented, and most importantly why they work - might change the way you think about software engineering (perhaps even for the better).
 
-Using Hypothesis as a pure-Python case study, we'll cover the shocking power of "dumb fuzzing", some of the many ways to make it smarter, and why they might (or might not) help.  You'll learn how to construct randomized tests that check much more than 'does it crash', and are implausibly likely to find bugs 'randomly'.  I'll unveil the algorithms that Hypothesis uses to find minimal examples - and why it *doesn't* use some others.  And finally, we'll survey some of the exciting
+Using Hypothesis as a pure-Python case study, we'll cover the shocking power of "dumb fuzzing", some of the many ways to make it smarter, and why they might (or might not) help.  You'll learn how to construct randomized tests that check much more than 'does it crash', and are implausibly likely to find bugs 'randomly'.  I'll unveil the algorithms that Hypothesis uses to find minimal examples - and why it *doesn't* use some others. 
+
+And finally, we'll survey some of the exciting new techniques and applications of property-based testing in the Python ecosystem... including how you can join in!
