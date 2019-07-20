@@ -2,9 +2,8 @@
 layout: page
 title: Speaker Pack
 snake: rainbow
-permalink: /attend/speaker-info
+permalink: /speaker-pack/
 sponsors: false
-
 ---
 
 This information is for PyCon AU 2019 speakers. It covers off quite a few topics, so *please* read it closely.
@@ -12,18 +11,18 @@ This information is for PyCon AU 2019 speakers. It covers off quite a few topics
 If you’re left with any questions after reading this page, please contact us at <speakers@2019.pycon-au.org> and we will do our best to help you out.
 
 ## Contents
-  
-* Talk Duration  
-* Display Resolution  
-* Video Connections  
-* Testing Your Laptop  
-* Arrive Early  
-* Slide Tips  
-* Conduct and Expectations  
-* Talk Recording  
-* Quiet Space  
-* Your Published Talk Details  
-* What To Do If Something Comes Up  
+
+* Talk Duration
+* Display Resolution
+* Video Connections
+* Testing Your Laptop
+* Arrive Early
+* Slide Tips
+* Conduct and Expectations
+* Talk Recording
+* Quiet Space
+* Your Published Talk Details
+* What To Do If Something Comes Up
 
 ### Talk Duration
 
@@ -55,7 +54,7 @@ All rooms will only have HDMI connectors. If you need an adapter to output HDMI,
 
 There will also be an audio connector (headphone/mini-jack). Please let the A/V team know if you are intending on playing audio when setting up for your talk so they can test sound levels before you start.
 
-If you have special requirements beyond this, please get in touch in advance with the AV team lead, Ryan: <ryan@nextdayvideo.com.au> or 0418 186 604.
+If you have special requirements beyond this, please get in touch in advance with the AV team lead, Ryan: <ryan@nextdayvideo.com.au> or on the Attendee Slack.
 
 ### Testing Your Laptop
 
@@ -65,7 +64,7 @@ It is recommended that you test your laptop before your talk. A test setup will 
 
 Please make sure you know when and where your talk is scheduled. Please check the [schedule](https://2019.pycon-au.org/schedule/) to confirm the day, time, and room for which your talk is scheduled.
 
-Since we are so close to the event, we will not be making any more timing changes unless absolutely necessary. If any changes affect you, we will let you know as soon as possible. 
+Since we are so close to the event, we will not be making any more timing changes unless absolutely necessary. If any changes affect you, we will let you know as soon as possible.
 
 It is essential that you arrive in your talk room in the break before your talk to check in with and meet your Session Chair and A/V team. This will give you time to look at the layout of your room, assess the space, etc. This also makes sure that our volunteers and staff don't panic trying to find you before your talk.
 
@@ -117,10 +116,9 @@ Your talk information and biography is up on [our website](https://2019.pycon-au
 
 Please take the time to look over your talk entry, and make sure that you are happy with your abstract and biography.
 
-Should you wish to update your biography, profile photo, or abstract, please email any changes to <speakers@2019.pycon-au.org> from the same email address you used to submit your talk, or register for the conference. (We are using this email to contact you right now.)
+Should you wish to update your biography, profile photo, or abstract, please email any changes to <speakers@2019.pycon-au.org> from the same email address you used to submit your talk, or register for the conference.
 
 We advise you to send through any changes as soon as possible, ahead of the event, as the organising team will be very busy during the event and will not have time to push website changes outside of egregious errors or emergencies.
-
 
 ### What To Do If Something Comes Up
 
@@ -128,10 +126,10 @@ Sometimes things happen!
 
 Laptops run out of power, slides go missing, transport runs late, family stuff comes up, physical or mental health problems can occur. If anything comes up at any point, please let Lilly (our Papers Chair) or one of the other conference organisers know. We have an experienced organising team who can help with a broad range of questions, issues, or concerns. The sooner you let us know if there is a problem, the sooner we can work with you to achieve the best possible outcome.
 
-If you’re just unsure and need to clarify something, use the Attendee Slack (details to come) or email <speakers@2019.pycon-au.org>. 
+If you’re just unsure and need to clarify something, use the Attendee Slack (details provided in an email) or email <speakers@2019.pycon-au.org>.
 
-If you are having an urgent problem relating to conference logistics, please contact Lilly Ryan or Katie McLaughlin (phone numbers have been emailed to speakers already). Less immediate issues can be directed to a Volunteer, A/V Team member, or Organiser, as appropriate. 
+If you are having an urgent problem relating to conference logistics, please contact Lilly Ryan or Katie McLaughlin (phone numbers have been emailed to speakers already). Less immediate issues can be directed to a Volunteer, A/V Team member, or Organiser, as appropriate.
 
-If you have an issue that should involve our Conduct Team, a 24-hour hotline number will be made available at the event. Less immediate issues of Conduct can be emailed to <safety@2019.pycon-au.org>. Signs with these details will be around the venue. 
+If you have an issue that should involve our Conduct Team, a 24-hour hotline number will be made available at the event. Less immediate issues of Conduct can be emailed to <safety@2019.pycon-au.org>. Signs with these details will be around the venue.
 
-If you have an immediate safety concern, please contact venue Security, or Emergency Services (000). 
+If you have an immediate safety concern, please contact venue Security, or Emergency Services (000).
