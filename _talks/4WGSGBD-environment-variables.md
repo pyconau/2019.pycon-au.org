@@ -3,7 +3,7 @@ layout: talk
 permalink: /talks/environment-variables
 recordingconsent: true
 talkid: WGSGBD
-title: Environment Variables
+title: "Environment Variables: how software impacts climate change"
 track: general
 type: talk
 
