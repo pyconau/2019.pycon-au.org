@@ -99,7 +99,13 @@
     - {title: "C3.6", slug: "C3.6"}
   timeslots:
     - { startTime: "07:00", endTime: "08:00", duration: 60, talkIds: [600]} 
-    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
+    - { startTime: "08:00", endTime: "08:30", duration: 60, talkIds: [888]} 
+    - { 
+        startTime: "08:30",
+        endTime: "8:45",
+        duration: 15,
+        talkIds: [899, 889, 889, 889]
+    }
     - { 
         startTime: "09:00",
         endTime: "9:20",
@@ -169,8 +175,8 @@
     }
     - {
         startTime: "17:40",
-        endTime: "18:20",
-        talkIds: [601] 
+        endTime: "20:00",
+        talkIds: [514] 
     }
 
 
