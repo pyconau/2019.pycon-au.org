@@ -5,6 +5,7 @@ talkid: 899
 abstract: New to PyCon AU? Come along and learn some tips and tricks
 title: First-timers Session
 track: general
+permalink: /talks/first-timers-session
 recordingconsent: true
 ---
 

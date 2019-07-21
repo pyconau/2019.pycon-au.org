@@ -18,7 +18,7 @@ This is how it will play out (once we've introduced the plan):
 4. A group will choose a restaurant and depart.
 5. All remaining people will continue to form groups and depart until no one is left.
 
-Lists of nearby restaurants which can fit groups will be shared around but feel free to disregard the list and choose your own. Saturday night can be busy in Sydney, but if you aim for an early dinner (6:30) you should be able to avoid the worst of it.
+Lists of nearby restaurants which can fit groups will be shared around but feel free to disregard the list and choose your own. Saturday night can be busy in Sydney, but if you aim for an early dinner (6:30pm) you should be able to avoid the worst of it.
 
 Recommendations:
  * Try to have *at least* two to three people you don't know in your group.
