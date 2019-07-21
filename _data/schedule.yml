@@ -102,7 +102,7 @@
     - { startTime: "08:00", endTime: "08:30", duration: 60, talkIds: [888]} 
     - { 
         startTime: "08:30",
-        endTime: "9:00",
+        endTime: "8:45",
         duration: 30,
         talkIds: [899, 889, 889, 889]
     }
