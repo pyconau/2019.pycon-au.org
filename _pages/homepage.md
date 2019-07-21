@@ -12,9 +12,8 @@ description: PyCon AU is the national conference for the Python Programming Comm
 <hr>
 <div class="row">
   <div class="col-8"><h4>Tickets, schedule, and childcare still available!</h4>
-  <p>Tickets are still available for PyCon AU 2019, to suit every budget. <a href="/attend/tickets/">Register today!</a></p>
+  <p>Final remaining tickets are on sale for PyCon AU 2019. <a href="/attend/tickets/">Register today to avoid missing out!</a></p>
   <p>Check out our <a href="/schedule/">talk schedule</a> to plan out what you want to see. We're bringing speakers from around Australia, New Zealand and beyond to talk about many Python topics across three days.</p> 
-  <p>We are also offering <a href="/attend#childcare">subsidised childcare</a> for the three conference days. Childcare registrations will close on the 19th of July.</p>
   </div>
   <div class="col-4"><img class="img-fluid"  src="{{site.url}}/static/img/tickets.jpg"></div>
 </div>
