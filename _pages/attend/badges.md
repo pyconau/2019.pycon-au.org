@@ -29,9 +29,10 @@ You are free to use the *Company* field as you like, so long as the content does
 Please use this to test the length of the content you want to add, especially the "Company" field. 
 
 <hr>
-* Changing the fields in the following form will live-update the badge below. Requires JavaScript
-* This a representation of what your badge will look like when given to you at registration
-* This is NOT your actual badge
+* Changing the fields in the following form will live-update the badge below. Requires JavaScript.
+* This a representation of what your badge will look like when given to you at registration.
+* Exceedingly long fields will be automatically changed to use a smaller font, but that logic is not reflected on this form.
+* This is NOT your actual badge.
 
 {% include badge-template.html %}
 
