@@ -4,6 +4,7 @@ talkid: 998
 length: 400px
 title: Education Seminar Student Showcase
 endTime: "18:00"
+recordingconsent: true
 abstract: Eight short talks from high school students across Australia. They'll be talking about projects they've built with Python using machine learning, robotics, markov models and more!
 
 permalink: /education-showcase
