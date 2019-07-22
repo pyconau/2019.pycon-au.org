@@ -6,7 +6,7 @@ abstract: New to PyCon AU? Come along and learn some tips and tricks
 title: First-timers Session
 track: general
 permalink: /talks/first-timers-session
-recordingconsent: true
+recordingconsent: false
 ---
 
 The PyCon AU organising team is committed to make PyCon AU an inclusive and welcoming place for everyone. Even then, a large conference with hundreds of people can be a little intimidating. This first timers session is here to help.
