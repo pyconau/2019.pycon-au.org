@@ -7,7 +7,6 @@ endTime: "18:00"
 
 permalink: /education-showcase
 
----
 speakers: 
  - name: Eliza Lee
  - name: Joshua Whitmore
