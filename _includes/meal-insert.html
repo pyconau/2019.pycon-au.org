@@ -24,5 +24,7 @@
 {% if meal.hotvegetarian %}<h4>🍲 Hot vegetarian</h4><p>{{meal.hotvegetarian}}</p>{%endif%}
 {% if meal.handitem%}<h4>🍤 Hand item</h4><p>{{meal.handitem}}</p>{%endif%}
 {% if meal.dessert%}<h4> 🍨 Dessert</h4><p>{{meal.dessert}}</p>{%endif%}
+{% if meal.type == "tea" %}<h4>🍌 Fruit</h4><p>Whole seasonal fruit</p><h4>☕️ Beverages</h4><p>Combination of brewed premium coffee and self-serve espresso style machines<br>Traditional, herbal, and infused teas<br>hot chocolate<br>Filtered ice water<br>House made botanical water infused with indigenous fruits, berries or herbs</p>{% endif%}
+{% if meal.type == "lunch" %}<h4>🍌 Fruit</h4><p>Whole seasonal fruit</p><h4>☕️ Beverages</h4><p>Tea, coffe, hot chocolate, house made botanical water infused with indigenous fruits, berries or herbs</p>{% endif%}
 
 {% else %}Unconfirmed{%endif%}
