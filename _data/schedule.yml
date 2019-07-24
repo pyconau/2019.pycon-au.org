@@ -25,7 +25,7 @@
         duration: 30,
         talkIds: ['RTVHJX', 403, 403, 'ZVHC7D']
       }
-    - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
+    - { startTime: "10:00", endTime: "10:30", talkIds: [501a] } # morning tea
     - { startTime: "10:30",  
         endTime: "11:00", 
         duration: 30,
@@ -61,7 +61,7 @@
         duration: 30,
         talkIds: ["AMPANU", 403, "UBBRK7", "BLGSEJ"]
       }
-    - { startTime: "15:20", endTime: "16:00", talkIds: [503]} # afternoon Tea 
+    - { startTime: "15:20", endTime: "16:00", talkIds: [503a]} # afternoon Tea 
     - { startTime: "16:00",
         endTime: "16:30",
         duration: 30,
@@ -117,7 +117,7 @@
         duration: 40,
         talkIds: [991, 404, 404, 404] # Invited Speaker 1
     }
-    - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
+    - { startTime: "10:00", endTime: "10:30", talkIds: [501b] } # morning tea
     - {
         startTime: "10:30",
         endTime:   "11:00",
@@ -160,7 +160,7 @@
         duration: 30,
         talkIds: ["NMYXGB", "NBECJ9", "BHHDZW", "DQPLDS"]
     }
-    - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
+    - { startTime: "15:20", endTime: "16:00", talkIds: [503b]} 
     - {
         startTime: "16:00",
         endTime: "16:40",
@@ -204,7 +204,7 @@
         duration: 40,
         talkIds: [993, 404, 404, 404]
     }
-    - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
+    - { startTime: "10:00", endTime: "10:30", talkIds: [501c] } # morning tea
     - {
         startTime: "10:30",
         endTime:   "11:00",
@@ -247,12 +247,12 @@
         duration: 30,
         talkIds: ["WGSGBD", "9YB3VE", "HTJVPT", "KXFBJL"]
     }
-    - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
+    - { startTime: "15:20", endTime: "16:00", talkIds: [503c]} 
     - {
         startTime: "16:00",
         endTime: "17:00",
         duration: 40,
-        talkIds: [997b, 404, 404, 404] # Invited Speaker 4
+        talkIds: [997b, 404, 404, 404] 
     }
     - {
         startTime: "17:00",
