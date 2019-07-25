@@ -4,7 +4,7 @@ title: Tickets
 snake: rainbow
 permalink: /attend/tickets/
 description: Purchase your PyCon AU 2019 ticket today!
-card: tickets.png
+card: lastchance-tickets.png
 sponsors: true
 ---
 <script src='https://js.tito.io/v1' async></script>
