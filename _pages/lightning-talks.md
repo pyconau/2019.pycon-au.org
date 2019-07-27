@@ -32,15 +32,17 @@ We will be taking submissions in two groups: **first time speakers** and **exper
 To apply, write your details on one of the cards at registration, and include: 
 
  * Your name
- * Your email
+ * Your email (so we can contact you!)
  * The name of your talk
  * The TLDR of your talk. 
 
-The TLDR is important. Your talk will be announced with your _name_ and _title_ only. We want the TLDR to be exactly what your talk will be about. We want the spoiler, the prestiege, the summary. 
+The TLDR is important. Your talk will be announced with your _name_ and _title_ only. We want the TLDR to be exactly what your talk will be about. We want the spoiler, the prestiege, the summary. Your card will not be on public display, so spoilers are *OK*
 
 There will be two boxes at registration, clearly marked for the two groups. Place your card in the box for your group to submit a talk.
 
 For each day, we will accept submissions at registration until **10:30am** (end of morning tea), and announce results at **12:20pm** (start of lunch)
+
+Results will be announced via an email to everyone who entered a submission. 
 
 We can only accept so many talks, and any submissions left over from Saturday will **not** roll over int Sunday. 
 
