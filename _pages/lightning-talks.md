@@ -34,7 +34,7 @@ To apply, write your details on one of the cards at registration, and include:
  * Your name
  * Your email (so we can contact you!)
  * The name of your talk
- * The TLDR of your talk. 
+ * The TL;DR of your talk. 
 
 The TLDR is important. Your talk will be announced with your _name_ and _title_ only. We want the TLDR to be exactly what your talk will be about. We want the spoiler, the prestiege, the summary. Your card will not be on public display, so spoilers are *OK*
 
