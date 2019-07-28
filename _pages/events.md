@@ -22,11 +22,23 @@ Open Spaces are usually held in the hallways of the conference venue, or occasio
 
 ### How do I run an Open Space?
 
-You can organise an Open Space in the #openspaces channel in the attendee Slack. You can also tweet about your Open Space using the #pyconau hashtag.
+Organising an open space  is as simple as three easy steps.
+
+#### Choose your time and location
 
 Choose a place in the conference venue where 10-20 people could comfortably gather and hold a discussion without disturbing others. ICC has large hallways that should be able to host several clusters of Open Spaces at one time. We have exclusive use of Level 3 of the ICC, and there are some common areas on the ground floor with seating areas. Any other room in the venue is contracted out to other events, so please do not wander the building looking for space.
 
 Sometimes nearby cafés are also a good place for Open Spaces. Just make sure they are close enough that people can get back to the venue in time for the next talk.
+
+#### List your open space
+
+We'll have a board near the registration desk where you can write the topic/theme and location, and pin it to a time on the board. It's helpful to put your name, alias (slack) or Twitter handle so that people can contact you with questions (but you don't have to do all three).
+
+You can also use this board to check what other open spaces are running, and you might find you want to merge communities or schedule around other sessions.
+
+#### Announce your open space!
+
+Share your open space in the #openspaces channel in the attendee slack. You can also tweet about your Open Space using the #pyconau hashtag. While careful not to spam everyone, it can be helpful to announce your open space once when listing it, and again shortly before gathering (as a friendly reminder to anyone who has forgotten or missed your first announcement).
 
 ### Open Space etiquette
 
