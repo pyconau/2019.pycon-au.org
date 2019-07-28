@@ -39,6 +39,8 @@ Python wouldn't have gotten to where it is without a welcoming community of deve
 
 The sprints are a place for everyone from experienced open source contributors to interested first-time contributors and anyone really! Maybe you want to hang out and try out an idea you have, maybe you'd like to find collaborators for a project you want to start, maybe you'd like someone to help you through your first attempts at open source. We'll provide tables, chairs, wifi, power and a community of supportive developers.
 
+[Read more about the development sprints](/sprints/)
+
 ### <a name="catering"></a> Catering
 
 See our detailed [menu information](/menu). 
@@ -64,7 +66,7 @@ Centre](https://www.iccsydney.com.au/about-icc-sydney), in Sydney's Darling
 Harbour. We'll be using the Cockle Bay room for our full-conference
 presentations, and other rooms on Level 3 for our tracks.
 
-The ICC is large, but we're at the end near the Hard Rock Cafe, Sotifel, and Convention light rail station. [Here's the building you're looking for.](https://www.google.com.au/maps/@-33.872684,151.1996279,3a,75y,194.54h,103.63t/data=!3m6!1e1!3m4!1s5qQ5HpV5Q4mSXAJzWjyReA!2e0!7i13312!8i6656)
+The ICC is large, but we're at the end near the Hard Rock Cafe, the Sotifel, and Convention light rail station. [Here's the building you're looking for.](https://www.google.com.au/maps/@-33.872684,151.1996279,3a,75y,194.54h,103.63t/data=!3m6!1e1!3m4!1s5qQ5HpV5Q4mSXAJzWjyReA!2e0!7i13312!8i6656)
 
 The venue will have digital signage directing attendees to the conference. 
 

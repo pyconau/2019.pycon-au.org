@@ -15,6 +15,7 @@ Your talk should be:
 
  * about anything! It doesn't have to be about Python!
  * interesting to the audience
+ * within the bounds of the [conference Code of Conduct](https://2019.pycon-au.org/conduct/)
  * at most 5 minutes. 
 
 Your talk cannot be:
