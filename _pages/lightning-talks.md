@@ -25,11 +25,21 @@ Your talk cannot be:
 
 The recordings from last year's lightning talks can be found here: [Saturday](https://youtu.be/BmWLhVMWC9I), [Sunday](https://www.youtube.com/watch?v=rNkbmu4e3MA). Even more videos are [available at this link](https://www.youtube.com/user/PyConAU/search?query=lightning)
 
+
+### When do I submit my talk idea?
+
+Submissions to give a lightning talk will open at the registration desk during mornign tea (Saturday and Sunday).
+
+For each day, we will accept submissions at registration until **10:30am** (end of morning tea), and you'll be notified by **12:20pm** (start of lunch).
+
+_Please note that registration is a busy place in the mornings. If you're coming prepared with a lightning talk in mind, we love your enthusiasm, but please wait until morning tea to put your submission into the box._
+
+
 ### How do I apply?
 
 We will be taking submissions in two groups: **first time speakers** and **experienced speakers**. If you have given a talk at a conference before, lightning or 30-minute, you're an experienced speaker. 
 
-To apply, write your details on one of the cards at registration, and include: 
+To apply, head on over to the registration desk where you'll find the lightning talk submission box. Write your details on one of the cards and place it in the box. Include on your card:
 
  * Your name
  * Your email (so we can contact you!)
@@ -39,8 +49,6 @@ To apply, write your details on one of the cards at registration, and include:
 The TL;DR is important. Your talk will be announced with your _name_ and _title_ only. We want the TL;DR to be exactly what your talk will be about. We want the spoiler, the prestige, the summary. Your card will not be on public display, so spoilers are *OK*
 
 There will be two boxes at registration, clearly marked for the two groups. Place your card in the box for your group to submit a talk.
-
-For each day, we will accept submissions at registration until **10:30am** (end of morning tea), and you'll be notified by **12:20pm** (start of lunch)
 
 Every one who submitted a talk for consideration will be notified of their result. 
 
