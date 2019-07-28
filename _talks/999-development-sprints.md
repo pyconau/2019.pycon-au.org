@@ -37,5 +37,4 @@ If you're coming to the sprints but you're not sure what to work on, thats absol
 * Keep an eye out on twitter #pyconau and the attendee slack for people sharing their projects. Perhaps speak to them in the hallway over the weekend before attending the sprints
 * Be prepared with an elevator pitch for the types of projects that interest you, the skills you want to learn, or the skills that you'd like to share!
 
-## Starting the sprints
 
