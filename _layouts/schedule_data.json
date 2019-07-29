@@ -15,12 +15,15 @@
       {%- if first_time == false %},{% endif %}{% assign first_time = false -%}
       {%- assign endTime = time_slot.endTime %}
       {%- if talk.endTime %}{% assign endTime = talk.endTime %}{%endif%}
+      {%- assign startDateTime = day['date'] | append: "T" | append: time_slot.startTime | append: ":00" -%}
+      {%- assign endDateTime = day['date'] | append: "T" | append: endTime | append: ":00" -%}
+      {%- assign startEpoch = startDateTime | date: "%s"-%}{%- assign endEpoch = endDateTime | date: "%s" -%}{%- assign duration = endEpoch | minus:  startEpoch | divided_by: 60 -%}
       {
         "room": "{{ track.title }}",
         "rooms": ["{{ track.title }}"],
-        "start": "{{ day['date'] }}T{{ time_slot.startTime }}:00",
-        "end": "{{ day['date'] }}T{{ endTime }}:00",
-        "duration": {{ time_slot.duration }},
+        "start": "{{ startDateTime }}",
+        "end": "{{ endDateTime }}",
+        "duration": {{ duration }},
         "track": "{{ track.track }}",
         "conf_key": "{{ talk_id }}",
         "type": "{{ talk.type }}",
