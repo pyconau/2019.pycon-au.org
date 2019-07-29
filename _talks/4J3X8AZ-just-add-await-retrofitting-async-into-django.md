@@ -6,7 +6,7 @@ talkid: J3X8AZ
 title: 'Just Add Await: Retrofitting Async Into Django'
 track: django
 type: talk
-endTime: 15:20
+endTime: "15:20"
 
 speakers:
 - biography: 'Andrew is a long-time Django contributor - author of South, Django Migrations,
