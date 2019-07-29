@@ -5,7 +5,11 @@ snake: rainbow
 permalink: /lightning-talks/
 ---
 
+<hr>
+<span class="abstract">
 PyCon AU hosts two lightning talk sessions: One on [Saturday afternoon](https://2019.pycon-au.org/talks/saturday-lightning-talks), one on [Sunday afternoon](https://2019.pycon-au.org/talks/sunday-lightning-talks). 
+</span>
+<hr>
 
 ### What are lightning talks?
 

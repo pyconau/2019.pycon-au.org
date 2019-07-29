@@ -6,7 +6,7 @@ card: volunteer.png
 ---
 
 <hr>
-<span class="abstract">Our call for volunteers is now closed. We were overwhelmed with responses, and have notified all applicants.</span>
+<span class="abstract">Our call for volunteers is now closed, but we might still need [session chairs](/session-chairs)!</span>
 <hr>
 
 PyCon AU is a grass-roots, community-driven event. It needs bright, enthusiastic people - like you - to make it a success!

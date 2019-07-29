@@ -5,6 +5,11 @@ snake: rainbow
 permalink: /session-chairs/
 ---
 
+<hr>
+<span class="abstract">Want to help PyCon AU happen and introduce some of our speakers? Sign up to be a session chair!</span>
+<hr>
+
+
 ## What's involved in being a session chair?
 
 Being a session chair is a great way to get involved in the conference. It involves:
