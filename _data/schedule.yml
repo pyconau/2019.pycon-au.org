@@ -9,79 +9,66 @@
     - {title: "C3.4 & C3.5", "track": "Education", "color": "#E01D43", slug: "C3.4-C3.5"}
     - {title: "C3.6", "track": "Science and Data", "color": "#5B57A5", slug: "C3.6"}
   timeslots:
-    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
+    - { startTime: "08:00", endTime: "09:00", talkIds: [888]} 
     - { startTime: "09:00",
         endTime: "09:15",
-        duration: 15,
         talkIds: [1001, 1002, 1003, 1004]
       }
     - { startTime: "09:15",
         endTime: "09:30",
-        duration: 15,
         talkIds: [403, 'DCAUIS', 'EDUINV', 403]
       }
     - { startTime: "09:30",  
         endTime: "10:00", 
-        duration: 30,
         talkIds: ['RTVHJX', 403, 403, 'ZVHC7D']
       }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501a] } # morning tea
     - { startTime: "10:30",  
         endTime: "11:00", 
-        duration: 30,
         talkIds: ['FJKHLM', 'YGHMCS', 'DLKBSX', "LEWV7W"]
       }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
     - { startTime: "11:10",  
         endTime: "11:40", 
-        duration: 30,
         talkIds: ['UKUJCZ', 'DFNNFY', 'S3MBVN', "Y3MNWQ"]
       }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} # changeover
     - { startTime: "11:50",  
         endTime: "12:20", 
-        duration: 30,
         talkIds: ['CL7SMP', 'BWAXMS', 'JWBHBZ', "LXUD9B"]
       }
     - { startTime: "12:20", endTime: "13:30", talkIds: [511]} #lunch 
     - { startTime: "13:30",
         endTime: "14:00",
-        duration: 30,
         talkIds: ["FGE3WS", 'SFBS8T', '8FNNWE', "MKRZ9F"]
       }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504]} # changeover
     - { startTime: "14:10",
         endTime: "14:40",
-        duration: 30,
         talkIds: ["AHCQT7", 'J3X8AZ', "R7NF9H", "RCYSDC"]
       }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504, 403, 505, 505]} # changeover
     - { startTime: "14:50",
         endTime: "15:20",
-        duration: 30,
         talkIds: ["AMPANU", 403, "UBBRK7", "BLGSEJ"]
       }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503a]} # afternoon Tea 
     - { startTime: "16:00",
         endTime: "16:30",
-        duration: 30,
         talkIds: ["EMJZ9E", 'PJGZ9L', 998, "MBT77Q"]
       }
     - { startTime: "16:30", endTime: "16:40", talkIds: [504,505, 403,505]} # changeover
     - { startTime: "16:40",
         endTime: "17:10",
-        duration: 30,
         talkIds: ["9ERQGP", 'YGFCQN', 403, "JZQXF3"]
       }
     - { startTime: "17:10", endTime: "17:20", talkIds: [504,505,403,505]} # changeover
     - { startTime: "17:20",
         endTime: "17:50",
-        duration: 30,
         talkIds: ["SECPAN", "NUFPED", 403, "M9LJAN"]
       }
     - { startTime: "17:50",
         endTime: "17:59",
-        duration: 9,
         talkIds: [0] #[1001, 1002, 403, 1004]
       }
 #    - { startTime: "18:00", endTime: "18:01", talkIds: [0]} # close of day
@@ -98,44 +85,38 @@
     - {title: "C3.4 & C3.5", slug: "C3.4-C3.5"}
     - {title: "C3.6", slug: "C3.6"}
   timeslots:
-    - { startTime: "07:00", endTime: "08:00", duration: 60, talkIds: [600]} 
-    - { startTime: "08:00", endTime: "08:30", duration: 60, talkIds: [888]} 
+    - { startTime: "07:00", endTime: "08:00", talkIds: [600]} 
+    - { startTime: "08:00", endTime: "08:30", talkIds: [888]} 
     - { 
         startTime: "08:30",
         endTime: "8:45",
-        duration: 15,
         talkIds: [899, 889, 889, 889]
     }
     - { 
         startTime: "09:00",
         endTime: "9:20",
-        duration: 20,
         talkIds: [990a, 404, 404, 404]
     }
     - { startTime: "09:20",
         endTime: "10:00",
-        duration: 40,
         talkIds: [991, 404, 404, 404] # Invited Speaker 1
     }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501b] } # morning tea
     - {
         startTime: "10:30",
         endTime:   "11:00",
-        duration: 30,
         talkIds: ["MGSZUN", "DLQHXY", "78PTJR", "7JGC7A"]
     }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504, 505, 505, 403]} 
     - {
         startTime: "11:10",
         endTime:   "11:40",
-        duration: 30,
         talkIds: ["X93AMA", "3ZZPQV", "3DWEQX", 403]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
         startTime: "11:50",
         endTime:   "12:20",
-        duration: 30,
         talkIds: ["EAJAB8", "CYUKXC", "AQUFMD", "YQQTLM"]
     }
     - { startTime: "12:20", endTime: "13:30", talkIds: [512]} # lunch 
@@ -143,34 +124,29 @@
     - {
         startTime: "13:30",
         endTime:   "14:00",
-        duration: 30,
         talkIds: ["GT7AEM", "KBVANM", "YTENRE", "APRMG7"]
     }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504, 505, 505, 403]} 
     - {
         startTime: "14:10",
         endTime:   "14:40",
-        duration: 30,
         talkIds: ["QGKNAB", "GRZULZ", "WWU8SK", 403]
     }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
     - {
         startTime: "14:50",
         endTime:   "15:20",
-        duration: 30,
         talkIds: ["NMYXGB", "NBECJ9", "EQE799", "DQPLDS"]
     }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503b]} 
     - {
         startTime: "16:00",
         endTime: "16:40",
-        duration: 40,
         talkIds: [992, 404, 404, 404] # Invited Speaker 2
     }
     - {
         startTime: "16:40",
         endTime: "17:40",
-        duration: 60,
         talkIds: [997a, 404, 404, 404] 
     }
     - {
@@ -191,38 +167,33 @@
     - {title: "C3.4 & C3.5", slug: "C3.4-C3.5"}
     - {title: "C3.6", slug: "C3.6"}
   timeslots:
-    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
+    - { startTime: "08:00", endTime: "09:00", talkIds: [888]} 
     - { 
         startTime: "09:00",
         endTime: "09:20",
-        duration: 20,
         talkIds: [990b, 404, 404, 404]
     }
     - { 
         startTime: "09:20",
         endTime: "10:00",
-        duration: 40,
         talkIds: [993, 404, 404, 404]
     }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501c] } # morning tea
     - {
         startTime: "10:30",
         endTime:   "11:00",
-        duration: 30,
         talkIds: ["BBDXBX", "ZLCYYH", "P898WU", "BMJSEV"]
     }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504, 505, 505, 403]} # changeover
     - {
         startTime: "11:10",
         endTime:   "11:40",
-        duration: 30,
         talkIds: ["LBESZF", "EQFWYK", "3GGLLK", 403]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
         startTime: "11:50",
         endTime:   "12:20",
-        duration: 30,
         talkIds: ["ZQMLTH", "MJDYF8", "KWHEJN", "UK8MSB"]
     }
     - { startTime: "12:20", endTime: "13:30", talkIds: [513]} 
@@ -230,34 +201,29 @@
     - {
         startTime: "13:30",
         endTime:   "14:00",
-        duration: 30,
         talkIds: ["ZSMLN3", "FAAZW7", "JBAY39", "E7QJ8D"]
     }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504, 505, 505, 403]} 
     - {
         startTime: "14:10",
         endTime:   "14:40",
-        duration: 30,
         talkIds: ["SE3QCP", "A839T8", "SEGQBU", 403]
     }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
     - {
         startTime: "14:50",
         endTime:   "15:20",
-        duration: 30,
         talkIds: ["WGSGBD", "9YB3VE", "HTJVPT", "KXFBJL"]
     }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503c]} 
     - {
         startTime: "16:00",
         endTime: "17:00",
-        duration: 40,
         talkIds: [997b, 404, 404, 404] 
     }
     - {
         startTime: "17:00",
         endTime: "17:30",
-        duration: 60,
         talkIds: [990c, 404, 404, 404] 
     }
 
@@ -275,7 +241,6 @@
   timeslots: 
     - { startTime: "08:00",
         endTime: "17:59",
-        duration: 599,
         talkIds: [404, 404, 999, 404]
     }
     - { startTime: "18:00", talkIds: [0] }
@@ -293,7 +258,6 @@
   timeslots: 
     - { startTime: "08:00",
         endTime: "17:59",
-        duration: 599,
         talkIds: [404, 404, 999, 404]
     }
     - { startTime: "18:00", talkIds: [0] }
