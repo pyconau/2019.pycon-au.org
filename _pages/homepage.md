@@ -20,8 +20,8 @@ description: PyCon AU is the national conference for the Python Programming Comm
 <hr>
 <div class="row">
   <div class="col-4"><img class="img-fluid"  src="{{site.url}}/static/img/podium.jpg"></div>
-  <div class="col-8"><h4>Have you thought about giving a lightning talk?</h4>
-  <p>We have two lightning talk sessions at the conference. See our <a href="/schedule/saturday/#timeslot-20">schedule</a> for more details! Signup details will be made available at the conference.</p>
+  <div class="col-8"><h4>Want even more from your PyCon AU?</h4>
+  <p>Read up about how you can register to give a <a href="/lightning-talks">lightning talks</a>, participate in one of our <a href="/open-spaces">open spaces</a>, and if you're signed up for our <a href="/sprints">development sprints</a>, how to make the most out of your Monday and Tuesday!</p>
 </div>
 </div>
 <hr>
