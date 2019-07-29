@@ -3,6 +3,7 @@ layout: page
 title: Lightning talks
 snake: rainbow
 permalink: /lightning-talks/
+card: lightning-talks.png
 ---
 
 <hr>
