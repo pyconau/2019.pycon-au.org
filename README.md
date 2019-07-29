@@ -4,13 +4,18 @@ https://2019.pycon-au.org
 
 ## Development 
 
-This site uses [jekyll](https://jekyllrb.com/), a Ruby-based static website generator
+This site uses [jekyll](https://jekyllrb.com/), a Ruby-based static website generator, with the [github-pages](https://jekyllrb.com/docs/github-pages/) gem
 
 ## Local environment
 
+
+For MacOS:
+
 ``` shell
-gem install jekyll
-jekyll serve -w
+brew install ruby
+gem install bundler
+bundle install
+bundle exec jekyll s -w
 ```
 
 ## New news post
