@@ -29,7 +29,7 @@ Your talk cannot be:
  * A sales pitch
  * A job advertisement.
 
-The recordings from last year's lightning talks can be found here: [Saturday](https://youtu.be/BmWLhVMWC9I), [Sunday](https://www.youtube.com/watch?v=rNkbmu4e3MA). Even more videos are [available at this link](https://www.youtube.com/user/PyConAU/search?query=lightning)
+Our lightning talks are recorded and uploaded to YouTube. The recordings from last year's lightning talks can be found here: [Saturday](https://youtu.be/BmWLhVMWC9I), [Sunday](https://www.youtube.com/watch?v=rNkbmu4e3MA). Even more videos are [available at this link](https://www.youtube.com/user/PyConAU/search?query=lightning)
 
 
 ### When do I submit my talk idea?
