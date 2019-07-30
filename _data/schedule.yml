@@ -25,7 +25,7 @@
     - { startTime: "10:00", endTime: "10:30", talkIds: [501a] } # morning tea
     - { startTime: "10:30",  
         endTime: "11:00", 
-        talkIds: ['FJKHLM', 'YGHMCS', 'DLKBSX', "LEWV7W"]
+        talkIds: ['FJKHLM', 404, 'DLKBSX', "LEWV7W"]
       }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
     - { startTime: "11:10",  
