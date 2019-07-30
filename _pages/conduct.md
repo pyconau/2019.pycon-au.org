@@ -49,6 +49,10 @@ Find any volunteer or organiser (green lanyard or green bandana) who will direct
 **Email:** hawkowl@atleastfornow.net<br>
 **PyConAU Slack:** Amber Brown (HawkOwl)
 
+#### maia sauren
+**Twitter:** [@sauramaia](https://twitter.com/sauramaia)<br>
+**Email:** sauramaia@gmail.com<br>
+**PyConAU Slack:** sauramaia
 
 ## Be respectful
 
