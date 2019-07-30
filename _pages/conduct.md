@@ -25,6 +25,30 @@ comfortable and included.
 
 We value your participation and appreciate your help in realising this goal.
 
+## Safety team contacts
+
+If at any time during the conference you feel unsafe or want to report questionable behaviour, please contact a member of the safety team.
+
+#### Send SMS or Call: 0484 394 239
+#### Email: [safety@2019.pycon-au.org](mailto:safety@2019.pycon-au.org)
+
+Find any volunteer or organiser (green lanyard or green bandana) who will direct you to one of the following people, who you can also message or email directly.
+
+#### Katie Bell
+**Twitter**: [@notsolonecoder](https://twitter.com/notsolonecoder)<br>
+**Email:** katie@katharos.id.au<br>
+**PyConAU Slack:** Katie Bell
+
+#### Lilly Ryan
+**Twitter:** [@attacus_au](https://twitter.com/attacus_au)<br>
+**Email:** lilly@attacus.net<br>
+**PyConAU Slack:** Lilly Ryan
+
+#### Amber Brown ("HawkOwl")
+**Twitter:** [@hawkieowl](https://twitter.com/hawkieowl)<br>
+**Email:** hawkowl@atleastfornow.net<br>
+**PyConAU Slack:** Amber Brown (HawkOwl)
+
 
 ## Be respectful
 
