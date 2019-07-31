@@ -1,4 +1,4 @@
-- 
+-
     title: Platinum Sponsors
     sponsors:
     - name: Spriggy
@@ -6,15 +6,15 @@
       link: spriggy.com.au
       href: https://www.spriggy.com.au
       twitter: spriggyofficial
-      blurb: | 
+      blurb: |
         Spriggy is a rapidly growing Australian start-up, based in Sydney.
         Spriggy is on a mission to educate kids about money in an increasingly cashless
         society, to help prepare them for the future and deliver real value to
-        families. 
+        families.
         <br><br>
         Established in 2016 by co-founders Mario Hasanakos and Alex Badran,
         more than 250,000 Aussie members have already chosen Spriggy to teach kids to
-        make better decisions with their own money. 
+        make better decisions with their own money.
         <br><br>
         A multi-award winning Australian fintech startup, Spriggy has been
         featured on the H2 Ventures / KPMG Fintech 100 Emerging Star list among
@@ -24,7 +24,7 @@
         <br><br>
         We love Python. Our platform has been developed in Python from day one
         and we are proud to have the opportunity of supporting PyCon AU and the Python
-        community. 
+        community.
         <br><br>
         If you would like to talk to us about the challenges we've faced and
         overcome in our journey to date, come and find us at the conference!
@@ -41,20 +41,20 @@
       logo: wsp.png
       twitter: WSP_ANZ
       link: wspdigital.com
-      href: https://www.wspdigital.com/ 
+      href: https://www.wspdigital.com/
       blurb: |
         WSP Digital is the software engineering division of WSP, a publicly listed
         global consulting engineering company with over 50,000 employees in more than
         50 countries. We work with WSP's other engineering disciplines and directly
         with customers to deliver custom web and mobile applications, systems
-        integration and IoT implementations. 
+        integration and IoT implementations.
         <br><br>
         Python has been our language of choice for over 7 years - in that time we've
         deployed Python code for clients including VicRoads, Qantas, Myer, Coles,
         Telstra, BOC, State and Federal Government departments and many others. We have
         active projects using Django, Twisted, Celery, Channels, Pandas and many other
         open source tools from the Python community, so we're very happy to have this
-        opportunity to make a small contribution in return. 
+        opportunity to make a small contribution in return.
         <br><br>
         Our team is made up of 40 software engineers, business analysts, test engineers
         and project managers, including a number of interns and graduates. We take
@@ -70,7 +70,7 @@
       logo: psf.png
       href: https://www.python.org/psf/
       colspan: 12
-      blurb: | 
+      blurb: |
         The mission of the Python Software Foundation is to promote, protect, and
         advance the Python programming language, and to support and facilitate the
         growth of a diverse and international community of Python programmers. The
@@ -87,8 +87,8 @@
   sponsors:
     - name: AWS
       logo: aws.png
-      link: bit.ly/AMZN_PyConAU 
-      href: http://bit.ly/AMZN_PyConAU 
+      link: bit.ly/AMZN_PyConAU
+      href: http://bit.ly/AMZN_PyConAU
       blurb: |
         Amazon Web Services is the earth’s most customer centric company.  In Sydney,
         we have sizeable software and networking engineering teams, owning global
@@ -107,7 +107,7 @@
       twitter: Rokt
       link: rokt.com
       href: https://rokt.com/engineering-blog/
-      blurb: | 
+      blurb: |
         Rokt is a global technology company whose core mission is to make the
         e-commerce transaction smarter by optimizing the checkout for each individual
         across products, UX and campaigns. Rokt's algorithmic engine powers product
@@ -129,7 +129,7 @@
         we are proud to support PyCon AU and the broader Python community.  <br><br>Interested
         in Python jobs? Check out: <a href="https://tinyurl.com/pyfbjobs2019">https://tinyurl.com/pyfbjobs2019</a>
 
-- 
+-
     title: Sponsors
     sponsors:
     - name: Grok Learning
@@ -191,7 +191,7 @@
       logo: kmo.png
       link: kmo.com.au
       href: https://www.kmo.com.au/
-      blurb: | 
+      blurb: |
         kmo is web design and development company providing innovative solutions to our
         customers' business needs. We work extensively in developing systems for
         integrating customer's line of business software with their online presence.
@@ -211,7 +211,7 @@
       link: elastic.co
       twitter: elastic
       href: https://www.elastic.co/
-      blurb: | 
+      blurb: |
         Elastic is a search company. As the creators of the Elastic Stack
         (Elasticsearch, Kibana, Beats, and Logstash), Elastic builds self-managed and
         SaaS offerings that make data usable in real time and at scale for search,
@@ -228,7 +228,7 @@
       link: groupeonepoint.com
       href: https://www.groupeonepoint.com/en/
       twitter: onepoint
-      blurb: | 
+      blurb: |
         onepoint is a global consulting organization that breaks away from the traditional players. We believe in a human-centered innovation. From management advisory to tech delivery, we foster multi-disciplinary teams with a high degree of collaboration and autonomy. <br><br>As market leader in data-driven and design centric software solutions, we believe Python skills are paramount. We recently landed in Australia and recruit the best talents attracted by an employee-first culture.<br><BR>Come and join the 2,300 authentic people of onepoint.
 
     - name: yubico
@@ -260,7 +260,7 @@
       href: https://auth0.com
       logo: auth0.png
       twitter: auth0
-      blurb: | 
+      blurb: |
         Auth0 is a global leader in Identity-as-a-Service (IDaaS) and provides
         thousands of enterprise customers with a Universal Identity Platform for their
         web, mobile, IoT, and internal applications, securing more than 2.5B logins per
@@ -276,7 +276,7 @@
       href: https://www.ictensw.org.au/
       twitter: ictensw
       logo: ictensw.png
-      blurb: | 
+      blurb: |
         ICTENSW is a professional assosication for ICT and Computing Educators
         in NSW.  We provide Professional Development, Resources & Networking
         for all our members. We hold regular workshop events and an annual
@@ -289,7 +289,7 @@
       href: https://planetinnovation.com/about/careers/
       twitter: planetinnovate
       logo: planet-innovation.png
-      blurb: | 
+      blurb: |
         Planet Innovation is a HealthTech Innovation and Commercialization company. We
         exist to create breakthrough products and commercially successful businesses
         that transform industries and have a positive impact on the world. We develop
@@ -300,25 +300,25 @@
         software? Our team is at PyCon Australia - <a
         href="https://planetinnovation.com/about/careers/">let's talk!</a>
 
-     
+
     - name: Data61
       twitter: Data61news
       logo: Data61CSIRO.png
       link: data61.csiro.au
-      href: https://data61.csiro.au/ 
-      blurb: | 
+      href: https://data61.csiro.au/
+      blurb: |
         CSIRO’s Data61 is Australia’s data innovation network that transforms existing
         industries and creates new ones through the application of science and
         technology. As an applied R&D partner, Data61’s capabilities range from
         cybersecurity, privacy preserving technologies, artificial intelligence and
         machine learning, robotics and autonomous systems, data driven infrastructure
-        and blockchain and more. 
+        and blockchain and more.
 
     - name: HENNGE
       logo: hennge.png
-      link: hennge.com 
+      link: hennge.com
       href: https://hennge.com/global/
-      blurb: | 
+      blurb: |
         Greetings from HENNGE, one of the first Japanese IT ventures based in Tokyo,
         Japan. Owning over 73% market share in the whole of Japan, HENNGE is the #1
         cloud-based security provider. We've keenly presented ourselves in the global
@@ -328,19 +328,45 @@
         data) to join our team in Tokyo.
 
 
-- 
+    - name: Medius Health
+      logo: mediushealth.png
+      link: mediushealth.org
+      href: https://mediushealth.org/
+      blurb: |
+        At Medius Health we're building a world where the right to quality
+        healthcare for everyone is realised through the potential of AI.
+        <br><br>
+        We make accessing primary healthcare faster, more convenient, accurate &
+        consistent. Our technology alleviates cognitive bias, reduces
+        administrative burden & elevates practitioners to focus to truly
+        personal healthcare.
+        <br><br>
+        We have an international focus to maximise our positive impact on health
+        systems & under-serviced communities around the world.
+        <br><br>
+        Could you play a key role in our mission? Let's chat about what you can
+        bring to our team and the exciting & interesting challenges we can
+        explore together: <a href="https://mediushealth.org/careers/">
+        https://mediushealth.org/careers/</a> & <a href="https://www.quro.ai">
+        https://www.quro.ai</a>
+
+
+
+
+
+-
   title: Auspice
-  sponsors: 
+  sponsors:
     - name: Linux Australia
       logo: LinuxAustralia.png
       twitter: linuxaustralia
       colspan: 12
       link: linux.org.au
       href: https://linux.org.au
-      blurb: | 
+      blurb: |
           Linux Australia is the peak body of Open Source communities in
           Australia. Linux Australia represents approximately 5000 Australian users and
           developers of Free Software and Open Technologies, and facilitates
           internationally-renowned events including linux.conf.au – Australasia’s
           grassroots Free and Open Source Software Conference. <br><br>PyCon AU 2019 is
-          run under the auspice of Linux Australia. 
+          run under the auspice of Linux Australia.
