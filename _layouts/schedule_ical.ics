@@ -1,0 +1,29 @@
+{% capture newline %}
+{% endcapture -%}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//2019.pycon-au.org/schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:PyCon AU 2019
+X-WR-TIMEZONE:Australia/Sydney
+{%- for day in site.data.schedule -%}
+{%- assign dayloop = forloop -%}
+{%- for time_slot in day.timeslots -%}
+{%- assign talk = null -%}
+{%- for talk_id in time_slot.talkIds -%}
+{%- assign track = site.data.schedule[dayloop.index0].tracks[forloop.index0] -%}
+{%- for session in site.talks %}{% if talk_id == session.talkid and session.service == null %}{% assign talk = session %}{% endif -%}{% endfor -%}
+{%- if talk == null or talk_id == 404 or talk_id == 403 or talk.type == "sprints" %}{% continue %}{% endif %}
+{%- assign endTime = time_slot.endTime %}
+{%- if talk.endTime %}{% assign endTime = talk.endTime %}{%endif%}
+BEGIN:VEVENT
+SUMMARY:{{ talk.title | strip | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: ",", "\\," }}
+DTSTART;TZID=Australia/Sydney:{{ day.date | replace: "-", "" }}T{{ time_slot.startTime | replace: ":", "" }}00
+DTEND;TZID=Australia/Sydney:{{ day.date | replace: "-", "" }}T{{ endTime | replace: ":", "" }}00
+UID:{{ talk_id }}@2019.pycon-au.org
+DESCRIPTION:{{ talk.abstract | strip | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: ",", "\\," }}
+LOCATION:{{ track.title }}
+URL:https://2019.pycon-au.org{{ talk.url }}
+END:VEVENT{% endfor %}{% endfor %}{% endfor %}
+END:VCALENDAR
