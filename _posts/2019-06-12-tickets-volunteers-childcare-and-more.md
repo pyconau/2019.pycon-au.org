@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tickets, schedule, childcare, and calling for volunteers!
-card: tickets.png
+card: tickets-closed.png
 ---
 
 PyCon AU 2019 is happy to announce: 

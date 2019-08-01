@@ -27,5 +27,3 @@ abstract: |
 
 <hr>
 
-<p align="center">The Science and Data Specialist Track is seeking a Track Sponsor to help make their event happen.<br>Is that you? <a href="/news/call-for-sponsorship/">Get in touch!</a></p>
-

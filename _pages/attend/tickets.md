@@ -4,12 +4,11 @@ title: Tickets
 snake: rainbow
 permalink: /attend/tickets/
 description: Purchase your PyCon AU 2019 ticket today!
-card: tickets.png
+card: tickets-closed.png
 sponsors: true
 ---
 <script src='https://js.tito.io/v1' async></script>
-
-<hr><span class="abstract">Tickets can be purchased below in the widget, or <a href="https://ti.to/pycon-au/2019">in a new window.</a><br>Shirt availability for attendees registering after July 10 cannot be guarenteed.<br>Please check out <a href="/attend/ticket-tiers">our ticket tiers and what they mean</a>, if you're not sure which tickets you should choose.
+{% include tickets-now.html %}
 <hr>
 
 <tito-widget event="pycon-au/2019"></tito-widget>

@@ -1,0 +1,29 @@
+---
+layout: page
+title: Session Chairs
+snake: rainbow
+permalink: /session-chairs/
+---
+
+<hr>
+<span class="abstract">Want to help PyCon AU happen and introduce some of our speakers? Sign up to be a session chair!</span>
+<hr>
+
+
+## What's involved in being a session chair?
+
+Being a session chair is a great way to get involved in the conference. It involves:
+
+ * Introducing three delightful speakers in a series of talks in a room
+ * Holding up time cards to let the speakers know they have 5, 2, 1 minute remaining
+ * Helping facilitate Q&A, if the speaker wants questions after their talk
+
+There will be a full session chair briefing at the beginning of mornign tea on Saturday morning where we'll share full details on how to be a session chair.
+
+
+## How do I sign up?
+We have an open spreadsheet where you can put your name down to be a session chair. Simply add your name and come to the session chair briefing at the beginning of morning tea on Saturday morning.
+
+Visit the [session chair schedule](https://docs.google.com/spreadsheets/d/1eG7CiaeMPx960LxNyG35hBAOOcMzQwYEH3MKuYs-Sfg/edit#gid=0) and sign up now!
+
+Thank you for helping make PyCon AU happen!

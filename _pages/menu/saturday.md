@@ -6,11 +6,11 @@ snake: rainbow
 permalink: /menu/saturday
 ---
 
-{% assign mealid = "501" %}
+{% assign mealid = "501b" %}
 {% include meal-insert.html %}
 
 {% assign mealid = "512" %}
 {% include meal-insert.html %}
 
-{% assign mealid = "503" %}
+{% assign mealid = "503b" %}
 {% include meal-insert.html %}
