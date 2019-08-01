@@ -30,6 +30,7 @@
         "name": "{{ talk.title | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
         "abstract": "{{ talk.abstract | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
         "released": {% if talk.recordingconsent == true %}true{% else %}false{% endif %},
+        "license": "CC BY-NC-SA 4.0",
         "authors": [
           {% for speaker in talk.speakers %}"{{ speaker.name  | replace: '"', '\\"'}}"{% if forloop.last == false %},
           {% endif %}{% endfor %}
