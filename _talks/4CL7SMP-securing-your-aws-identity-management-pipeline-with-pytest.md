@@ -13,6 +13,7 @@ speakers:
     of 6 years to the wonderful land of Sydney. I have a lifelong love for automation,
     woodworking and Python. I am a co-host of the local Sydney Python group. He/Him/They.
   name: Sean Johnson
+  twitter: seansonbronson
 
 abstract: | 
       Amazon's Identity and Access Management is a risky needle to thread when it comes to deploying into the cloud, especially when it comes to empowering your developers to make their own changes. In this talk I will be showing how to leverage PyTest to test your policies before they hit production.
