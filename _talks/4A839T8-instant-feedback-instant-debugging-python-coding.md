@@ -15,6 +15,7 @@ speakers:
     Some say his ideas cannot be truly explained, only experienced. But he'll try\
     \ to explain anyway, with slides."
   name: Robert Lechte
+  twitter: djrobstep
 
 abstract: | 
       Building on Bret Victor's famous 'Inventing on Principle' presentation, we look at writing Python where the code is instantly run and every line visualized after every single keystroke. There's a future beyond the text-editor -> console-run loop and this is a taste of it.
