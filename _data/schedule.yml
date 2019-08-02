@@ -134,7 +134,7 @@
     - {
         startTime: "14:10",
         endTime:   "14:40",
-        talkIds: [404, "GRZULZ", "WWU8SK", 403]
+        talkIds: ["GRZULZ", 404, "WWU8SK", 403]
     }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]}
     - {
