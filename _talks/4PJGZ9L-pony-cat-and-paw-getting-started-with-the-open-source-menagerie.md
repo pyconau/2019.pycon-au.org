@@ -17,6 +17,7 @@ speakers:
     enjoys making the process easier for others.'
   avatar: tobias-kunze.png
   name: Tobias Kunze
+  twitter: rixxtr
 
 abstract: | 
       The way to your first open source pull request leads through many implicit conventions and tools you're expected to learn. Let's look at what you'll need for your first Django contribution, where to find help, and what challenges you're likely to encounter.
