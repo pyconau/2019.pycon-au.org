@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: FGE3WS
 title: Stealing Chrome cookies without a password
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:

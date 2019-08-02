@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: ZVHC7D
 title: You don't always need NumPy
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

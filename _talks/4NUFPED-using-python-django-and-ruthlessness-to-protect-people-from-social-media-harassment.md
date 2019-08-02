@@ -6,6 +6,7 @@ talkid: NUFPED
 title: Using Python, Django, and ruthlessness to protect people from social media
   harassment.
 track: django
+nicetrack: "DjangoCon AU"
 type: talk
 
 speakers:

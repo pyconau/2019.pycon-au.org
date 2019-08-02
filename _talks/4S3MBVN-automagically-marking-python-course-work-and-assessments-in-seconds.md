@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: S3MBVN
 title: Automagically marking Python course work and assessments in seconds!
 track: education
+nicetrack: "Education"
 type: talk
 
 speakers:

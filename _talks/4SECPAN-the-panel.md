@@ -4,6 +4,7 @@ talkid: SECPAN
 permalink: /talks/the-security-panel
 title: The Security Panel
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:

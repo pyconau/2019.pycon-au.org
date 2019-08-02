@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: RCYSDC
 title: 'cuDF: RAPIDS GPU-Accelerated Dataframe Library'
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

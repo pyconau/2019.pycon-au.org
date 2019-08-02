@@ -5,6 +5,7 @@ snake: rainbow
 card: security.png
 talkid: 1001
 track: security
+nicetrack: "Security and Privacy"
 title: Security and Privacy
 permalink: /security-and-privacy-track/
 

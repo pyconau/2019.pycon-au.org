@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: BLGSEJ
 title: Understanding GPUs
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

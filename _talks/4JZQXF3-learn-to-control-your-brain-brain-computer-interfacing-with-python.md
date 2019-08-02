@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: JZQXF3
 title: 'Learn to control your brain: Brain Computer Interfacing with Python'
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

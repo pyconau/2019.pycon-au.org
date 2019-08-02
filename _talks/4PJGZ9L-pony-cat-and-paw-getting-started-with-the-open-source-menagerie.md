@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: PJGZ9L
 title: 'Pony, Cat, and Paw: Getting Started with the Open Source Menagerie'
 track: django
+nicetrack: "DjangoCon AU"
 type: talk
 
 speakers:

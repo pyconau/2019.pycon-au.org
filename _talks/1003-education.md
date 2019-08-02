@@ -6,6 +6,7 @@ card: education.png
 
 type: track
 track: education
+nicetrack: "Education"
 title: Education Track
 permalink: /education-track/
 

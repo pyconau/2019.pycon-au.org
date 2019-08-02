@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: CL7SMP
 title: Securing your AWS Identity Management pipeline with PyTest
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:

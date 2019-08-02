@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: J3X8AZ
 title: 'Just Add Await: Retrofitting Async Into Django'
 track: django
+nicetrack: "DjangoCon AU"
 type: talk
 endTime: "15:20"
 

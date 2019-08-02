@@ -5,6 +5,7 @@ snake: rainbow
 card: django.png
 talkid: 1002
 track: django
+nicetrack: "DjangoCon AU"
 title: DjangoCon AU
 
 permalink: /djangoconau/

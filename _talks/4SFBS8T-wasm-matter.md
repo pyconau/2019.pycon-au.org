@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: SFBS8T
 title: WASM matter?
 track: django
+nicetrack: "DjangoCon AU"
 type: talk
 
 speakers:

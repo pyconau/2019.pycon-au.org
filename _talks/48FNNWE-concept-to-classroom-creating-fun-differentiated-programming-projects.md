@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: 8FNNWE
 title: 'Concept to Classroom: Creating fun differentiated programming projects'
 track: education
+nicetrack: "Education"
 type: talk
 
 speakers:
