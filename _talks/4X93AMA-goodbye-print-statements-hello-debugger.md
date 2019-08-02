@@ -15,6 +15,7 @@ speakers:
     HBO. In her spare time, she enjoys snowboarding, hiking, and tinkering with wearable
     electronics from her home base in Portland, OR.
   name: Nina Zakharenko
+  twitter: nnja
 
 abstract: | 
       Still debugging your code with print statements? Learn how to level up your ability to troubleshoot complex code situations by using the power of a fully-featured debugger in this talk aimed at all levels of programming ability.

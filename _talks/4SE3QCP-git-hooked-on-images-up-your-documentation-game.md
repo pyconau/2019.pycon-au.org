@@ -17,6 +17,7 @@ speakers:
     \ about how the web can be better for developers, she enjoys blogging and snuggling\
     \ as many cats as possible."
   name: Veronica Hanus
+  twitter: veronica_hanus
 
 abstract: | 
       *Can you remember the difference between two hex color values? Me neither!* Entering visual representations of recent-changes into version control makes review of past changes easier & speeds acclimation to a new web project. Join me for a review of current methods & how to choose the best for you!
