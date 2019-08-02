@@ -16,6 +16,7 @@ speakers:
     computers to tell other computers to build FAKE computers that run on DIFFERENT
     computers. [Website](https://tom.eastman.nz) [Twitter](https://twitter.com/tveastman)'
   name: Tom Eastman
+  twitter: tveastman
 
 abstract: | 
       In this talk, I present 'secateur', a tool for Twitter users to protect themselves from some forms of online harassment. I discuss using Python and Django to create tools that integrate with Twitter, use its APIs, and block lots of people (LOTS of people).

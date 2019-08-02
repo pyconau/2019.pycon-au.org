@@ -17,6 +17,7 @@ speakers:
     \ the outdoors.\n\nMatt helps run the [Melbourne MicroPython Meetup](http://melbournemicropythonmeetup.github.io/);\
     \ come along the next time you're in Melbourne!"
   name: Matt Trentini
+  twitter: matt_trentini
 
 abstract: | 
       MicroPython is a _fantastic_ environment for embedded development. But it _is_ an interpreted language; what happens when you hit performance limitations? Or want to use a new feature of your microcontroller? We'll look at how MicroPython can be _extended_ to add features and improve performance.
