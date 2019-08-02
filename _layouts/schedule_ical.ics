@@ -22,7 +22,7 @@ SUMMARY:{{ talk.title | strip | replace: "\\", "\\\\" | replace: newline, "\\n" 
 DTSTART;TZID=Australia/Sydney:{{ day.date | replace: "-", "" }}T{{ time_slot.startTime | replace: ":", "" }}00
 DTEND;TZID=Australia/Sydney:{{ day.date | replace: "-", "" }}T{{ endTime | replace: ":", "" }}00
 UID:{{ talk_id }}@2019.pycon-au.org
-DESCRIPTION:{{ talk.abstract | strip | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: ",", "\\," }}
+DESCRIPTION:Speaker: {{ talk.speakers | map: "name" | join: " and " }}\n\n{{ talk.abstract | strip | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: ",", "\\," }}
 LOCATION:{{ track.title }}
 URL:https://2019.pycon-au.org{{ talk.url }}
 END:VEVENT{% endfor %}{% endfor %}{% endfor %}
