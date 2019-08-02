@@ -3,7 +3,7 @@ layout: talk
 permalink: /talks/how-i-migrated-a-huge-oss-project-to-use-pytest
 recordingconsent: true
 talkid: NBECJ9
-title: How I migrated a huge OSS project to use pytest
+title: How I auto-refactored a huge OSS project to use pytest
 track: general
 type: talk
 
