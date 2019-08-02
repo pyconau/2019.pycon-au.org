@@ -15,6 +15,7 @@ speakers:
     conferences. Markus has been a project lead at the German ubuntuusers.de community
     support platform where he discovered Python and Django in 2010.
   name: Markus Holtermann
+  twitter: m_holtermann
 
 abstract: | 
       We build services, potentially used by thousands or even millions of people. And despite all the testing we do, some interactions with these services will not work out the way we hope. Wouldn’t it be great to reconstruct what let to a problem and analyze if the problem occurred at other times?
