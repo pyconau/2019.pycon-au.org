@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: RTVHJX
 title: Opening Doors with JSON Web Tokens
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:

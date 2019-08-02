@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: 7MHNEL
 title: Safely eval Python syntax using the AST module
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:

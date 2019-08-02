@@ -6,6 +6,7 @@ talkid: MBT77Q
 title: Not a long time ago, in a galaxy not very far away, an astronomer and a computer
   scientist walk into a bar...
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

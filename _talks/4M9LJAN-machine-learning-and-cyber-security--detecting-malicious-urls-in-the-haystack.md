@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: M9LJAN
 title: Machine Learning and Cyber Security - Detecting malicious URLs in the haystack
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

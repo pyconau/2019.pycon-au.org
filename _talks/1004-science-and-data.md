@@ -6,6 +6,7 @@ card: sciencedata.png
 talkid: 1004
 title: Science and Data
 track: science
+nicetrack: "Science and Data"
 
 permalink: /science-and-data-track/
 

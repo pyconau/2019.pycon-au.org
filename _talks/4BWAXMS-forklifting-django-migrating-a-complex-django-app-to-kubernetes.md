@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: BWAXMS
 title: 'Forklifting Django: Migrating A Complex Django App To Kubernetes'
 track: django
+nicetrack: "DjangoCon AU"
 type: talk
 
 speakers:

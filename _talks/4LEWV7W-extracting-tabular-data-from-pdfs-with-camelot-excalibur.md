@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: LEWV7W
 title: Extracting tabular data from PDFs with Camelot & Excalibur
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

@@ -6,6 +6,7 @@ talkid: 9ERQGP
 title: 'How to get everyone to get on board with software security: practical tips
   and suggestions.'
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:

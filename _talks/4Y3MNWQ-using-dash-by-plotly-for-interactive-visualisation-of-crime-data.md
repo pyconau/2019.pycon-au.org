@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: Y3MNWQ
 title: Using Dash by Plotly for Interactive Visualisation of Crime Data
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

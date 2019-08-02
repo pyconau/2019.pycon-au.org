@@ -6,6 +6,7 @@ talkid: LXUD9B
 title: Building, designing, teaching and training simulation environments for Machine
   Learning
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: DCAUIS
 title: Rust's Recipes for Code and Community
 track: django
+nicetrack: "DjangoCon AU"
 type: talk
 
 speakers:

@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: UBBRK7
 title: 3D Rendering with Python
 track: education
+nicetrack: "Education"
 type: talk
 
 speakers:
