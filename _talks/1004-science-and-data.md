@@ -4,7 +4,7 @@ snake: rainbow
 type: track
 card: sciencedata.png
 talkid: 1004
-title: Science and Data (moved to Cockle Bay)
+title: Science and Data (moved to Cockle Bay after lunch)
 track: science
 
 permalink: /science-and-data-track/

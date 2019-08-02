@@ -6,7 +6,7 @@ card: security.png
 
 talkid: 1001
 track: security
-title: Security and Privacy (moved to C3.6)
+title: Security and Privacy (moved to C3.6 after lunch)
 permalink: /security-and-privacy-track/
 
 speakers: 
