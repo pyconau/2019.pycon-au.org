@@ -37,7 +37,11 @@
         endTime: "12:20",
         talkIds: ['CL7SMP', 'BWAXMS', 'JWBHBZ', "LXUD9B"]
       }
-    - { startTime: "12:20", endTime: "13:30", talkIds: [511]} #lunch
+    - { startTime: "12:20", endTime: "13:29", talkIds: [511]} #lunch
+    - { startTime: "13:29",
+        endTime: "13:30",
+        talkIds: [1004, 1002, 1003, 1001]
+      }
     - { startTime: "13:30",
         endTime: "14:00",
         talkIds: ["MKRZ9F", 'SFBS8T', '8FNNWE', "FGE3WS"]
