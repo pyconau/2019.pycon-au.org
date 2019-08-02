@@ -40,7 +40,7 @@
     - { startTime: "12:20", endTime: "13:29", talkIds: [511]} #lunch
     - { startTime: "13:29",
         endTime: "13:30",
-        talkIds: [1004, 1002, 1003, 1001]
+        talkIds: [1104, 1102, 1103, 1101]
       }
     - { startTime: "13:30",
         endTime: "14:00",
