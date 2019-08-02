@@ -40,32 +40,32 @@
     - { startTime: "12:20", endTime: "13:30", talkIds: [511]} #lunch
     - { startTime: "13:30",
         endTime: "14:00",
-        talkIds: ["FGE3WS", 'SFBS8T', '8FNNWE', "MKRZ9F"]
+        talkIds: ["MKRZ9F", 'SFBS8T', '8FNNWE', "FGE3WS"]
       }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504]} # changeover
     - { startTime: "14:10",
         endTime: "14:40",
-        talkIds: ["AHCQT7", 'J3X8AZ', "R7NF9H", "RCYSDC"]
+        talkIds: ["RCYSDC", 'J3X8AZ', "R7NF9H", "AHCQT7"]
       }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504, 403, 505, 505]} # changeover
     - { startTime: "14:50",
         endTime: "15:20",
-        talkIds: ["AMPANU", 403, "UBBRK7", "BLGSEJ"]
+        talkIds: ["BLGSEJ", 403, "UBBRK7", "AMPANU"]
       }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503a]} # afternoon Tea
     - { startTime: "16:00",
         endTime: "16:30",
-        talkIds: ["EMJZ9E", 'PJGZ9L', 998, "MBT77Q"]
+        talkIds: ["MBT77Q", 'PJGZ9L', 998, "EMJZ9E"]
       }
     - { startTime: "16:30", endTime: "16:40", talkIds: [504,505, 403,505]} # changeover
     - { startTime: "16:40",
         endTime: "17:10",
-        talkIds: ["9ERQGP", 'YGFCQN', 403, "JZQXF3"]
+        talkIds: ["JZQXF3", 'YGFCQN', 403, "9ERQGP"]
       }
     - { startTime: "17:10", endTime: "17:20", talkIds: [504,505,403,505]} # changeover
     - { startTime: "17:20",
         endTime: "17:50",
-        talkIds: ["SECPAN", "NUFPED", 403, "M9LJAN"]
+        talkIds: ["M9LJAN", "NUFPED", 403, "SECPAN"]
       }
     - { startTime: "17:50",
         endTime: "17:59",
