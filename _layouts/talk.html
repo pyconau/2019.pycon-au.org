@@ -13,7 +13,7 @@ snake: rainbow
         {% if talk == page.talkid %}
             {% assign track = day.tracks[forloop.index0].track %}
             {% assign room = day.tracks[forloop.index0].title %}
-            <a href="/schedule/{{dayName}}#timeslot-{{timeslot_index}}">{{ day.dateReadable }},{%if track %} {{track}} Track,{%endif%} {{room}}, {{ timeslot.startTime }} {{ site.timezone }}</a><br>
+            <a href="/schedule/{{dayName}}#timeslot-{{timeslot_index}}">{{ day.dateReadable }},{%if page.nicetrack %} {{page.nicetrack}} Track,{%endif%} {{room}}, {{ timeslot.startTime }} {{ site.timezone }}</a><br>
             {% break %}
         {% endif %}
       {%- endfor -%}

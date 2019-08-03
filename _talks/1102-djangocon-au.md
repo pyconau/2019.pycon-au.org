@@ -3,7 +3,7 @@ layout: talk
 type: track
 snake: rainbow
 card: django.png
-talkid: 1002
+talkid: 1102
 track: django
 nicetrack: "DjangoCon AU"
 title: DjangoCon AU

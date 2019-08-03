@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: EMJZ9E
 title: Threat Modeling the Death Star
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:

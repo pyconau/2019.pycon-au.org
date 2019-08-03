@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: DFNNFY
 title: Web Accessibility In Django
 track: django
+nicetrack: "DjangoCon AU"
 type: talk
 
 speakers:

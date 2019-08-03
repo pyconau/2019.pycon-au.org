@@ -164,9 +164,13 @@ hr {
 
 .border-general   { border-color: #00B159; } 
 .border-science   { border-color: #5B57A5; }
+.slug-science   { color: #5B57A5 !important; }
 .border-security  { border-color: #FFC518; }
+.slug-security  { color: #FFC518 !important; }
 .border-django    { border-color: #F36F3A; }
+.slug-django    { color: #F36F3A !important; }
 .border-education { border-color: #E01D43; }
+.slug-education { color: #E01D43 !important; }
 .border-deepdive  { border-color: #000000; }
 
 /* Brand Green  == 00B159

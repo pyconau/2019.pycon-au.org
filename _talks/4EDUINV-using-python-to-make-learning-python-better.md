@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: EDUINV
 title: Using Python to make learning Python better
 track: education
+nicetrack: "Education"
 type: talk
 endtime: "10:00"
 

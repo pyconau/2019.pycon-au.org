@@ -30,11 +30,12 @@
         "name": "{{ talk.title | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
         "abstract": "{{ talk.abstract | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
         "released": {% if talk.recordingconsent == true %}true{% else %}false{% endif %},
+        "license": "CC BY-NC-SA 4.0",
         "authors": [
           {% for speaker in talk.speakers %}"{{ speaker.name  | replace: '"', '\\"'}}"{% if forloop.last == false %},
           {% endif %}{% endfor %}
         ],
-        "conf_url": "https://2018.pycon-au.org{{ talk.url }}",
+        "conf_url": "https://2019.pycon-au.org{{ talk.url }}",
         "cancelled": {% if talk.cancelled %}true{% else %}false{% endif %},
         "twitter_ids": [
           {% for speaker in talk.speakers %}"{{ speaker.twitter }}"{% if forloop.last == false %},

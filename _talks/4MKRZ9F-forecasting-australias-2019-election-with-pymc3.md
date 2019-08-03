@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: MKRZ9F
 title: Forecasting Australia's 2019 Election with PyMC3
 track: science
+nicetrack: "Science and Data"
 type: talk
 
 speakers:

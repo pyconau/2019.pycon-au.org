@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: YGFCQN
 title: The Unspeakable Horror of Discovering You Didn't Write Tests
 track: django
+nicetrack: "DjangoCon AU"
 type: talk
 
 speakers:

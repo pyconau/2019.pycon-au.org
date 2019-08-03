@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: DLKBSX
 title: Flying by the seat of our pants - our journey of teaching python using drones
 track: education
+nicetrack: "Education"
 type: talk
 
 speakers:

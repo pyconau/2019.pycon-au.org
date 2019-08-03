@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: AHCQT7
 title: Best Practices for Cryptography In Python
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:

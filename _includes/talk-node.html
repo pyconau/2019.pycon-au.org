@@ -4,7 +4,7 @@
         <h5>{{session.title}}</h5>
         {% if session.type == "keynote" %}<div class="speaker">Yet to be announced</div>{%endif%}
     {% else %}
-    <h5><a target="_blank" href="{{session.url}}" {% if session.type == "track" %} style="color: {{track.color}} !important"{%endif%}>{{ session.title }}</a></h5>
+    <h5><a target="_blank" href="{{session.url}}" {% if session.type == "track" %} class="slug-{{session.track}}" {%endif%}>{{ session.title }}</a></h5>
     {% if session.type == 'track' %}{% if session.description %}<div class="speaker">{{session.description}}</div>{%endif%}
     {% else %}
         <div class="speaker">
@@ -14,7 +14,7 @@
         </div>
     {% endif %}
     {% endif %}
-    <span class="d-lg-none">{% if track.track %}Track: {{track.track}}<br>{%endif%}Room: {{ track.title }}</span>
+    <span class="d-lg-none">{% if session.nicetrack %}Track: {{session.nicetrack}}<br>{%endif%}Room: {{ track.title }}</span>
     {% if session.track == "deepdive"" %}<span><b>Deep Dive Talk</b></span>{%endif%}
     <span class="d-lg-none">{% if session.endTime %}<span class="d-block"><b>Ends at {{ session.endTime }}</b></span>{%endif%}</span>
 </div>

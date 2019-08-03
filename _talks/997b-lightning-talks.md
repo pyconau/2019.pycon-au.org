@@ -7,7 +7,7 @@ permalink: /talks/sunday-lightning-talks
 recordingconsent: true
 hidefromlist: true
 speakers: 
-    - name: Lightning Talk Tzar
+    - name: Lightning Talk Czar
       company: Lightning Timer Inc. 
       url: http://lightningtimer.io/
       thumbnailUrl: lightning-talk.png

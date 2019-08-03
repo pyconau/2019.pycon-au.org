@@ -5,6 +5,7 @@ recordingconsent: true
 talkid: FJKHLM
 title: 'New Phone, Who Dis?: Human Authentication in the Digital Age'
 track: security
+nicetrack: "Security and Privacy"
 type: talk
 
 speakers:
@@ -15,6 +16,7 @@ speakers:
     \ apps to the Steam client. In his spare time he can often be observed roving\
     \ around Sydney trying to catch Pok\xE9mon."
   name: Yaakov Smith
+  twitter: yaakov_h
 
 abstract: | 
       When proving somebody’s identity, it’s usually an important matter and critical to get right. With digital licences springing up around the globe, including here in New South Wales, how can we be sure that the computer is telling the truth? Does digitising the process actually improve it?
