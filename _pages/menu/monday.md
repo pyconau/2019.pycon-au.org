@@ -6,8 +6,6 @@ snake: rainbow
 permalink: /menu/monday
 ---
 
-Monday is, at this stage, uncatered. 
+{% assign mealid = "999" %}
+{% include meal-insert.html %}
 
-
-
-We are looking for a [Development Sprints Sponsor](/sponsor/) to help cover the cost of catering for the Development Sprints
