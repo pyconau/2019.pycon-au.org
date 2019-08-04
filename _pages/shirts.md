@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Shirts
 snake: rainbow
 permalink: /shirts/
 card: 
