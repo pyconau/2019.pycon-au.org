@@ -4,7 +4,7 @@ talkid: 999
 title: Development Sprints
 type: sprints
 permalink: /sprints
-
+catered: true
 ---
 
 Development Sprints, also known as just 'sprints', are an unstructured session where attendees can work on projects with peers, hack on things, or see what others are working on.

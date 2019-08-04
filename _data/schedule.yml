@@ -244,7 +244,7 @@
     - {title: "C3.6"}
   timeslots:
     - { startTime: "08:00",
-        endTime: "17:59",
+        endTime: "16:00",
         talkIds: [404, 404, 999, 404]
     }
     - { startTime: "18:00", talkIds: [0] }
@@ -261,7 +261,7 @@
     - {title: "C3.6"}
   timeslots:
     - { startTime: "08:00",
-        endTime: "17:59",
+        endTime: "16:00",
         talkIds: [404, 404, 999, 404]
     }
     - { startTime: "18:00", talkIds: [0] }
