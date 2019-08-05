@@ -3,7 +3,7 @@ layout: talk
 permalink: /talks/extending-micropython-using-c-for-good
 recordingconsent: true
 talkid: E7QJ8D
-video_url: https://youtu.be/GX9Qk0Pgwnk
+video_url: https://youtu.be/fUb3Urw4H-E
 title: 'Extending MicroPython: Using C for good!'
 track: deepdive
 type: talk
