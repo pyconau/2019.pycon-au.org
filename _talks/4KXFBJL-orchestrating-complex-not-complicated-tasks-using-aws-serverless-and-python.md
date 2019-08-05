@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/orchestrating-complex-not-complicated-tasks-using-aws-serverless-and-python
 recordingconsent: true
 talkid: KXFBJL
+video_url: https://youtu.be/aTY9smYHfMw
 title: Orchestrating complex (not complicated) tasks using AWS serverless and Python
 track: general
 type: talk

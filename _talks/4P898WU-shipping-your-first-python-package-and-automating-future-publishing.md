@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/shipping-your-first-python-package-and-automating-future-publishing
 recordingconsent: true
 talkid: P898WU
+video_url: https://youtu.be/nietrteetKQ
 title: Shipping your first Python package and automating future publishing
 track: general
 type: talk

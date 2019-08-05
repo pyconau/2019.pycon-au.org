@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/you-might-not-need-gender
 recordingconsent: true
 talkid: WWU8SK
+video_url: https://youtu.be/Y-6in4NHFvM
 title: You might not need gender!
 track: general
 type: talk

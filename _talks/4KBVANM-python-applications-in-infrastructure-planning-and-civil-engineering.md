@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/python-applications-in-infrastructure-planning-and-civil-engineering
 recordingconsent: true
 talkid: KBVANM
+video_url: https://youtu.be/PdnHTM7BACA
 title: Python Applications in Infrastructure Planning and Civil Engineering
 track: general
 type: talk

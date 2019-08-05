@@ -2,6 +2,7 @@
 layout: talk
 type: talk
 talkid: 997a
+video_url: https://youtu.be/AJqcxEzRdSY
 title: Saturday Lightning Talks
 recordingconsent: true
 hidefromlist: true

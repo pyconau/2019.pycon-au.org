@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/no-time-to-idle-about-profiling-import-time-in-python
 recordingconsent: true
 talkid: SEGQBU
+video_url: https://youtu.be/dDSIzYVTC2I
 title: 'No time to idle about: Profiling import time in Python'
 track: general
 type: talk

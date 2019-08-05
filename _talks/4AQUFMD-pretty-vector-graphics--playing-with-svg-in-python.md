@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/pretty-vector-graphics--playing-with-svg-in-python
 recordingconsent: true
 talkid: AQUFMD
+video_url: https://youtu.be/Y-hQn4KQA70
 title: Pretty vector graphics - Playing with SVG in Python
 track: general
 type: talk

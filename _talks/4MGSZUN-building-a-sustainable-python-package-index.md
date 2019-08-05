@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/building-a-sustainable-python-package-index
 recordingconsent: true
 talkid: MGSZUN
+video_url: https://youtu.be/gcbNT3tLgUg
 title: Building a Sustainable Python Package Index
 track: general
 type: talk

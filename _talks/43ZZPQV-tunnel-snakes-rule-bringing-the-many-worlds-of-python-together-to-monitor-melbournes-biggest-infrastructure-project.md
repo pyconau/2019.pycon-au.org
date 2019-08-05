@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/tunnel-snakes-rule-bringing-the-many-worlds-of-python-together-to-monitor-melbournes-biggest-infrastructure-project
 recordingconsent: true
 talkid: 3ZZPQV
+video_url: https://youtu.be/aeZOVaULoNI
 title: Tunnel Snakes Rule! Bringing the many worlds of Python together to monitor
   Melbourne's biggest infrastructure project.
 track: general

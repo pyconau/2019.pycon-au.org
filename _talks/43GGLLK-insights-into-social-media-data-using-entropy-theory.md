@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/insights-into-social-media-data-using-entropy-theory
 recordingconsent: true
 talkid: 3GGLLK
+video_url: https://youtu.be/lW5ZJcrjYLw
 title: Insights into Social Media Data using Entropy Theory
 track: general
 type: talk

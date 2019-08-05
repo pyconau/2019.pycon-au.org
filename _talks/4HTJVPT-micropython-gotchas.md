@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/micropython-gotchas
 recordingconsent: true
 talkid: HTJVPT
+video_url: https://youtu.be/93ed-YyOWkc
 title: Micropython Gotchas
 track: general
 type: talk

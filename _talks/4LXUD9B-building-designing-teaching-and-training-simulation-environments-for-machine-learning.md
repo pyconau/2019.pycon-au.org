@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/building-designing-teaching-and-training-simulation-environments-for-machine-learning
 recordingconsent: true
 talkid: LXUD9B
+video_url: https://youtu.be/Urk_UlLqxaM
 title: Building, designing, teaching and training simulation environments for Machine
   Learning
 track: science

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/what-makes-microbits-different
 recordingconsent: true
 talkid: JWBHBZ
+video_url: https://youtu.be/ZEg0cLKwzF4
 title: What makes Micro:bits different?
 track: education
 nicetrack: "Education"

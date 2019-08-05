@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/opening-doors-with-json-web-tokens
 recordingconsent: true
 talkid: RTVHJX
+video_url: https://youtu.be/Lrp3l8yKOyY
 title: Opening Doors with JSON Web Tokens
 track: security
 nicetrack: "Security and Privacy"

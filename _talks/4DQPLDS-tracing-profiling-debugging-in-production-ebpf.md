@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/tracing-profiling-debugging-in-production-ebpf
 recordingconsent: true
 talkid: DQPLDS
+video_url: https://youtu.be/jXzEzmz-oag
 title: Tracing, Profiling & Debugging in Production (eBPF)
 track: general
 type: talk

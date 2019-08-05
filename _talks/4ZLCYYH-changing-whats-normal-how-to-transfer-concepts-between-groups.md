@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/changing-whats-normal-how-to-transfer-concepts-between-groups
 recordingconsent: true
 talkid: ZLCYYH
+video_url: https://youtu.be/f8GB0Nne4Jk
 title: "Changing what\u2019s normal: how to transfer concepts between groups"
 track: general
 type: talk

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/its-dark-and-my-lights-arent-working-an-asyncio-success-story
 recordingconsent: true
 talkid: KWHEJN
+video_url: https://youtu.be/grouP9QfdyA
 title: It's dark and my lights aren't working (an asyncio success story)
 track: general
 type: talk

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/securing-your-aws-identity-management-pipeline-with-pytest
 recordingconsent: true
 talkid: CL7SMP
+video_url: https://youtu.be/X2RM16AbbFM
 title: Securing your AWS Identity Management pipeline with PyTest
 track: security
 nicetrack: "Security and Privacy"

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/rust-s-recipes-for-code-and-community
 recordingconsent: true
 talkid: DCAUIS
+video_url: https://youtu.be/TW7PxyrCBR0
 title: Rust's Recipes for Code and Community
 track: django
 nicetrack: "DjangoCon AU"

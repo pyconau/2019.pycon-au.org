@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/python-oddities-explained
 recordingconsent: true
 talkid: FAAZW7
+video_url: https://youtu.be/4MCT4WLf7Ac
 title: Python Oddities Explained
 track: general
 type: talk

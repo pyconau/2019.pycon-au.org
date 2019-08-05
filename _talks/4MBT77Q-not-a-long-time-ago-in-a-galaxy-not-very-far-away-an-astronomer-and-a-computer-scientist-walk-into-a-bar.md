@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/not-a-long-time-ago-in-a-galaxy-not-very-far-away-an-astronomer-and-a-computer-scientist-walk-into-a-bar
 recordingconsent: true
 talkid: MBT77Q
+video_url: https://youtu.be/_-B5uLrlYYs
 title: Not a long time ago, in a galaxy not very far away, an astronomer and a computer
   scientist walk into a bar...
 track: science

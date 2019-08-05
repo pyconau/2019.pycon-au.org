@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/teaching-python-with-tiny-occult-pandas
 recordingconsent: true
 talkid: ZSMLN3
+video_url: https://youtu.be/TScIM6Vy1Qo
 title: Teaching Python with tiny, occult pandas
 track: general
 type: talk

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/flying-by-the-seat-of-our-pants--our-journey-of-teaching-python-using-drones
 recordingconsent: true
 talkid: DLKBSX
+video_url: https://youtu.be/71Xxsn-n6JI
 title: Flying by the seat of our pants - our journey of teaching python using drones
 track: education
 nicetrack: "Education"

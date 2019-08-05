@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/lessons-learned-building-python-microservices
 recordingconsent: true
 talkid: DLQHXY
+video_url: https://youtu.be/jxr3Aar58ig
 title: Lessons learned building Python microservices
 track: general
 type: talk

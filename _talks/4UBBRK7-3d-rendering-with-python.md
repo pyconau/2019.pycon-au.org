@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/3d-rendering-with-python
 recordingconsent: true
 talkid: UBBRK7
+video_url: https://youtu.be/3oAgsQji6m4
 title: 3D Rendering with Python
 track: education
 nicetrack: "Education"

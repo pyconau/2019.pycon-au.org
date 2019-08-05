@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/using-dash-by-plotly-for-interactive-visualisation-of-crime-data
 recordingconsent: true
 talkid: Y3MNWQ
+video_url: https://youtu.be/O1gvNeJlIs0
 title: Using Dash by Plotly for Interactive Visualisation of Crime Data
 track: science
 nicetrack: "Science and Data"

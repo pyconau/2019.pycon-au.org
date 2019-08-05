@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/forecasting-australias-2019-election-with-pymc3
 recordingconsent: true
 talkid: MKRZ9F
+video_url: https://youtu.be/26750rkV_Hs
 title: Forecasting Australia's 2019 Election with PyMC3
 track: science
 nicetrack: "Science and Data"

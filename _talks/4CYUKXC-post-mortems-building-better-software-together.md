@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/post-mortems-building-better-software-together
 recordingconsent: true
 talkid: CYUKXC
+video_url: https://youtu.be/0LzsHXJ8f4Q
 title: 'Post-mortems: Building better software together.'
 track: general
 type: talk

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/threat-modeling-the-death-star
 recordingconsent: true
 talkid: EMJZ9E
+video_url: https://youtu.be/kYD5OrzsvMI
 title: Threat Modeling the Death Star
 track: security
 nicetrack: "Security and Privacy"

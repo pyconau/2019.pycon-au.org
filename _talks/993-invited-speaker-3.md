@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/vicky
 talkid: 993
 type: keynote
+video_url: https://youtu.be/ErE3CyQj33E
 title: The real costs of Open Source Sustainability
 track: general
 card: vicky.png

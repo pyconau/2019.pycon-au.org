@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/environment-variables
 recordingconsent: true
 talkid: WGSGBD
+video_url: https://youtu.be/MJSorilDVY4
 title: "Environment Variables: how software impacts climate change"
 track: general
 type: talk

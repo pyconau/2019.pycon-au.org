@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/forklifting-django-migrating-a-complex-django-app-to-kubernetes
 recordingconsent: true
 talkid: BWAXMS
+video_url: https://youtu.be/7HQUInkb7Fo
 title: 'Forklifting Django: Migrating A Complex Django App To Kubernetes'
 track: django
 nicetrack: "DjangoCon AU"

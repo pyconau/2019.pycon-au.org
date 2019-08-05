@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/git-hooked-on-images-up-your-documentation-game
 recordingconsent: true
 talkid: SE3QCP
+video_url: https://youtu.be/alej-1P411A
 title: "\"Git hook[ed]\u201D on images & up your documentation game"
 track: general
 type: talk

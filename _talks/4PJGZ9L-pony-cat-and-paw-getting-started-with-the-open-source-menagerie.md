@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/pony-cat-and-paw-getting-started-with-the-open-source-menagerie
 recordingconsent: true
 talkid: PJGZ9L
+video_url: https://youtu.be/xlbxa3rw5cw
 title: 'Pony, Cat, and Paw: Getting Started with the Open Source Menagerie'
 track: django
 nicetrack: "DjangoCon AU"

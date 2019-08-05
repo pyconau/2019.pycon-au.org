@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/stealing-chrome-cookies-without-a-password
 recordingconsent: true
 talkid: FGE3WS
+video_url: https://youtu.be/BWAetsJqey0
 title: Stealing Chrome cookies without a password
 track: security
 nicetrack: "Security and Privacy"

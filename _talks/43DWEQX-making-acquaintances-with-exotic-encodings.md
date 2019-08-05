@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/making-acquaintances-with-exotic-encodings
 recordingconsent: true
 talkid: 3DWEQX
+video_url: https://youtu.be/RiP6F3CL47s
 title: Making Acquaintances with Exotic Encodings
 track: general
 type: talk

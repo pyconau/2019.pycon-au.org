@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/using-python-to-make-learning-python-better
 recordingconsent: true
 talkid: EDUINV
+video_url: https://youtu.be/SmGOeDmTf6M
 title: Using Python to make learning Python better
 track: education
 nicetrack: "Education"
