@@ -19,7 +19,7 @@ speakers:
     way, I have written Python applications for the likes of Fairfax Media, Woolworths,
     Westpac as well as several small startups. I contribute to many Python (and non-python)
     opensource projects including publishing several of my own modules, notably, Odin
-    and PyApp.
+    and [PyApp](https://docs.pyapp.info).
 
 
     Outside of programming, am a multi-instrumentalist, play drums in multiple bands
@@ -40,3 +40,5 @@ Main points:
 * Interpreting the generated syntax tree
 * Generating executable code that can be safely executed with `eval`
 * Why this is necessary or why eval/compile are not safe
+
+[Talk Slides](https://timsavage.github.io/pyconau2019/)
