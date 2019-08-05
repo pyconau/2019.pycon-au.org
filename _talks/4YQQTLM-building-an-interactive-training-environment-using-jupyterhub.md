@@ -3,7 +3,7 @@ layout: talk
 permalink: /talks/building-an-interactive-training-environment-using-jupyterhub
 recordingconsent: true
 talkid: YQQTLM
-video_url: https://youtu.be/0Tj1CIGJjcY
+video_url: https://youtu.be/iW4KpgaMzQg
 title: Building an interactive training environment using JupyterHub
 track: general
 type: talk

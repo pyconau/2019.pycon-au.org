@@ -3,7 +3,7 @@ layout: talk
 permalink: /talks/the-new-cobol
 recordingconsent: true
 talkid: BBDXBX
-video_url: https://youtu.be/-WSPUbr_XPE
+video_url: https://youtu.be/BCqGjGzWI48
 title: The New COBOL
 track: general
 type: talk
