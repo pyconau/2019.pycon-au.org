@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/new-phone-who-dis-human-authentication-in-the-digital-age
 recordingconsent: true
 talkid: FJKHLM
+video_url: https://youtu.be/oux3tI2V0sY
 title: 'New Phone, Who Dis?: Human Authentication in the Digital Age'
 track: security
 nicetrack: "Security and Privacy"

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/profiling-athogens-with-micro-python
 recordingconsent: true
 talkid: EQE799
+video_url: https://youtu.be/YovngSLXoxw
 title: Profiling Pathogens with (micro) Python
 track: general
 type: talk

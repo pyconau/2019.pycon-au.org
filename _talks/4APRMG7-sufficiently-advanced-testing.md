@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/sufficiently-advanced-testing
 recordingconsent: true
 talkid: APRMG7
+video_url: https://youtu.be/NT7Gg6MEbZk
 title: Sufficiently Advanced Testing
 track: deepdive
 type: talk

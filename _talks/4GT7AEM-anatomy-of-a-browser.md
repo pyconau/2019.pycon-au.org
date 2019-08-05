@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/anatomy-of-a-browser
 recordingconsent: true
 talkid: GT7AEM
+video_url: https://youtu.be/U-ijD_Jxp_Q
 title: Anatomy of a Browser
 track: general
 type: talk

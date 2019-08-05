@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/how-i-migrated-a-huge-oss-project-to-use-pytest
 recordingconsent: true
 talkid: NBECJ9
+video_url: https://youtu.be/SLbOWiz4KSs
 title: How I auto-refactored a huge OSS project to use pytest
 track: general
 type: talk

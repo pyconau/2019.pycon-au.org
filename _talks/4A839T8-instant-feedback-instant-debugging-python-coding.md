@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/instant-feedback-instant-debugging-python-coding
 recordingconsent: true
 talkid: A839T8
+video_url: https://youtu.be/jE2AbJ7U-GY
 title: Instant-feedback, instant-debugging Python coding
 track: general
 type: talk

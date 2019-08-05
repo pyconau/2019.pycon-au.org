@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/volumetric-performance-capture-and-playback-a-workflow-with-python
 recordingconsent: true
 talkid: 9YB3VE
+video_url: https://youtu.be/WVVk1Qctkx4
 title: 'Volumetric Performance Capture and Playback: A Workflow with Python'
 track: general
 type: talk

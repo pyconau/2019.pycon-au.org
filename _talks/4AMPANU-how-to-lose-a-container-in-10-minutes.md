@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/how-to-lose-a-container-in-10-minutes
 recordingconsent: true
 talkid: AMPANU
+video_url: https://youtu.be/cZgAGt8CCio
 title: How to lose a container in 10 minutes
 track: security
 nicetrack: "Security and Privacy"

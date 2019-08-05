@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/lets-build-a-symbolic-analyser-and-automatically-find-bugs
 recordingconsent: true
 talkid: UK8MSB
+video_url: https://youtu.be/xa5oFc7DLU0
 title: Let's Build a Symbolic Analyser And Automatically Find Bugs
 track: general
 type: talk

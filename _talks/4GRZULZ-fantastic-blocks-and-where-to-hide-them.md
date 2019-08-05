@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/fantastic-blocks-and-where-to-hide-them
 recordingconsent: true
 talkid: GRZULZ
+video_url: https://youtu.be/mBavPw0Kc0w
 title: Fantastic Blocks And Where To Hide Them
 track: general
 type: talk

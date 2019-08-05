@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/best-practices-for-cryptography-in-python
 recordingconsent: true
 talkid: AHCQT7
+video_url: https://youtu.be/HQ5lG-1-c3k
 title: Best Practices for Cryptography In Python
 track: security
 nicetrack: "Security and Privacy"

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/the-universe-as-balls-and-springs-molecular-dynamics-in-python
 recordingconsent: true
 talkid: JBAY39
+video_url: https://youtu.be/X5umNQDqfqQ
 title: 'The universe as balls and springs: molecular dynamics in Python'
 track: general
 type: talk

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/using-comedy-as-an-excuse-to-play-with-python-programmed-microcontrollers
 recordingconsent: true
 talkid: EAJAB8
+video_url: https://youtu.be/6Rv7S_74fck
 title: Using comedy as an excuse to play with python-programmed microcontrollers
 track: general
 type: talk

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/learn-to-control-your-brain-brain-computer-interfacing-with-python
 recordingconsent: true
 talkid: JZQXF3
+video_url: https://youtu.be/d6YJpZBx4X8
 title: 'Learn to control your brain: Brain Computer Interfacing with Python'
 track: science
 nicetrack: "Science and Data"

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/understanding-gpus
 recordingconsent: true
 talkid: BLGSEJ
+video_url: https://youtu.be/gitE4bVDoyA
 title: Understanding GPUs
 track: science
 nicetrack: "Science and Data"

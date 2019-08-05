@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/what-php-learned-from-python
 recordingconsent: true
 talkid: EQFWYK
+video_url: https://youtu.be/V9ZC2CwkE0I
 title: What PHP learned from Python
 track: general
 type: talk

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/extracting-tabular-data-from-pdfs-with-camelot-excalibur
 recordingconsent: true
 talkid: LEWV7W
+video_url: https://youtu.be/99A9Fz6uHAA
 title: Extracting tabular data from PDFs with Camelot & Excalibur
 track: science
 nicetrack: "Science and Data"

@@ -2,6 +2,7 @@
 layout: talk
 type: talk
 talkid: 997b
+video_url: https://youtu.be/q2VmIUaOS9o
 title: Sunday Lightning Talks
 permalink: /talks/sunday-lightning-talks
 recordingconsent: true

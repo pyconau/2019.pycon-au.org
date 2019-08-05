@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/web-accessibility-in-django
 recordingconsent: true
 talkid: DFNNFY
+video_url: https://youtu.be/8Wd9tBMif_4
 title: Web Accessibility In Django
 track: django
 nicetrack: "DjangoCon AU"

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/cudf-rapids-gpu-accelerated-dataframe-library
 recordingconsent: true
 talkid: RCYSDC
+video_url: https://youtu.be/lV7rtDW94do
 title: 'cuDF: RAPIDS GPU-Accelerated Dataframe Library'
 track: science
 nicetrack: "Science and Data"

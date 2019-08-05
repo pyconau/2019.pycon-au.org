@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/aurynn
 talkid: 991
 type: keynote
+video_url: https://youtu.be/2fAorT_bc1I
 title: Creating Lasting Change
 track: general
 card: aurynn.png

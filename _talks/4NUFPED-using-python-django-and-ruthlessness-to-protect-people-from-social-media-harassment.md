@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/using-python-django-and-ruthlessness-to-protect-people-from-social-media-harassment
 recordingconsent: true
 talkid: NUFPED
+video_url: https://youtu.be/kqafZiBoz9I
 title: Using Python, Django, and ruthlessness to protect people from social media
   harassment.
 track: django

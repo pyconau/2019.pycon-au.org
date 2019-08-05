@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/the-unspeakable-horror-of-discovering-you-didnt-write-tests
 recordingconsent: true
 talkid: YGFCQN
+video_url: https://youtu.be/QD9YlNoTm2c
 title: The Unspeakable Horror of Discovering You Didn't Write Tests
 track: django
 nicetrack: "DjangoCon AU"

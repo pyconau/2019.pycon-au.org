@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/goodbye-print-statements-hello-debugger
 recordingconsent: true
 talkid: X93AMA
+video_url: https://youtu.be/HHrVBKZLolg
 title: Goodbye Print Statements, Hello Debugger!
 track: general
 type: talk

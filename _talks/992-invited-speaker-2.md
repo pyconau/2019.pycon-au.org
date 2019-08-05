@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/brandon
 talkid: 992
 type: keynote
+video_url: https://youtu.be/Nd6vturx_yg
 title: The Antipodes
 track: general
 card: brandon.png

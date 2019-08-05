@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/logging-rethought-2-the-actions-of-frank-taylor-jr
 recordingconsent: true
 talkid: YTENRE
+video_url: https://youtu.be/SdfEsPEPOEg
 title: 'Logging Rethought 2: The Actions of Frank Taylor Jr.'
 track: general
 type: talk

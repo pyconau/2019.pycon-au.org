@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/devpi-for-teams
 recordingconsent: true
 talkid: LBESZF
+video_url: https://youtu.be/Df8u-KM3at0
 title: Devpi for teams
 track: general
 type: talk

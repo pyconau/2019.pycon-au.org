@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/concept-to-classroom-creating-fun-differentiated-programming-projects
 recordingconsent: true
 talkid: 8FNNWE
+video_url: https://youtu.be/M85YHRr5Ngg
 title: 'Concept to Classroom: Creating fun differentiated programming projects'
 track: education
 nicetrack: "Education"

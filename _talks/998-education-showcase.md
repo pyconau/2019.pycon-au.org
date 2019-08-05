@@ -2,6 +2,7 @@
 layout: talk
 talkid: 998
 length: 400px
+video_url: https://youtu.be/wcPKodGEe20
 title: Education Seminar Student Showcase
 endTime: "18:00"
 recordingconsent: true

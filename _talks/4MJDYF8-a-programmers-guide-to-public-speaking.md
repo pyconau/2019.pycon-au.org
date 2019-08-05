@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/a-programmers-guide-to-public-speaking
 recordingconsent: true
 talkid: MJDYF8
+video_url: https://youtu.be/0VI-mU5Jd8g
 title: A Programmer's Guide to Public Speaking
 track: general
 type: talk

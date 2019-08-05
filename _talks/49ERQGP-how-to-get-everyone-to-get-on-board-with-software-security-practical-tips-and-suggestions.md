@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/how-to-get-everyone-to-get-on-board-with-software-security-practical-tips-and-suggestions
 recordingconsent: true
 talkid: 9ERQGP
+video_url: https://youtu.be/RJcuUoqGWYw
 title: 'How to get everyone to get on board with software security: practical tips
   and suggestions.'
 track: security

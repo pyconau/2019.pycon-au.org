@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/when-software-and-law-are-the-same-thing
 recordingconsent: true
 talkid: NMYXGB
+video_url: https://youtu.be/_IUOgen7VjI
 title: When software and law are the same thing
 track: general
 type: talk

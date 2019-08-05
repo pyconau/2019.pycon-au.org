@@ -213,3 +213,16 @@ code { color: #00994D !important }
 }
 .callout a { color:white !important; text-decoration: underline;}
 .service-description { font-size: 78% }
+
+@media (min-width: 760px) {
+  .embed iframe {
+      height: 480px;
+      width: 640px;
+  }
+}
+
+@media (max-width: 760px) {
+  .embed iframe {
+      /*width: 100%;*/
+  }
+}

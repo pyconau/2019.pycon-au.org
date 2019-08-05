@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/machine-learning-and-cyber-security--detecting-malicious-urls-in-the-haystack
 recordingconsent: true
 talkid: M9LJAN
+video_url: https://youtu.be/ZhvlfNi-0aY
 title: Machine Learning and Cyber Security - Detecting malicious URLs in the haystack
 track: science
 nicetrack: "Science and Data"

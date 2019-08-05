@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/you-dont-always-need-numpy
 recordingconsent: true
 talkid: ZVHC7D
+video_url: https://youtu.be/qSug56Gwly0
 title: You don't always need NumPy
 track: science
 nicetrack: "Science and Data"

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/just-add-await-retrofitting-async-into-django
 recordingconsent: true
 talkid: J3X8AZ
+video_url: https://youtu.be/oMHrDy62kgE
 title: 'Just Add Await: Retrofitting Async Into Django'
 track: django
 nicetrack: "DjangoCon AU"

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/its-pythons-all-the-way-down-python-types-metaclasses-made-simple
 recordingconsent: true
 talkid: 7JGC7A
+video_url: https://youtu.be/ZpV3tel0xtQ
 title: 'It''s Pythons All The Way Down: Python Types & Metaclasses Made Simple'
 track: deepdive
 type: talk

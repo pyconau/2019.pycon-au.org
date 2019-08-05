@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/wasm-matter
 recordingconsent: true
 talkid: SFBS8T
+video_url: https://youtu.be/eJMT1aImS9Q
 title: WASM matter?
 track: django
 nicetrack: "DjangoCon AU"

@@ -3,6 +3,7 @@ layout: talk
 permalink: /talks/automagically-marking-python-course-work-and-assessments-in-seconds
 recordingconsent: true
 talkid: S3MBVN
+video_url: https://youtu.be/cGNRrTtufK4
 title: Automagically marking Python course work and assessments in seconds!
 track: education
 nicetrack: "Education"
