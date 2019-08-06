@@ -3,7 +3,6 @@ layout: talk
 permalink: /talks/what-not-to-do-and-how-to-do-it
 recordingconsent: true
 talkid: ZQMLTH
-video_url: https://youtu.be/1VQ4v0oWWz0
 title: What not to do, and how to do it
 track: general
 type: talk
