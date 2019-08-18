@@ -13,7 +13,7 @@ description: PyCon AU is the national conference for the Python Programming Comm
 <div class="row">
   <div class="col-8"><h4>Thank you for coming!</h4>
   <p>Thank you for joining us in Sydney for our tenth PyCon AU. </p>
-  <p>Please join us in <a href="http://2019.pycon-au.org/shirts">Adelaide in August 2020</a> for the next PyCon AU</p>
+  <p>Please join us in <a href="https://2020.pycon-au.org/">Adelaide in August 2020</a> for the next PyCon AU</p>
   <p>Want a PyCon AU 2019 shirt? Our <a href="http://2019.pycon-au.org/shirts">print-to-order shirt storefront</a> will be open until August 18 2019</p>
   </div>
   <div class="col-4"><img class="img-fluid"  src="{{site.url}}/static/img/stickers.png"></div>
