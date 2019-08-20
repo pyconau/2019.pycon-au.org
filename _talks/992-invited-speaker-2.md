@@ -16,8 +16,8 @@ speakers:
         Brandon Rhodes has used Python since 1997, because he was stubborn and preferred to use a beautiful language rather than one that anyone had ever heard of. He maintains a few open source amateur astronomy libraries like Skyfield and PyEphem, but is best known for his writing, speaking, and training about how the Python language can be used most effectively. He also loves digital typesetting, backpacking trips to the Grand Canyon, and the Oxford comma.
 
       tag: Invited Speaker
-abstract: Brandon will be speaking at PyCon AU about the antipodes
-description: Brandon will be speaking at PyCon AU about the antipodes
+abstract: Brandon spoke at PyCon AU about the antipodes
+description: Brandon spoke at PyCon AU about the antipodes
 ---
 
 <blockquote>

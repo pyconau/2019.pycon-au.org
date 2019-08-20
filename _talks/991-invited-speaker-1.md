@@ -20,7 +20,7 @@ speakers:
         deployments to massively parallel supercomputer environments. 
       tag: Invited Speaker
 abstract:  The Nature of Organisations, People, and how to Change Them
-description: "Aurynn will be speaking at PyCon AU about creating lasting change"
+description: "Aurynn spoke at PyCon AU about creating lasting change"
 ---
 
 What do we do, and why do we do it? In a world where DevOps and the Cloud demand new mentalities and modes of thinking from our technologies, we need to dive deeply into how people act in organisations, and the impact that this has on our ability to work and grow, and how to change things — for the better.
