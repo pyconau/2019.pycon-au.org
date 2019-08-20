@@ -5,7 +5,8 @@ snake: rainbow
 permalink: /shirts/
 card: 
 ---
-<meta http-equiv="refresh" content="0;URL='https://shop.spreadshirt.com.au/pyconau'" />
+<hr><span class="abstract">The print-to-order storefront has now been closed. </span>
+<hr>
 
-<a href="https://shop.spreadshirt.com.au/pyconau">Go to SpreadShirt</a>
+Thank you for your interest in PyCon AU 2019 shirts. This storefront was open until August 18 2019, but is now closed. 
 
