@@ -11,7 +11,6 @@ navigationLinks:
  - {permalink: '/about/', text: "About"}
  - {permalink: '/news/', text: "News"}
  - {permalink: '/attend/', text: "Attend"}
- - {permalink: '/attend/tickets/', text: "Tickets"}
  - {permalink: '/schedule/', text: "Schedule"}
  - {permalink: '/sponsor/', text: "Sponsor"}
  - {permalink: '/conduct/', text: "Conduct"}
