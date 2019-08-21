@@ -30,6 +30,7 @@ We value your participation and appreciate your help in realising this goal.
 If at any time during the conference you feel unsafe or want to report questionable behaviour, please contact a member of the safety team.
 
 #### Send SMS or Call: 0484 394 239
+Note: **number no longer monitored**, since the conference is now over.
 #### Email: [safety@2019.pycon-au.org](mailto:safety@2019.pycon-au.org)
 
 Find any volunteer or organiser (green lanyard or green bandana) who will direct you to one of the following people, who you can also message or email directly.
