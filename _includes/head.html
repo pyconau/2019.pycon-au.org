@@ -11,7 +11,7 @@
 
 <!-- Cards -->
 {% if page.type == "talk" %}
-{% capture title %}{% for speaker in page.speakers %}{% if forloop.index0 > 0 %} and {% endif %}{{ speaker.name }}{% endfor %} will be speaking at PyCon AU 2019{% endcapture %}
+{% capture title %}{% for speaker in page.speakers %}{% if forloop.index0 > 0 %} and {% endif %}{{ speaker.name }}{% endfor %} spoke at PyCon AU 2019{% endcapture %}
 {% else %}
 {% assign title = "PyCon AU 2019 | " | append: page.title %}
 {% endif%}
