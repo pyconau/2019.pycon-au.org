@@ -37,3 +37,5 @@ This talk is not a box of magic bullets; many techniques are still in academic p
 Using Hypothesis as a pure-Python case study, we'll cover the shocking power of "dumb fuzzing", some of the many ways to make it smarter, and why they might (or might not) help.  You'll learn how to construct randomized tests that check much more than 'does it crash', and are implausibly likely to find bugs 'randomly'.  I'll unveil the algorithms that Hypothesis uses to find minimal examples - and why it *doesn't* use some others. 
 
 And finally, we'll survey some of the exciting new techniques and applications of property-based testing in the Python ecosystem... including how you can join in!
+
+[*You can read the edited-and-hyperlinked transcript of this talk on Zac's website.*](https://zhd.dev/sufficiently/)
